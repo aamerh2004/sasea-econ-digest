@@ -50,10 +50,11 @@ def build_digest(date_str=None, quiet=False):
         for c in a["countries"]:
             per_country_count[c] = per_country_count.get(c, 0) + 1
 
-    # Top headlines are ranked by importance above; the per-country lists
-    # below read chronologically, newest first.
+    # `ranked` is already ordered by the blended relevance+recency score, so
+    # country lists lead with important recent reporting rather than with
+    # whatever happened to publish most recently.
     by_country = {c: [] for c in COUNTRY_ORDER}
-    for a in sorted(ranked, key=lambda x: -(x["published_ts"] or 0)):
+    for a in ranked:
         for c in a["countries"]:
             if c in by_country:
                 by_country[c].append(

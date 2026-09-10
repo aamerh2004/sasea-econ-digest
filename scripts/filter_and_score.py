@@ -18,6 +18,11 @@ NO_USABLE_SUMMARY_FEEDS = {"adb-news"}
 # window is not news, and an item with no date can't be verified as recent.
 MAX_ARTICLE_AGE_DAYS = 3
 
+# How much a brand-new story is worth relative to relevance. Tuned so that
+# recency breaks ties between comparable stories without letting a marginal
+# fresh item leap over genuinely important reporting from a day or two ago.
+RECENCY_WEIGHT = 25
+
 # Formats that are never useful in an economics digest, regardless of source.
 EXCLUDED_TITLE_PATTERNS = [
     "in pictures", "photo essay", "photos:", "in photos", "quiz", "crossword",
@@ -141,24 +146,20 @@ def filter_and_score(entries, keywords=None):
         # Cap the country-count bonus so a press release namechecking every
         # country in the region doesn't automatically outrank a specific,
         # single-country news story.
-        age_hours = (time.time() - e["published_ts"]) / 3600 if e.get("published_ts") else None
-        if age_hours is None:
-            recency_bonus = 0
-        elif age_hours <= 12:
-            recency_bonus = 6
-        elif age_hours <= 24:
-            recency_bonus = 3
-        elif age_hours <= 48:
-            recency_bonus = 1
-        else:
-            recency_bonus = 0
-
-        score = (
+        # Relevance and recency are blended into one score rather than being
+        # applied in sequence, so a strongly relevant story from two days ago
+        # still outranks a marginal one from this morning, while stories of
+        # similar relevance read newest-first.
+        relevance = (
             e.get("source_tier", 1) * 10
             + len(topic_hits) * 3
             + min(len(country_hits), 2) * 2
-            + recency_bonus
         )
+        age_hours = (time.time() - e["published_ts"]) / 3600
+        window_hours = MAX_ARTICLE_AGE_DAYS * 24
+        recency_points = max(0.0, 1.0 - age_hours / window_hours) * RECENCY_WEIGHT
+
+        score = relevance + recency_points
         # Stories that matched no economics term are carried for completeness
         # but must not outrank actual finance reporting in the headlines.
         if topic_waived:
