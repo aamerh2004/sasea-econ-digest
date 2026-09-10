@@ -30,9 +30,14 @@
 
 {% for country, articles in digest.by_country.items() if articles %}
 <section class="country-section">
-  <h2 class="country-heading">{{ country }}</h2>
+  <h2 class="country-heading">
+    {{ country }}
+    {% if article_limit and articles | length > article_limit %}
+    <a class="see-all" href="{{ root_prefix }}country/{{ country | lower }}.html">All {{ articles | length }} stories &rarr;</a>
+    {% endif %}
+  </h2>
   <div class="article-grid">
-    {% for a in articles %}
+    {% for a in (articles[:article_limit] if article_limit else articles) %}
     <article class="article-card">
       <div class="article-source">{{ a.source_name }}{% if a.published %} &middot; {{ a.published[:10] }}{% endif %}</div>
       <h3><a href="{{ a.link }}" target="_blank" rel="noopener">{{ a.title }}</a></h3>

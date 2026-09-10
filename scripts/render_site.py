@@ -17,6 +17,10 @@ DOCS_DIR = os.path.join(ROOT, "docs")
 
 FORMSPREE_ENDPOINT_FILE = os.path.join(ROOT, "data", "formspree_endpoint.txt")
 
+# The homepage shows only the strongest stories per country; the full list
+# for each country lives on its own page, reachable from the nav dropdown.
+HOMEPAGE_ARTICLES_PER_COUNTRY = 6
+
 
 def load_all_digests():
     digests = []
@@ -57,28 +61,61 @@ def render_site():
 
     os.makedirs(DOCS_DIR, exist_ok=True)
     os.makedirs(os.path.join(DOCS_DIR, "archive"), exist_ok=True)
+    os.makedirs(os.path.join(DOCS_DIR, "country"), exist_ok=True)
     os.makedirs(os.path.join(DOCS_DIR, "static"), exist_ok=True)
     shutil.copy(os.path.join(STATIC_DIR, "style.css"), os.path.join(DOCS_DIR, "static", "style.css"))
 
     endpoint = formspree_endpoint()
 
-    if digests:
-        latest = digests[0]
+    latest = digests[0] if digests else None
+    latest_brief = load_brief(latest["date"]) if latest else None
+
+    # The nav dropdown always reflects the most recent edition.
+    countries_nav = []
+    if latest:
+        countries_nav = [
+            {"country": c, "slug": c.lower(), "count": len(arts)}
+            for c, arts in latest["by_country"].items()
+            if arts
+        ]
+
+    if latest:
         html = env.get_template("index.html").render(
             digest=latest,
-            brief=load_brief(latest["date"]),
+            brief=latest_brief,
             today_label=today_label(latest["date"]),
+            countries_nav=countries_nav,
+            article_limit=HOMEPAGE_ARTICLES_PER_COUNTRY,
             root_prefix="",
             static_prefix="",
         )
         with open(os.path.join(DOCS_DIR, "index.html"), "w") as f:
             f.write(html)
 
+        brief_by_country = {}
+        if latest_brief:
+            for entry in latest_brief.get("countries", []):
+                brief_by_country[entry.get("country")] = entry.get("summary")
+
+        for country, articles in latest["by_country"].items():
+            html = env.get_template("country.html").render(
+                country=country,
+                articles=articles,
+                brief_summary=brief_by_country.get(country),
+                today_label=today_label(latest["date"]),
+                countries_nav=countries_nav,
+                root_prefix="../",
+                static_prefix="../",
+            )
+            with open(os.path.join(DOCS_DIR, "country", f"{country.lower()}.html"), "w") as f:
+                f.write(html)
+
     for d in digests:
         html = env.get_template("day.html").render(
             digest=d,
             brief=load_brief(d["date"]),
             today_label=today_label(d["date"]),
+            countries_nav=countries_nav,
             root_prefix="../",
             static_prefix="../",
         )
@@ -88,6 +125,7 @@ def render_site():
     archive_html = env.get_template("archive.html").render(
         dates=[d["date"] for d in digests],
         today_label=today_label(digests[0]["date"]) if digests else "",
+        countries_nav=countries_nav,
         root_prefix="../",
         static_prefix="../",
     )
@@ -97,6 +135,7 @@ def render_site():
     subscribe_html = env.get_template("subscribe.html").render(
         formspree_endpoint=endpoint,
         today_label=today_label(digests[0]["date"]) if digests else "",
+        countries_nav=countries_nav,
         root_prefix="",
         static_prefix="",
     )

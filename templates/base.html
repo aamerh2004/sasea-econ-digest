@@ -17,6 +17,16 @@
     <div class="masthead-sub">Finance &middot; Trade &amp; FX &middot; Development &mdash; Bangladesh &middot; Pakistan &middot; Afghanistan &middot; Nepal &middot; Bhutan &middot; Maldives &middot; Philippines</div>
     <nav class="masthead-nav">
       <a href="{{ root_prefix }}index.html">Today</a>
+      <details class="nav-dropdown">
+        <summary>By Country</summary>
+        <div class="nav-dropdown-menu">
+          {% for c in countries_nav %}
+          <a href="{{ root_prefix }}country/{{ c.slug }}.html">{{ c.country }} <span class="nav-count">{{ c.count }}</span></a>
+          {% else %}
+          <span class="nav-empty">No country pages yet</span>
+          {% endfor %}
+        </div>
+      </details>
       <a href="{{ root_prefix }}archive/index.html">Archive</a>
       <a href="{{ root_prefix }}subscribe.html">Subscribe</a>
     </nav>

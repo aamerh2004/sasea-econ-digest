@@ -10,6 +10,10 @@ from filter_and_score import filter_and_score, load_keywords  # noqa: E402
 
 TOP_HEADLINE_COUNT = 7
 MAX_PER_COUNTRY_IN_TOP = 2
+# High-volume countries (Philippines, Bangladesh, Pakistan) otherwise produce
+# more stories per day than anyone can read. Keep the strongest by blended
+# relevance+recency score rather than carrying everything through.
+MAX_ARTICLES_PER_COUNTRY = 20
 COUNTRY_ORDER = [
     "Bangladesh",
     "Pakistan",
@@ -56,7 +60,7 @@ def build_digest(date_str=None, quiet=False):
     by_country = {c: [] for c in COUNTRY_ORDER}
     for a in ranked:
         for c in a["countries"]:
-            if c in by_country:
+            if c in by_country and len(by_country[c]) < MAX_ARTICLES_PER_COUNTRY:
                 by_country[c].append(
                     {
                         "title": a["title"],

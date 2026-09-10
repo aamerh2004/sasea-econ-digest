@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}{{ country }} — South & Southeast Asia Economic Digest{% endblock %}
+{% block content %}
+<div class="digest-date-line">
+  <a href="{{ root_prefix }}index.html" class="back-link">&larr; Today</a>
+  {{ country }} &middot; {{ articles | length }} stories &middot; {{ today_label }}
+</div>
+
+{% if brief_summary %}
+<section class="daily-brief">
+  <h2 class="brief-label">{{ country }} Brief</h2>
+  <p class="brief-lede">{{ brief_summary }}</p>
+</section>
+{% endif %}
+
+<div class="article-grid">
+  {% for a in articles %}
+  <article class="article-card">
+    <div class="article-source">{{ a.source_name }}{% if a.published %} &middot; {{ a.published[:10] }}{% endif %}</div>
+    <h3><a href="{{ a.link }}" target="_blank" rel="noopener">{{ a.title }}</a></h3>
+    {% if a.preview %}<p class="article-preview">{{ a.preview }}</p>{% endif %}
+  </article>
+  {% else %}
+  <p class="empty-note">No stories for {{ country }} in this edition.</p>
+  {% endfor %}
+</div>
+{% endblock %}

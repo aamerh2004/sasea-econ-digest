@@ -31,6 +31,13 @@ EXCLUDED_TITLE_PATTERNS = [
     # Afghan broadcasters publish TV programme listings into the same feeds.
     "6pm news", "8pm news", "farakhabar", "tahawol", "goftaman", "saar:",
     "news bulletin",
+    # Corporate PR, sponsored content, and lifestyle filler, which the local
+    # business sections carry heavily alongside real reporting.
+    "biz buzz", "celebrates", "anniversary", "career program", "organizes",
+    "sponsored", "advertorial", "wins award", "bags award", "awarded",
+    "appoints", "inaugurates", "seminar", "workshop", "webinar", "job fair",
+    "launches new", "unveils new", "ribbon", "mou signed", "felicitat",
+    "condoles", "obituar", "scholarship", "graduation", "convocation",
 ]
 
 # Country-specific outlets carry a lot of foreign wire copy. If a story on
