@@ -110,8 +110,9 @@ def main():
 
     api_key = os.environ.get("RESEND_API_KEY")
     if not api_key:
-        print("send_email: RESEND_API_KEY is not set; aborting real send", file=sys.stderr)
-        sys.exit(1)
+        # Not fatal: the site should still publish even if email isn't set up.
+        print("send_email: RESEND_API_KEY is not set; skipping email", file=sys.stderr)
+        return
 
     for addr in subscribers:
         result = send_email(addr, subject, html, api_key)
