@@ -12,6 +12,17 @@ warnings.filterwarnings("ignore", category=MarkupResemblesLocatorWarning)
 
 NO_USABLE_SUMMARY_FEEDS = {"adb-news"}
 
+# Country-specific outlets carry a lot of foreign wire copy. If a story on
+# such a feed centers on one of these places and never mentions the outlet's
+# own country, it isn't regional news and shouldn't be filed under it.
+FOREIGN_FOCUS_MARKERS = [
+    "india", "indian", "mumbai", "delhi", "rbi", "reserve bank of india", "sensex", "nifty",
+    "china", "chinese", "beijing", "shanghai",
+    "european central bank", "ecb", "eurozone", "europe", "german", "france", "britain", "uk ",
+    "wall street", "federal reserve", "u.s. stocks", "washington", "new york",
+    "japan", "tokyo", "korea", "singapore", "vietnam", "indonesia", "thailand", "malaysia",
+]
+
 
 def load_keywords(path="keywords.yaml"):
     with open(path) as f:
@@ -69,8 +80,16 @@ def filter_and_score(entries, keywords=None):
         text = f"{title} {clean_text(e['summary'])}"
 
         if e["source_id"] in local_feed_countries:
-            country_hits = [local_feed_countries[e["source_id"]]]
-            country_hits += [c for c in find_countries(text, countries) if c not in country_hits]
+            own_country = local_feed_countries[e["source_id"]]
+            explicit_hits = find_countries(text, countries)
+            text_l = text.lower()
+            is_foreign_wire = own_country not in explicit_hits and any(
+                m in text_l for m in FOREIGN_FOCUS_MARKERS
+            )
+            if is_foreign_wire:
+                country_hits = [c for c in explicit_hits if c != own_country]
+            else:
+                country_hits = [own_country] + [c for c in explicit_hits if c != own_country]
         else:
             country_hits = find_countries(text, countries)
 

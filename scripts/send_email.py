@@ -19,6 +19,20 @@ EMAIL_TEMPLATE = """
     <div style="font-size:26px;font-weight:700;margin-top:6px;">South &amp; Southeast Asia Economic Digest</div>
   </div>
 
+  {% if brief %}
+  <div style="border-top:3px solid #121212;border-bottom:1px solid #d9d9d9;padding:16px 0 18px;margin-bottom:24px;">
+    <div style="font-family:Arial,sans-serif;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.1em;margin-bottom:12px;">Daily Economics Brief</div>
+    {% if brief.lede %}<div style="font-size:18px;font-weight:600;line-height:1.4;margin-bottom:18px;">{{ brief.lede }}</div>{% endif %}
+    {% for c in brief.countries if c.summary %}
+    <div style="margin-bottom:14px;">
+      <div style="font-family:Arial,sans-serif;font-size:11px;font-weight:700;text-transform:uppercase;color:#a91f2c;margin-bottom:3px;">{{ c.country }}</div>
+      <div style="font-size:14px;line-height:1.55;">{{ c.summary }}</div>
+    </div>
+    {% endfor %}
+    <div style="font-family:Arial,sans-serif;font-size:10px;color:#999;font-style:italic;margin-top:14px;">AI-generated summary of the sources below. Verify against the original reporting before citing.</div>
+  </div>
+  {% endif %}
+
   {% if digest.top_headlines %}
   <div style="background:#fafaf8;border:1px solid #d9d9d9;border-left:4px solid #a91f2c;padding:16px 18px;margin-bottom:24px;">
     <div style="font-family:Arial,sans-serif;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:#a91f2c;margin-bottom:10px;">Today's Top Developments</div>
@@ -51,10 +65,10 @@ EMAIL_TEMPLATE = """
 """
 
 
-def render_email_html(digest, today_label, site_url):
+def render_email_html(digest, today_label, site_url, brief=None):
     env = Environment(autoescape=True)
     template = env.from_string(EMAIL_TEMPLATE)
-    return template.render(digest=digest, today_label=today_label, site_url=site_url)
+    return template.render(digest=digest, today_label=today_label, site_url=site_url, brief=brief)
 
 
 def load_subscribers():
@@ -91,11 +105,11 @@ def main():
         digest = json.load(f)
 
     sys.path.insert(0, os.path.join(ROOT, "scripts"))
-    from render_site import today_label as fmt_label  # noqa: E402
+    from render_site import load_brief, today_label as fmt_label  # noqa: E402
 
     label = fmt_label(digest["date"])
     subject = f"South & Southeast Asia Economic Digest — {label}"
-    html = render_email_html(digest, label, args.site_url)
+    html = render_email_html(digest, label, args.site_url, brief=load_brief(digest["date"]))
 
     subscribers = load_subscribers()
     if not subscribers:

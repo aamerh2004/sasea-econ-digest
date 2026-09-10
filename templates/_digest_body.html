@@ -1,3 +1,17 @@
+{% if brief %}
+<section class="daily-brief">
+  <h2 class="brief-label">Daily Economics Brief</h2>
+  {% if brief.lede %}<p class="brief-lede">{{ brief.lede }}</p>{% endif %}
+  {% for c in brief.countries if c.summary %}
+  <div class="brief-country">
+    <h3>{{ c.country }}</h3>
+    <p>{{ c.summary }}</p>
+  </div>
+  {% endfor %}
+  <p class="brief-footnote">AI-generated summary of the sources below. Verify against the original reporting before citing.</p>
+</section>
+{% endif %}
+
 {% if digest.top_headlines %}
 <section class="top-headlines">
   <h2 class="section-label">Today's Top Developments</h2>

@@ -1,14 +1,17 @@
 # Country name variants used to detect relevance, and the finance/econ/
 # trade/FX/development terms that must co-occur (for feeds that aren't
 # already country/topic-scoped by their URL).
+# Keep these unambiguous. "rupee" is shared by India, Pakistan, Nepal and
+# Sri Lanka, and "male" (the Maldivian capital) collides with the ordinary
+# English word — both caused misfiled stories, so neither is used.
 countries:
-  Bangladesh: ["bangladesh", "bangladeshi", "dhaka", "taka"]
-  Pakistan: ["pakistan", "pakistani", "islamabad", "karachi", "rupee"]
+  Bangladesh: ["bangladesh", "bangladeshi", "dhaka", "taka", "bangladesh bank"]
+  Pakistan: ["pakistan", "pakistani", "islamabad", "karachi", "lahore", "state bank of pakistan"]
   Afghanistan: ["afghanistan", "afghan", "kabul", "afghani"]
   Nepal: ["nepal", "nepali", "nepalese", "kathmandu"]
   Bhutan: ["bhutan", "bhutanese", "thimphu", "ngultrum"]
-  Maldives: ["maldives", "maldivian", "male", "rufiyaa"]
-  Philippines: ["philippines", "philippine", "filipino", "manila", "peso"]
+  Maldives: ["maldives", "maldivian", "rufiyaa"]
+  Philippines: ["philippines", "philippine", "filipino", "manila", "bangko sentral"]
 
 # Feed ids where relevance is already guaranteed by the source itself
 # (a dedicated country outlet) — topic filtering is still applied, but

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T20:01:40.209243+00:00",
+  "generated_at": "2026-09-10T20:09:48.246442+00:00",
   "top_headlines": [
     {
       "title": "PSX extends losses on economic uncertainty",
@@ -19,6 +19,14 @@
       ]
     },
     {
+      "title": "ADB Operations Reach $20.5 Billion in 2022, Addressing Crises, Building Resilience",
+      "link": "https://www.adb.org/news/adb-operations-2022-addressing-crises-building-resilience",
+      "source_name": "Asian Development Bank",
+      "countries": [
+        "Philippines"
+      ]
+    },
+    {
       "title": "PH FDI loses momentum amid growth woes",
       "link": "https://business.inquirer.net/610232/ph-fdi-loses-momentum-amid-growth-woes",
       "source_name": "Philippine Daily Inquirer — Business",
@@ -27,35 +35,27 @@
       ]
     },
     {
-      "title": "Three-peat: Remolona earns ‘A-’ grade from Global Finance",
-      "link": "https://business.inquirer.net/610105/three-peat-remolona-earns-a-grade-from-global-finance",
-      "source_name": "Philippine Daily Inquirer — Business",
-      "countries": [
-        "Philippines"
-      ]
-    },
-    {
-      "title": "Nepal floods deal a double blow to tourism and electricity exports",
-      "link": "https://asia.nikkei.com/business/travel-leisure/nepal-floods-deal-a-double-blow-to-tourism-and-electricity-exports2",
-      "source_name": "Nikkei Asia",
-      "countries": [
-        "Nepal"
-      ]
-    },
-    {
-      "title": "Political influence broke the banks",
-      "link": "https://www.thedailystar.net/business/economy/news/political-influence-broke-the-banks-4269911",
-      "source_name": "The Daily Star — Business (Bangladesh)",
+      "title": "HBL celebrates 50 years in Bangladesh",
+      "link": "https://www.brecorder.com/news/40438882/hbl-celebrates-50-years-in-bangladesh",
+      "source_name": "Business Recorder (Pakistan)",
       "countries": [
         "Bangladesh"
       ]
     },
     {
-      "title": "Where global gas, LNG infrastructure is growing rapidly",
-      "link": "https://www.thedailystar.net/business/global-economy/news/where-global-gas-lng-infrastructure-growing-rapidly-4269866",
-      "source_name": "The Daily Star — Business (Bangladesh)",
+      "title": "Prime Bank joins BB’s Tk3,000cr refinance scheme to support export-oriented industries",
+      "link": "https://www.dhakatribune.com/business/banks/419520/prime-bank-joins-bb%E2%80%99s-tk3-000cr-refinance-scheme",
+      "source_name": "Dhaka Tribune (Bangladesh)",
       "countries": [
         "Bangladesh"
+      ]
+    },
+    {
+      "title": "ADB President Joins King Charles III at Roundtable on Private Capital Mobilization for Sustainable Development",
+      "link": "https://www.adb.org/news/adb-president-joins-king-charles-iii-roundtable-private-capital-mobilization-sustainable-devt",
+      "source_name": "Asian Development Bank",
+      "countries": [
+        "Maldives"
       ]
     }
   ],
@@ -68,6 +68,22 @@
         "source_type": "local",
         "published": "2026-09-10T16:20:32+00:00",
         "preview": "HBL is celebrating 50 years of its operations in Bangladesh, marking decades of partnership with the country and its businesses. Since commencing operations in Bangladesh in 1976, HBL has grown alongside its customers,…"
+      },
+      {
+        "title": "Prime Bank joins BB’s Tk3,000cr refinance scheme to support export-oriented industries",
+        "link": "https://www.dhakatribune.com/business/banks/419520/prime-bank-joins-bb%E2%80%99s-tk3-000cr-refinance-scheme",
+        "source_name": "Dhaka Tribune (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-09-10T11:18:31+00:00",
+        "preview": "Prime Bank PLC has signed a participation agreement with Bangladesh Bank, formally joining the Export Diversification Refinance Scheme as a participating financial institution (PFI). The agreement will enable Prime Bank…"
+      },
+      {
+        "title": "$5 Billion Asian Development Fund Replenishment Agreed to Support Most Vulnerable in Asia and Pacific",
+        "link": "https://www.adb.org/news/adf-14-replenishment-support-most-vulnerable-asia-and-pacific",
+        "source_name": "Asian Development Bank",
+        "source_type": "thinktank",
+        "published": "2024-04-29T03:25:55+00:00",
+        "preview": ""
       },
       {
         "title": "Political influence broke the banks",
@@ -86,12 +102,12 @@
         "preview": "Natural gas and LNG have emerged as the fossil fuel industry’s most important growth markets ​as demand for oil and coal comes under mounting pressure from electrification, efficiency gains and climate policies."
       },
       {
-        "title": "ECB lifts borrowing costs amid energy shock",
-        "link": "https://www.thedailystar.net/business/economy/news/ecb-lifts-borrowing-costs-amid-energy-shock-4269851",
-        "source_name": "The Daily Star — Business (Bangladesh)",
+        "title": "Bank sub-branches lead in deposits, lag in disbursing loans",
+        "link": "https://www.dhakatribune.com/business/banks/419529/bank-sub-branches-lead-in-deposits-lag-in",
+        "source_name": "Dhaka Tribune (Bangladesh)",
         "source_type": "local",
-        "published": "2026-09-10T18:00:00+00:00",
-        "preview": "The European Central Bank raised interest rates Thursday for the second time this year as renewed Middle East fighting fans fears of higher inflation, and opened the door for further hikes."
+        "published": "2026-09-10T12:13:10+00:00",
+        "preview": "Along with keeping urban activity operational, banks in the country are now turning toward rural areas as well. However, instead of opening full-fledged branches at higher costs, banks are rapidly expanding financial…"
       },
       {
         "title": "13 Commerce Bank officials face action over irregularities",
@@ -116,6 +132,86 @@
         "source_type": "local",
         "published": "2026-09-10T18:00:00+00:00",
         "preview": "An energy security roadmap, an enabling investment climate and timely policies are among the major tasks for the government to attract more American investment in Bangladesh, said Syed Mohammad Kamal, president of the…"
+      },
+      {
+        "title": "Talking about suicide prevention",
+        "link": "https://www.dhakatribune.com/opinion/editorial/419541/talking-about-suicide-prevention",
+        "source_name": "Dhaka Tribune (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-09-10T18:00:00+00:00",
+        "preview": "Most importantly, we must normalize speaking about mental health Details"
+      },
+      {
+        "title": "UIU organizes career program for BBA students",
+        "link": "https://www.dhakatribune.com/bangladesh/education/419531/uiu-organizes-career-program-for-bba-students",
+        "source_name": "Dhaka Tribune (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-09-10T12:17:58+00:00",
+        "preview": "HR leaders from corporate and financial sectors shared career and workplace insights with final-year BBA students at UIU Details"
+      },
+      {
+        "title": "Barvida demands lifting import ban on reconditioned EVs",
+        "link": "https://www.dhakatribune.com/business/419530/barvida-demands-lifting-import-ban-on",
+        "source_name": "Dhaka Tribune (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-09-10T12:14:30+00:00",
+        "preview": "The Bangladesh Reconditioned Vehicles Importers and Dealers Association (Barvida) has reacted to the ban on importing reconditioned electric vehicles (EVs) in the latest import policy, alleging a quarter has misguided…"
+      },
+      {
+        "title": "Parliament passes Bank Resolution (Amendment) Bill",
+        "link": "https://www.dhakatribune.com/business/banks/419528/parliament-passes-bank-resolution-amendment-bill",
+        "source_name": "Dhaka Tribune (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-09-10T12:11:13+00:00",
+        "preview": "The Bank Resolution (Amendment) Bill has been passed in the National Parliament. Finance Minister Amir Khasru Mahmud Chowdhury introduced the bill in parliament on Wednesday (September 9). It was later passed by voice…"
+      },
+      {
+        "title": "HC orders Yunus-owned Grameen Kalyan to pay Tk666C in tax",
+        "link": "https://www.dhakatribune.com/bangladesh/corruption/419524/hc-orders-yunus-owned-grameen-kalyan-to-pay-tk666c",
+        "source_name": "Dhaka Tribune (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-09-10T11:47:15+00:00",
+        "preview": "A bench led by Justice Md Mujibur Rahman Mia passed the order Details"
+      },
+      {
+        "title": "BES presents ‘Highlights from ADA 2026’ in Dhaka",
+        "link": "https://www.dhakatribune.com/business/419521/bes-presents-%E2%80%98highlights-from-ada-2026%E2%80%99-in-dhaka",
+        "source_name": "Dhaka Tribune (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-09-10T11:22:13+00:00",
+        "preview": "Bangladesh Endocrine Society (BES) organized “Highlights from ADA 2026” Wednesday at the Grand Ballroom of Pan Pacific Sonargaon, Dhaka. The daylong scientific program brought together leading endocrinology and diabetes…"
+      },
+      {
+        "title": "Why the government should prioritize regional economic development, and now",
+        "link": "https://www.dhakatribune.com/opinion/longform/419490/why-the-government-should-prioritize-regional",
+        "source_name": "Dhaka Tribune (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-09-10T05:38:32+00:00",
+        "preview": "Bangladesh has been given three more years for LDC graduation. The UN Committee for Development Policy has recommended deferring our graduation from least developed country status to November 24, 2029. The General…"
+      },
+      {
+        "title": "5 arrested over Gandaria gunfight linked to drug trade",
+        "link": "https://www.dhakatribune.com/bangladesh/419501/5-arrested-over-gandaria-gunfight-linked-to-drug",
+        "source_name": "Dhaka Tribune (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-09-10T07:40:06+00:00",
+        "preview": "Five people have been arrested in connection with a gunfight over an alleged drug trade in the Koratitola area of Gandaria in the capital, which left three people, including a woman, injured. The arrestees are Mohammad…"
+      },
+      {
+        "title": "Fertilizer shortages deepen as new dealer system nears",
+        "link": "https://www.dhakatribune.com/bangladesh/agriculture/419479/fertilizer-shortages-deepen-as-new-dealer-system",
+        "source_name": "Dhaka Tribune (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-09-09T16:56:09+00:00",
+        "preview": "Delayed imports, movement restrictions and distribution overhaul leave farmers struggling despite government claims of adequate stocks Details"
+      },
+      {
+        "title": "A hospital bed, an empty home, a lifetime of grief",
+        "link": "https://www.dhakatribune.com/bangladesh/health/419473/a-hospital-bed-an-empty-home-a-lifetime-of-grief",
+        "source_name": "Dhaka Tribune (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-09-09T16:12:00+00:00",
+        "preview": "Families lose their only children to measles after weeks of hospital treatment, mounting debt and repeated journeys in search of care Details"
       }
     ],
     "Pakistan": [
@@ -144,14 +240,6 @@
         "preview": "ISLAMABAD: An International Monetary Fund (IMF) mission is due to visit Pakistan on September 23 for a biannual review of the country’s economic performance and implementation of the $7 billion Extended Fund Facility…"
       },
       {
-        "title": "SBI Mutual Fund says 10-year yield will soar beyond 7%",
-        "link": "https://www.brecorder.com/news/40438862/sbi-mutual-fund-says-10-year-yield-will-soar-beyond-7",
-        "source_name": "Business Recorder (Pakistan)",
-        "source_type": "local",
-        "published": "2026-09-10T11:28:58+00:00",
-        "preview": "MUMBAI: India’s largest asset manager expects the 10-year bond yield to rise and stay above 7% in the near term, as the central bank turns hawkish on rising inflation fuelled by the prolonged Middle East war. Budget and…"
-      },
-      {
         "title": "Pakistan invites Belt and Road Initiative partners to CPEC Phase II",
         "link": "https://www.brecorder.com/news/40438832/pakistan-invites-belt-and-road-initiative-partners-to-cpec-phase-ii",
         "source_name": "Business Recorder (Pakistan)",
@@ -174,22 +262,6 @@
         "source_type": "local",
         "published": "2026-09-08T15:23:57+00:00",
         "preview": "Prime Minister Shehbaz Sharif on Tuesday sought recommendations from industrialists and businesspeople on how to increase export-led growth in the country. “Whatever growth we have to achieve, it has to be export-led…"
-      },
-      {
-        "title": "RBI's liquidity mop-up via FX swaps offers a channel of support for rupee",
-        "link": "https://www.brecorder.com/news/40438871/rbis-liquidity-mop-up-via-fx-swaps-offers-a-channel-of-support-for-rupee",
-        "source_name": "Business Recorder (Pakistan)",
-        "source_type": "local",
-        "published": "2026-09-10T13:45:24+00:00",
-        "preview": "MUMBAI: The Reserve Bank of India’s use of foreign-exchange swaps to drain surplus rupee liquidity is pushing up forward premiums, indirectly offering support to the rupee. The RBI conducted dollar/rupee sell-buy swaps…"
-      },
-      {
-        "title": "HBL celebrates 50 years in Bangladesh",
-        "link": "https://www.brecorder.com/news/40438882/hbl-celebrates-50-years-in-bangladesh",
-        "source_name": "Business Recorder (Pakistan)",
-        "source_type": "local",
-        "published": "2026-09-10T16:20:32+00:00",
-        "preview": "HBL is celebrating 50 years of its operations in Bangladesh, marking decades of partnership with the country and its businesses. Since commencing operations in Bangladesh in 1976, HBL has grown alongside its customers,…"
       },
       {
         "title": "Rupee records gain against US dollar",
@@ -216,14 +288,6 @@
         "preview": "Four current and former officials of Unity Foods Limited, a company listed at the Pakistan Stock Exchange (PSX), remained in custody after they were unable to secure bail in the Federal Investigation Agency’s (FIA)…"
       },
       {
-        "title": "European shares edge higher as traders await ECB decision",
-        "link": "https://www.brecorder.com/news/40438845/european-shares-edge-higher-as-traders-await-ecb-decision",
-        "source_name": "Business Recorder (Pakistan)",
-        "source_type": "local",
-        "published": "2026-09-10T08:02:44+00:00",
-        "preview": "European shares rose on Thursday after their biggest selloff in two months as investors awaited a widely forecast interest rate hike from the European Central Bank and comments from chief Christine Lagarde on oil prices…"
-      },
-      {
         "title": "PM orders survey to boost Apna Ghar Scheme",
         "link": "https://www.dawn.com/news/2028772/pm-orders-survey-to-boost-apna-ghar-scheme",
         "source_name": "Dawn — Business (Pakistan)",
@@ -238,30 +302,6 @@
         "source_type": "local",
         "published": "2026-09-10T15:04:44+00:00",
         "preview": "Most Gulf stock markets closed lower on Thursday, as escalating hostilities between the United States and Iran fuelled concerns about potential disruptions across vital regional energy corridors. The decline followed…"
-      },
-      {
-        "title": "India's equity fund inflows rise nearly a fifth in August; monthly savings plan contributions hit a record",
-        "link": "https://www.brecorder.com/news/40438877/indias-equity-fund-inflows-rise-nearly-a-fifth-in-august-monthly-savings-plan-contributions-hit-a-record",
-        "source_name": "Business Recorder (Pakistan)",
-        "source_type": "local",
-        "published": "2026-09-10T14:59:14+00:00",
-        "preview": "Indian investors poured a record amount into mutual funds through monthly savings plans in August, continuing to invest even as the market came under pressure, data from the Association of Mutual Funds in India showed…"
-      },
-      {
-        "title": "Palm slips over 1% on weaker soyoil, bearish MPOB data",
-        "link": "https://www.brecorder.com/news/40438863/palm-slips-over-1-on-weaker-soyoil-bearish-mpob-data",
-        "source_name": "Business Recorder (Pakistan)",
-        "source_type": "local",
-        "published": "2026-09-10T11:41:01+00:00",
-        "preview": "KUALA LUMPUR: Malaysian palm oil futures slipped more than 1% on Thursday, extending losses for a third straight session, as weakness in rival soyoil and bearish demand and supply figures pressured the market. The…"
-      },
-      {
-        "title": "VinFast plans to develop two India-specific EVs in strategy shift, sources say",
-        "link": "https://www.brecorder.com/news/40438861/vinfast-plans-to-develop-two-india-specific-evs-in-strategy-shift-sources-say",
-        "source_name": "Business Recorder (Pakistan)",
-        "source_type": "local",
-        "published": "2026-09-10T11:22:47+00:00",
-        "preview": "NEW DELHI/HANOI: Vietnamese automaker VinFast plans to develop two new electric vehicles for the Indian market, five sources told Reuters, in a strategic shift made just weeks after it suspended plans to manufacture…"
       },
       {
         "title": "Pakistan cuts regulatory duty on imported smartphones by up to 20%",
@@ -294,14 +334,6 @@
         "source_type": "local",
         "published": "2026-09-10T13:37:01+00:00",
         "preview": "LONDON: Copper prices eased after hitting a record high on Thursday as traders weighed whether the metal’s September rally has become overstretched after five sessions of gains driven by concerns over tightening…"
-      },
-      {
-        "title": "Top investors in India's NSE IPO trim stake sales, sources say",
-        "link": "https://www.brecorder.com/news/40438868/top-investors-in-indias-nse-ipo-trim-stake-sales-sources-say",
-        "source_name": "Business Recorder (Pakistan)",
-        "source_type": "local",
-        "published": "2026-09-10T13:35:09+00:00",
-        "preview": "Some top investors in India’s National Stock Exchange (NSE) are reducing the number of shares they will be selling in the bourse’s upcoming IPO as they expect the shares to rise after listing compared to the low offer…"
       },
       {
         "title": "SECP proposes reforms to accelerate growth in Pakistan's REIT sector",
@@ -344,14 +376,6 @@
         "preview": "KARACHI: Exchange companies’ dollar sales to banks increased by 30 per cent year-on-year in August, indicating higher inflows. Data from the Exchange Companies Association of Pakistan (ECAP) showed these companies sold…"
       },
       {
-        "title": "How India’s central bank subsidised the diaspora",
-        "link": "https://www.economist.com/finance-and-economics/2026/08/27/how-indias-central-bank-subsidised-the-diaspora",
-        "source_name": "The Economist — Finance & Economics",
-        "source_type": "global",
-        "published": "2026-08-27T08:57:29+00:00",
-        "preview": "The scheme has helped to stabilise the rupee"
-      },
-      {
         "title": "Pakistan’s deft diplomacy is an economic blessing. And a curse",
         "link": "https://www.economist.com/finance-and-economics/2026/04/16/pakistans-deft-diplomacy-is-an-economic-blessing-and-a-curse",
         "source_name": "The Economist — Finance & Economics",
@@ -360,36 +384,12 @@
         "preview": "It allows the country’s rulers to put off necessary reforms"
       },
       {
-        "title": "India plans AI registry as it looks to roll out agentic payments, sources say",
-        "link": "https://www.brecorder.com/news/40438876/india-plans-ai-registry-as-it-looks-to-roll-out-agentic-payments-sources-say",
-        "source_name": "Business Recorder (Pakistan)",
-        "source_type": "local",
-        "published": "2026-09-10T14:55:08+00:00",
-        "preview": "MUMBAI: India’s payments authority is building a registry to verify and monitor artificial intelligence agents making transactions on its homegrown payments network, three sources involved in the discussions said. The…"
-      },
-      {
-        "title": "India signals stricter red warning labels in setback for Big Food",
-        "link": "https://www.brecorder.com/news/40438870/india-signals-stricter-red-warning-labels-in-setback-for-big-food",
-        "source_name": "Business Recorder (Pakistan)",
-        "source_type": "local",
-        "published": "2026-09-10T13:41:06+00:00",
-        "preview": "NEW DELHI: India’s government on Thursday said it could introduce tougher red warning labels for food packaging in one go, rather than in stages as currently proposed, in a potential blow to the $100 billion food and…"
-      },
-      {
-        "title": "India gets one of world's steepest iPhone price hikes",
-        "link": "https://www.brecorder.com/news/40438867/india-gets-one-of-worlds-steepest-iphone-price-hikes",
-        "source_name": "Business Recorder (Pakistan)",
-        "source_type": "local",
-        "published": "2026-09-10T13:31:37+00:00",
-        "preview": "BENGALURU: Apple raised prices on its existing iPhone lineup in India by as much as 41% within hours of unveiling newer models, bucking its usual practice of discounting older variants and marking one of the steepest…"
-      },
-      {
-        "title": "Indian rupee drops to over one-week low as oil bubbles on Middle East worries",
-        "link": "https://www.brecorder.com/news/40438857/indian-rupee-drops-to-over-one-week-low-as-oil-bubbles-on-middle-east-worries",
-        "source_name": "Business Recorder (Pakistan)",
-        "source_type": "local",
-        "published": "2026-09-10T10:49:39+00:00",
-        "preview": "MUMBAI: The Indian rupee declined for a third straight session on Thursday as oil prices continued to march higher on worries over the escalating conflict in the Middle East, elevated dollar demand linked to derivative…"
+        "title": "$5 Billion Asian Development Fund Replenishment Agreed to Support Most Vulnerable in Asia and Pacific",
+        "link": "https://www.adb.org/news/adf-14-replenishment-support-most-vulnerable-asia-and-pacific",
+        "source_name": "Asian Development Bank",
+        "source_type": "thinktank",
+        "published": "2024-04-29T03:25:55+00:00",
+        "preview": ""
       },
       {
         "title": "Thatta Cement moves towards restructuring of Pakistan Services Limited",
@@ -438,14 +438,6 @@
         "source_type": "local",
         "published": "2026-09-10T18:01:13+00:00",
         "preview": "The government on Thursday increased the price of petrol by Rs3.05 per litre and that of high-speed diesel (HSD) by Rs5.37 per litre. Following the revision, petrol will retail at Rs370.80 per litre while HSD will cost…"
-      },
-      {
-        "title": "Dubai Airports projects 70 million passengers this year as traffic recovers, CEO says",
-        "link": "https://www.brecorder.com/news/40438873/dubai-airports-projects-70-million-passengers-this-year-as-traffic-recovers-ceo-says",
-        "source_name": "Business Recorder (Pakistan)",
-        "source_type": "local",
-        "published": "2026-09-10T14:17:51+00:00",
-        "preview": "DUBAI: Dubai Airports expects annual passenger traffic to reach around 70 million by the end of the year, down from its previous target, CEO Paul Griffiths said on Thursday, noting that the original goal could now be…"
       },
       {
         "title": "Real estate, tech stocks drag Sri Lankan shares lower",
@@ -568,9 +560,25 @@
         "source_type": "local",
         "published": "2026-09-10T12:00:21+00:00",
         "preview": "Cherat Cement Company Limited (CCCL), a major player in Pakistan’s cement industry, has expressed its intention to acquire at least 30% of the ordinary shares of Nimir Industrial Chemicals Limited (NICL), a company…"
+      },
+      {
+        "title": "$5 Billion Asian Development Fund Replenishment Agreed to Support Most Vulnerable in Asia and Pacific",
+        "link": "https://www.adb.org/news/adf-14-replenishment-support-most-vulnerable-asia-and-pacific",
+        "source_name": "Asian Development Bank",
+        "source_type": "thinktank",
+        "published": "2024-04-29T03:25:55+00:00",
+        "preview": ""
       }
     ],
     "Nepal": [
+      {
+        "title": "$5 Billion Asian Development Fund Replenishment Agreed to Support Most Vulnerable in Asia and Pacific",
+        "link": "https://www.adb.org/news/adf-14-replenishment-support-most-vulnerable-asia-and-pacific",
+        "source_name": "Asian Development Bank",
+        "source_type": "thinktank",
+        "published": "2024-04-29T03:25:55+00:00",
+        "preview": ""
+      },
       {
         "title": "Nepal floods deal a double blow to tourism and electricity exports",
         "link": "https://asia.nikkei.com/business/travel-leisure/nepal-floods-deal-a-double-blow-to-tourism-and-electricity-exports2",
@@ -636,14 +644,6 @@
         "preview": "High logistics costs, limited cross-border payment options, regulatory hurdles and weak digital readiness keep Nepali products off global online marketplaces."
       },
       {
-        "title": "Xi’s India visit to help diplomatic thaw, but business ties bound by suspicion",
-        "link": "https://kathmandupost.com/world/2026/09/10/xi-s-india-visit-to-help-diplomatic-thaw-but-business-ties-bound-by-suspicion",
-        "source_name": "The Kathmandu Post (Nepal)",
-        "source_type": "local",
-        "published": null,
-        "preview": "Diplomatic ties are improving after years of tension, but investment curbs, visa delays and restrictions on Chinese equipment continue to weigh on business relations."
-      },
-      {
         "title": "Germany provides €8 million in assistance to Nepal after Bhotekoshi floods",
         "link": "https://kathmandupost.com/money/2026/09/10/germany-provides-8-million-in-assistance-to-nepal-after-bhotekoshi-floods",
         "source_name": "The Kathmandu Post (Nepal)",
@@ -660,9 +660,43 @@
         "preview": "Traders are using the southern border to bring in clothing, footwear, festival decorations and other goods ahead of Nepal’s main festival season."
       }
     ],
-    "Bhutan": [],
-    "Maldives": [],
+    "Bhutan": [
+      {
+        "title": "$5 Billion Asian Development Fund Replenishment Agreed to Support Most Vulnerable in Asia and Pacific",
+        "link": "https://www.adb.org/news/adf-14-replenishment-support-most-vulnerable-asia-and-pacific",
+        "source_name": "Asian Development Bank",
+        "source_type": "thinktank",
+        "published": "2024-04-29T03:25:55+00:00",
+        "preview": ""
+      }
+    ],
+    "Maldives": [
+      {
+        "title": "ADB President Joins King Charles III at Roundtable on Private Capital Mobilization for Sustainable Development",
+        "link": "https://www.adb.org/news/adb-president-joins-king-charles-iii-roundtable-private-capital-mobilization-sustainable-devt",
+        "source_name": "Asian Development Bank",
+        "source_type": "thinktank",
+        "published": "2025-12-02T08:05:10+00:00",
+        "preview": ""
+      },
+      {
+        "title": "$5 Billion Asian Development Fund Replenishment Agreed to Support Most Vulnerable in Asia and Pacific",
+        "link": "https://www.adb.org/news/adf-14-replenishment-support-most-vulnerable-asia-and-pacific",
+        "source_name": "Asian Development Bank",
+        "source_type": "thinktank",
+        "published": "2024-04-29T03:25:55+00:00",
+        "preview": ""
+      }
+    ],
     "Philippines": [
+      {
+        "title": "ADB Operations Reach $20.5 Billion in 2022, Addressing Crises, Building Resilience",
+        "link": "https://www.adb.org/news/adb-operations-2022-addressing-crises-building-resilience",
+        "source_name": "Asian Development Bank",
+        "source_type": "thinktank",
+        "published": "2023-04-20T03:55:45+00:00",
+        "preview": ""
+      },
       {
         "title": "PH FDI loses momentum amid growth woes",
         "link": "https://business.inquirer.net/610232/ph-fdi-loses-momentum-amid-growth-woes",
@@ -688,6 +722,30 @@
         "preview": "MANILA, Philippines — The peso’s depreciation has not yet become a structural threat to Philippine bonds. Still, prolonged weakness could become more disruptive if it feeds into inflation expectations and broader…"
       },
       {
+        "title": "Philippines sees 35% jump in FDI net inflows in June",
+        "link": "https://bworldonline.com/top-stories/2026/09/11/775966/philippines-sees-35-jump-in-fdi-net-inflows-in-june/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:34:49+00:00",
+        "preview": "FOREIGN direct investment (FDI) net inflows to the Philippines jumped by 35% year on year in June, even as they fell to a two-month low, central bank data showed."
+      },
+      {
+        "title": "Job-quality upgrades stalled by weak investment",
+        "link": "https://bworldonline.com/labor-and-management/2026/09/11/776144/job-quality-upgrades-stalled-by-weak-investment/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:02:01+00:00",
+        "preview": "WEAK INVESTMENT and slowing economic growth could limit the economy’s ability to generate quality jobs, with the latest labor data showing that employment gains are not keeping pace with the growth of the workforce,…"
+      },
+      {
+        "title": "Philippine foreign direct investment rises in June",
+        "link": "https://bworldonline.com/infographics/2026/09/11/776132/philippine-foreign-direct-investment-rises-in-june/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:00:25+00:00",
+        "preview": "FOREIGN direct investment (FDI) net inflows to the Philippines jumped by 35% year on year in June, even as they fell to a two-month low, central bank data showed. Read the full story."
+      },
+      {
         "title": "BIZ BUZZ: Biz bigwigs come to town",
         "link": "https://business.inquirer.net/610229/biz-buzz-biz-bigwigs-come-to-town",
         "source_name": "Philippine Daily Inquirer — Business",
@@ -702,6 +760,38 @@
         "source_type": "local",
         "published": "2026-09-11T02:16:00+00:00",
         "preview": "MANILA, Philippines — The Bangko Sentral ng Pilipinas (BSP) is easing some regulatory requirements and offering temporary incentives to help build a market for Islamic financial instruments, as it seeks to expand…"
+      },
+      {
+        "title": "Philippine GDP growth may lag Southeast Asian peers — BofA",
+        "link": "https://bworldonline.com/top-stories/2026/09/11/776020/philippine-gdp-growth-may-lag-southeast-asian-peers-bofa/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:32:10+00:00",
+        "preview": "THE PHILIPPINE ECONOMY may be among the slowest growing in Southeast Asia this year, as weak domestic demand keeps growth below its potential, Bank of America (BofA) said. In a report dated Sept. 8, BofA Global Research…"
+      },
+      {
+        "title": "DigiPlus has room to take on more debt for growth — Moody’s",
+        "link": "https://bworldonline.com/corporate/2026/09/11/776157/digiplus-has-room-to-take-on-more-debt-for-growth-moodys/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:07:40+00:00",
+        "preview": "DIGIPLUS INTERACTIVE Corp. has room to take on additional debt to fund its expansion while maintaining relatively low leverage, Moody’s Ratings said as it assigned the gaming company a first-time B1 corporate family…"
+      },
+      {
+        "title": "ADB Capital Utilization Plan Expands Operations by 50% Over Next Decade",
+        "link": "https://www.adb.org/news/adb-capital-utilization-plan-expands-operations-50-percent-over-next-decade",
+        "source_name": "Asian Development Bank",
+        "source_type": "thinktank",
+        "published": "2025-02-11T03:28:54+00:00",
+        "preview": ""
+      },
+      {
+        "title": "$5 Billion Asian Development Fund Replenishment Agreed to Support Most Vulnerable in Asia and Pacific",
+        "link": "https://www.adb.org/news/adf-14-replenishment-support-most-vulnerable-asia-and-pacific",
+        "source_name": "Asian Development Bank",
+        "source_type": "thinktank",
+        "published": "2024-04-29T03:25:55+00:00",
+        "preview": ""
       },
       {
         "title": "Collapse of traditional family logic changes strategy",
@@ -760,6 +850,70 @@
         "preview": "MANILA, Philippines — Local stocks snapped a two-day climb on Thursday as investors pocketed gains while renewed concerns over rising global oil prices dampened market sentiment. The benchmark Philippine Stock Exchange…"
       },
       {
+        "title": "EU, Spain formally join Luzon Economic Corridor",
+        "link": "https://bworldonline.com/top-stories/2026/09/11/776019/eu-spain-formally-join-luzon-economic-corridor/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:31:08+00:00",
+        "preview": "THE EUROPEAN UNION (EU) and Spain have formally joined the Luzon Economic Corridor (LEC) initiative, strengthening the Philippines’ efforts to attract high-value investments and position the country as a hub for…"
+      },
+      {
+        "title": "DMPL opens creditor talks as restructuring advances",
+        "link": "https://bworldonline.com/corporate/2026/09/11/776160/dmpl-opens-creditor-talks-as-restructuring-advances/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:10:44+00:00",
+        "preview": "DEL MONTE Pacific Ltd. (DMPL) has started restructuring discussions with its principal creditors and other stakeholders as it seeks to address near-term liquidity and debt-maturity pressures. In a regulatory filing on…"
+      },
+      {
+        "title": "Jumbo bond issue still likely as gov’t plugs financing gaps",
+        "link": "https://bworldonline.com/banking-finance/2026/09/11/776017/jumbo-bond-issue-still-likely-as-govt-plugs-financing-gaps/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:07:04+00:00",
+        "preview": "THE MARKET still expects the government to issue a jumbo bond within the year, even as the National Treasurer said they are reconsidering a planned offer this month amid volatile conditions, as it needs to plug its…"
+      },
+      {
+        "title": "BSP looks to ease rules on sukuk issuances to boost Islamic finance",
+        "link": "https://bworldonline.com/banking-finance/2026/09/11/776016/bsp-looks-to-ease-rules-on-sukuk-issuances-to-boost-islamic-finance/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:06:02+00:00",
+        "preview": "THE BANGKO SENTRAL ng Pilipinas (BSP) is planning to streamline its regulations on sukuk transactions to help advance Islamic banking and finance in the country while also deepening the capital market. In a draft…"
+      },
+      {
+        "title": "RCBC doubles Billease credit facility to P1 billion",
+        "link": "https://bworldonline.com/banking-finance/2026/09/11/776007/rcbc-doubles-billease-credit-facility-to-p1-billion/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:04:53+00:00",
+        "preview": "RIZAL Commercial Banking Corp. (RCBC) has doubled its credit facility for consumer finance and buy now, pay later (BNPL) provider Billease to P1 billion to help expand its offered services. Their expanded partnership…"
+      },
+      {
+        "title": "SEC says Dermacare owner, finance officer arrested over alleged investment scheme",
+        "link": "https://bworldonline.com/corporate/2026/09/11/776154/sec-says-dermacare-owner-finance-officer-arrested-over-alleged-investment-scheme/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:04:38+00:00",
+        "preview": "THE Securities and Exchange Commission (SEC) said the owner and a key officer of Beyond Skin Care Ventures, Inc., which operates Dermacare Face Body and Laser Center/Dermacare-Beyond Skin Care Solutions, were arrested…"
+      },
+      {
+        "title": "Mayabang nga ba tayo?",
+        "link": "https://bworldonline.com/opinion/2026/09/11/776029/mayabang-nga-ba-tayo/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:04:23+00:00",
+        "preview": "There is an important economic point in Bangko Sentral ng Pilipinas (BSP) Governor Eli Remolona, Jr.’s recent explanation of the peso’s weakness that should not be dismissed."
+      },
+      {
+        "title": "Peso slips on inflation fears as oil prices soar",
+        "link": "https://bworldonline.com/banking-finance/2026/09/11/776018/peso-slips-on-inflation-fears-as-oil-prices-soar/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:03:06+00:00",
+        "preview": "THE PESO weakened against the dollar on Thursday on heightened inflation fears after global crude oil prices breached $100 per barrel. The currency declined by 2.2 centavos to close at P62.535 versus the greenback from…"
+      },
+      {
         "title": "Bad loans up amid continuing consumer strain",
         "link": "https://business.inquirer.net/610108/bad-loans-up-amid-continuing-consumer-strain",
         "source_name": "Philippine Daily Inquirer — Business",
@@ -776,12 +930,68 @@
         "preview": "MANILA, Philippines — Media giant ABS-CBN Corp. is set to seek shareholder approval for plans to triple its authorized capital to P4.5 billion. This paves the way for a P6-billion equity infusion that will bring in a…"
       },
       {
+        "title": "ADB Celebrates Partnership with Europe, Highlights Private Sector Opportunities",
+        "link": "https://www.adb.org/news/adb-celebrates-partnership-europe-highlights-private-sector-opportunities",
+        "source_name": "Asian Development Bank",
+        "source_type": "thinktank",
+        "published": "2026-02-04T02:56:09+00:00",
+        "preview": ""
+      },
+      {
         "title": "BIR clears VAT refunds for exporters before certification",
         "link": "https://business.inquirer.net/610091/bir-clears-vat-refunds-for-exporters-before-certification",
         "source_name": "Philippine Daily Inquirer — Business",
         "source_type": "local",
         "published": "2026-09-09T19:54:12+00:00",
         "preview": "MANILA, Philippines — The Bureau of Internal Revenue (BIR) has allowed qualified export-oriented enterprises (EOEs) to claim refunds for value-added tax (VAT) paid while awaiting zero-rating certification from the…"
+      },
+      {
+        "title": "Gokongwei: PhilWeb to prioritize capital discipline, governance",
+        "link": "https://bworldonline.com/corporate/2026/09/11/776156/gokongwei-philweb-to-prioritize-capital-discipline-governance/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:06:39+00:00",
+        "preview": "PHILWEB CORP. Chairman Lance Y. Gokongwei said the company will prioritize disciplined capital allocation and stronger governance as trading in its shares resumed following additional disclosures on its investment in…"
+      },
+      {
+        "title": "Atlas Mining names Jaime Bautista independent director",
+        "link": "https://bworldonline.com/corporate/2026/09/11/776155/atlas-mining-names-jaime-bautista-independent-director/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:05:38+00:00",
+        "preview": "ATLAS Consolidated Mining and Development Corp. has elected former Transportation Secretary Jaime J. Bautista as an independent director. Mr. Bautista was elected during a special meeting of the mining company’s board…"
+      },
+      {
+        "title": "Robinsons Land deploys two buses for Bridgetowne, Ortigas commuters",
+        "link": "https://bworldonline.com/corporate/2026/09/11/776151/robinsons-land-deploys-two-buses-for-bridgetowne-ortigas-commuters/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:02:36+00:00",
+        "preview": "GOKONGWEI-LED Robinsons Land Corp. (RLC) has partnered with the Metropolitan Manila Development Authority (MMDA) to deploy two buses under the Love Bus program serving commuter routes linked to Bridgetowne and the…"
+      },
+      {
+        "title": "Managing the RoI of employee training",
+        "link": "https://bworldonline.com/labor-and-management/2026/09/11/776142/managing-the-roi-of-employee-training/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:01:59+00:00",
+        "preview": "How do we ensure that we get more out of our investment in employee training? What are the things we should consider to benefit our employees and management? — Golden Meadow When organizing or sponsoring employee…"
+      },
+      {
+        "title": "The Constitution says 16",
+        "link": "https://bworldonline.com/opinion/2026/09/11/776030/the-constitution-says-16/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:01:24+00:00",
+        "preview": "When it comes to impeachment trials, read the Constitution as is. US Supreme Court Justice Antonin Scalia was wont to say: “The Constitution is not a living organism. It’s a legal document and it says what it says and…"
+      },
+      {
+        "title": "MUFG Bank’s Manila branch gets universal bank license",
+        "link": "https://bworldonline.com/banking-finance/2026/09/11/776022/mufg-banks-manila-branch-gets-universal-bank-license/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-10T16:01:12+00:00",
+        "preview": "MUFG Bank, Ltd. – Manila Branch is now a universal bank after the Bangko Sentral ng Pilipinas (BSP) upgraded its commercial banking license. In a circular letter dated Sept. 8, the BSP said its policy-making Monetary…"
       },
       {
         "title": "Red, yellow alerts up again in Visayas, Mindanao grids",
@@ -854,6 +1064,14 @@
         "source_type": "local",
         "published": "2026-09-08T04:46:30+00:00",
         "preview": "The P6-billion rescue package, anchored by private investment firm I&C Holdings’ P3.5-billion investment and backed by Gabby Lopez III and other Lopez family investors, has begun flowing into the ailing media company"
+      },
+      {
+        "title": "ADB Approves $100 Million for Humanitarian Relief and Community Resilience for the People of Myanmar",
+        "link": "https://www.adb.org/news/adb-approves-100-million-humanitarian-relief-and-community-resilience-people-myanmar",
+        "source_name": "Asian Development Bank",
+        "source_type": "thinktank",
+        "published": "2025-06-16T05:44:51+00:00",
+        "preview": ""
       },
       {
         "title": "Jica, DPWH ink deal on infra projects push",
@@ -937,7 +1155,7 @@
       }
     ]
   },
-  "article_count": 106,
+  "article_count": 128,
   "feed_stats": [
     {
       "source_id": "wsj-world",
@@ -1012,7 +1230,7 @@
     {
       "source_id": "adb-news",
       "status": "ok",
-      "count": 0
+      "count": 10
     },
     {
       "source_id": "stimson",
@@ -1037,7 +1255,7 @@
     {
       "source_id": "dhaka-tribune",
       "status": "ok",
-      "count": 0
+      "count": 100
     },
     {
       "source_id": "kathmandu-post-money",
@@ -1051,8 +1269,8 @@
     },
     {
       "source_id": "bworldonline",
-      "status": "error: ReadTimeout: HTTPSConnectionPool(host='www.bworldonline.com', port=443): Read timed out. (read timeout=15)",
-      "count": 0
+      "status": "ok",
+      "count": 30
     },
     {
       "source_id": "rappler-business",

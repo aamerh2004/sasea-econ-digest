@@ -12,6 +12,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TEMPLATES_DIR = os.path.join(ROOT, "templates")
 STATIC_DIR = os.path.join(ROOT, "static")
 DIGESTS_DIR = os.path.join(ROOT, "data", "digests")
+BRIEFS_DIR = os.path.join(ROOT, "data", "briefs")
 DOCS_DIR = os.path.join(ROOT, "docs")
 
 FORMSPREE_ENDPOINT_FILE = os.path.join(ROOT, "data", "formspree_endpoint.txt")
@@ -28,6 +29,18 @@ def load_all_digests():
 
 def today_label(date_str):
     return datetime.strptime(date_str, "%Y-%m-%d").strftime("%A, %B %-d, %Y")
+
+
+def load_brief(date_str):
+    """The AI brief is optional — the site renders fine without one."""
+    path = os.path.join(BRIEFS_DIR, f"{date_str}.json")
+    if not os.path.exists(path):
+        return None
+    try:
+        with open(path) as f:
+            return json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return None
 
 
 def formspree_endpoint():
@@ -53,6 +66,7 @@ def render_site():
         latest = digests[0]
         html = env.get_template("index.html").render(
             digest=latest,
+            brief=load_brief(latest["date"]),
             today_label=today_label(latest["date"]),
             root_prefix="",
             static_prefix="",
@@ -63,6 +77,7 @@ def render_site():
     for d in digests:
         html = env.get_template("day.html").render(
             digest=d,
+            brief=load_brief(d["date"]),
             today_label=today_label(d["date"]),
             root_prefix="../",
             static_prefix="../",

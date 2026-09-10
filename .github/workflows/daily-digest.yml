@@ -13,6 +13,8 @@ permissions:
 jobs:
   build-and-publish:
     runs-on: ubuntu-latest
+    env:
+      HAS_CLAUDE_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -23,16 +25,44 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Build digest, render site, send email
+      - name: Build digest
+        run: python scripts/build_digest.py
+
+      - name: Write the AI brief
+        # Authenticates against the Claude subscription via an OAuth token,
+        # so this costs no API billing. Non-fatal by design: if the token is
+        # missing or expired, the site still publishes without a brief.
+        if: env.HAS_CLAUDE_TOKEN == 'true'
+        continue-on-error: true
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            Read the instructions in scripts/brief_prompt.md and follow them exactly.
+
+            The digest to summarize is the most recently dated file in
+            data/digests/ (filenames are YYYY-MM-DD.json). Write your brief to
+            data/briefs/ using that same date as the filename.
+
+            Write that one JSON file and nothing else. Do not commit or push.
+          claude_args: '--allowedTools "Read,Write,Glob"'
+
+      - name: Render site
+        run: python scripts/render_site.py
+
+      - name: Send email
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           SUBSCRIBERS: ${{ secrets.SUBSCRIBERS }}
-        run: python scripts/run_daily.py --site-url "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
+        run: |
+          DIGEST=$(ls -1 data/digests/*.json | tail -1)
+          python scripts/send_email.py --digest "$DIGEST" \
+            --site-url "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
 
       - name: Commit and push updated digest + site
         run: |
           git config user.name "sasea-digest-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/digests docs
+          git add data/digests data/briefs docs
           git diff --staged --quiet || git commit -m "Daily digest $(date -u +%Y-%m-%d)"
           git push

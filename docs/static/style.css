@@ -86,6 +86,50 @@ a:hover { text-decoration: underline; }
   margin: 0 0 14px;
 }
 
+.daily-brief {
+  border-top: 3px solid var(--ink);
+  border-bottom: 1px solid var(--rule);
+  padding: 22px 0 24px;
+  margin-bottom: 36px;
+}
+.brief-label {
+  font-family: var(--sans);
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 0 0 14px;
+}
+.brief-lede {
+  font-family: var(--serif-display);
+  font-size: 21px;
+  line-height: 1.4;
+  font-weight: 600;
+  margin: 0 0 22px;
+}
+.brief-country { margin-bottom: 16px; }
+.brief-country h3 {
+  font-family: var(--sans);
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  margin: 0 0 4px;
+}
+.brief-country p {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.55;
+}
+.brief-footnote {
+  font-family: var(--sans);
+  font-size: 11px;
+  color: var(--ink-soft);
+  font-style: italic;
+  margin: 20px 0 0;
+}
+
 .top-headlines {
   background: var(--card-bg);
   border: 1px solid var(--rule);
