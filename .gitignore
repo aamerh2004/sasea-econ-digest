@@ -4,3 +4,6 @@ __pycache__/
 .env
 data/subscribers.json
 data/formspree_endpoint.txt
+data/brief-run.log
+data/launchd.out.log
+data/launchd.err.log
