@@ -58,6 +58,11 @@ def render_email_html(digest, today_label, site_url):
 
 
 def load_subscribers():
+    """Subscribers come from the SUBSCRIBERS env var (comma-separated) so real
+    addresses stay out of the public repo; the local file is a dev fallback."""
+    env_value = os.environ.get("SUBSCRIBERS", "").strip()
+    if env_value:
+        return [addr.strip() for addr in env_value.split(",") if addr.strip()]
     if not os.path.exists(SUBSCRIBERS_FILE):
         return []
     with open(SUBSCRIBERS_FILE) as f:

@@ -45,10 +45,21 @@ Resend needs an API key, not a password — you create this yourself:
    secret → name it `RESEND_API_KEY`.
 
 Without a verified sending domain, Resend sends from `onboarding@resend.dev`
-and can only deliver to the email address you signed up with — that's fine
-here since `data/subscribers.json` is seeded with exactly that address
-(aamerahusain@gmail.com). If you later want to send to other people, verify
-a domain in Resend and set `DIGEST_FROM_ADDRESS`.
+and can only deliver to the email address you signed up with. If you later
+want to send to other people, verify a domain in Resend and set
+`DIGEST_FROM_ADDRESS`.
+
+### 2b. Subscriber list
+
+This repo is public (required for free GitHub Pages), so real email
+addresses are kept **out** of it:
+
+- **On GitHub**: add a repository secret named `SUBSCRIBERS` containing a
+  comma-separated list of addresses.
+- **Locally**: either `export SUBSCRIBERS="you@example.com"`, or copy
+  `data/subscribers.example.json` to `data/subscribers.json` (gitignored).
+
+The env var wins when both are present.
 
 ### 3. Formspree (the "Subscribe" form on the site)
 

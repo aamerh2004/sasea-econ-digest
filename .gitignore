@@ -2,3 +2,5 @@ venv/
 __pycache__/
 *.pyc
 .env
+data/subscribers.json
+data/formspree_endpoint.txt
