@@ -172,6 +172,39 @@ sources:
   # Note: Himalayan Times, Kuensel (Bhutan), and The Edition (Maldives) had
   # no working public RSS feed as of setup (dead/timeout). Bhutan and the
   # Maldives are still covered via global-outlet mentions. Re-check later.
+  # Bhutan — Kuensel and BBS have no working public feed, so these are the
+  # available English-language outlets.
+  - id: businessbhutan
+    name: "Business Bhutan"
+    url: "https://businessbhutan.bt/feed/"
+    type: local
+    tier: 2
+  - id: thebhutanese
+    name: "The Bhutanese"
+    url: "https://thebhutanese.bt/feed/"
+    type: local
+    tier: 2
+  - id: bhutanlive
+    name: "Bhutan Live"
+    url: "https://bhutanlive.com/feed/"
+    type: local
+    tier: 2
+  # Maldives
+  - id: mfr-mv
+    name: "Maldives Financial Review"
+    url: "https://mfr.mv/feed"
+    type: local
+    tier: 2
+  - id: corporatemv
+    name: "Corporate Maldives"
+    url: "https://corporatemaldives.com/feed"
+    type: local
+    tier: 2
+  - id: psmnews
+    name: "PSM News (Maldives)"
+    url: "https://psmnews.mv/en/feed"
+    type: local
+    tier: 2
   - id: inquirer-business
     name: "Philippine Daily Inquirer — Business"
     url: "https://business.inquirer.net/feed"

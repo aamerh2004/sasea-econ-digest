@@ -18,6 +18,12 @@ countries:
 # country filtering is skipped since everything on the feed already is
 # about that country.
 local_feed_countries:
+  businessbhutan: Bhutan
+  thebhutanese: Bhutan
+  bhutanlive: Bhutan
+  mfr-mv: Maldives
+  corporatemv: Maldives
+  psmnews: Maldives
   khaama: Afghanistan
   ariananews: Afghanistan
   amu-tv: Afghanistan
@@ -36,6 +42,12 @@ local_feed_countries:
 # A country match alone is enough to include these.
 topic_exempt_countries:
   - Afghanistan
+  # Bhutan and the Maldives generate so little English-language coverage that
+  # requiring an economics keyword leaves them empty. Political and
+  # geopolitical stories are admitted instead — for small states heavily
+  # exposed to external financing, those often are the economic story.
+  - Bhutan
+  - Maldives
 
 topics:
   - trade
