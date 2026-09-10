@@ -1,0 +1,74 @@
+# Country name variants used to detect relevance, and the finance/econ/
+# trade/FX/development terms that must co-occur (for feeds that aren't
+# already country/topic-scoped by their URL).
+countries:
+  Bangladesh: ["bangladesh", "bangladeshi", "dhaka", "taka"]
+  Pakistan: ["pakistan", "pakistani", "islamabad", "karachi", "rupee"]
+  Afghanistan: ["afghanistan", "afghan", "kabul", "afghani"]
+  Nepal: ["nepal", "nepali", "nepalese", "kathmandu"]
+  Bhutan: ["bhutan", "bhutanese", "thimphu", "ngultrum"]
+  Maldives: ["maldives", "maldivian", "male", "rufiyaa"]
+  Philippines: ["philippines", "philippine", "filipino", "manila", "peso"]
+
+# Feed ids where relevance is already guaranteed by the source itself
+# (a dedicated country outlet) — topic filtering is still applied, but
+# country filtering is skipped since everything on the feed already is
+# about that country.
+local_feed_countries:
+  dawn-business: Pakistan
+  brecorder: Pakistan
+  daily-star-business: Bangladesh
+  dhaka-tribune: Bangladesh
+  kathmandu-post-money: Nepal
+  inquirer-business: Philippines
+  bworldonline: Philippines
+  rappler-business: Philippines
+  tolonews: Afghanistan
+
+topics:
+  - trade
+  - tariff
+  - export
+  - import
+  - currency
+  - exchange rate
+  - forex
+  - foreign exchange
+  - devaluation
+  - imf
+  - world bank
+  - adb
+  - asian development bank
+  - gdp
+  - inflation
+  - investment
+  - investor
+  - remittance
+  - foreign aid
+  - loan
+  - debt
+  - default
+  - development
+  - central bank
+  - monetary
+  - fiscal
+  - budget
+  - deficit
+  - surplus
+  - economy
+  - economic
+  - economist
+  - finance
+  - financial
+  - fdi
+  - foreign direct investment
+  - stock market
+  - bond
+  - bailout
+  - sanctions
+  - tax
+  - subsidy
+  - inequality
+  - poverty
+  - growth
+  - recession

@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}Archive — South & Southeast Asia Economic Digest{% endblock %}
+{% block content %}
+<h2 class="section-label">Archive</h2>
+<ul class="archive-list">
+  {% for d in dates %}
+  <li><a href="{{ d }}.html">{{ d }}</a></li>
+  {% endfor %}
+</ul>
+{% if not dates %}<p class="empty-note">No digests published yet.</p>{% endif %}
+{% endblock %}

@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}Subscribe — South & Southeast Asia Economic Digest{% endblock %}
+{% block content %}
+<section class="subscribe-section">
+  <h2 class="section-label">Subscribe</h2>
+  <p>Get the daily digest by email, delivered every morning.</p>
+  <form class="subscribe-form" action="{{ formspree_endpoint }}" method="POST">
+    <label for="email">Email address</label>
+    <input id="email" type="email" name="email" placeholder="you@example.com" required>
+    <button type="submit">Subscribe</button>
+  </form>
+  {% if formspree_endpoint == "#" %}
+  <p class="empty-note">Subscription form isn't wired up yet — see the README for the one-time Formspree setup step.</p>
+  {% endif %}
+</section>
+{% endblock %}

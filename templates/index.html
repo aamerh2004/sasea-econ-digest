@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block title %}South & Southeast Asia Economic Digest — {{ digest.date }}{% endblock %}
+{% block content %}
+<div class="digest-date-line">{{ today_label }} &middot; {{ digest.article_count }} stories tracked</div>
+{% include "_digest_body.html" %}
+{% endblock %}

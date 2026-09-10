@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block title %}{{ digest.date }} — South & Southeast Asia Economic Digest{% endblock %}
+{% block content %}
+<div class="digest-date-line">
+  <a href="{{ root_prefix }}index.html" class="back-link">&larr; Latest</a>
+  {{ digest.date }} &middot; {{ digest.article_count }} stories tracked
+</div>
+{% include "_digest_body.html" %}
+{% endblock %}

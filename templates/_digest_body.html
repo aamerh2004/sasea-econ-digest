@@ -1,0 +1,30 @@
+{% if digest.top_headlines %}
+<section class="top-headlines">
+  <h2 class="section-label">Today's Top Developments</h2>
+  <ul>
+    {% for h in digest.top_headlines %}
+    <li>
+      <a href="{{ h.link }}" target="_blank" rel="noopener">{{ h.title }}</a>
+      <span class="headline-meta">{{ h.source_name }}{% if h.countries %} &middot; {{ h.countries | join(', ') }}{% endif %}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% else %}
+<p class="empty-note">No matching stories were found for this date.</p>
+{% endif %}
+
+{% for country, articles in digest.by_country.items() if articles %}
+<section class="country-section">
+  <h2 class="country-heading">{{ country }}</h2>
+  <div class="article-grid">
+    {% for a in articles %}
+    <article class="article-card">
+      <div class="article-source">{{ a.source_name }}{% if a.published %} &middot; {{ a.published[:10] }}{% endif %}</div>
+      <h3><a href="{{ a.link }}" target="_blank" rel="noopener">{{ a.title }}</a></h3>
+      {% if a.preview %}<p class="article-preview">{{ a.preview }}</p>{% endif %}
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endfor %}

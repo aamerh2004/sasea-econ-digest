@@ -1,0 +1,140 @@
+# RSS sources for the South & Southeast Asia Economic Digest.
+# type: global | thinktank | local
+# tier: relative weight used when ranking "Today's Top Developments" (3 = highest)
+sources:
+  # --- Global / major outlets ---
+  - id: wsj-world
+    name: "WSJ — World News"
+    url: "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    type: global
+    tier: 3
+  - id: wsj-markets
+    name: "WSJ — Markets"
+    url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"
+    type: global
+    tier: 3
+  - id: economist-finance
+    name: "The Economist — Finance & Economics"
+    url: "https://www.economist.com/finance-and-economics/rss.xml"
+    type: global
+    tier: 3
+  - id: bbc-business
+    name: "BBC — Business"
+    url: "http://feeds.bbci.co.uk/news/business/rss.xml"
+    type: global
+    tier: 2
+  - id: bbc-asia
+    name: "BBC — Asia"
+    url: "http://feeds.bbci.co.uk/news/world/asia/rss.xml"
+    type: global
+    tier: 2
+  - id: aljazeera-all
+    name: "Al Jazeera"
+    url: "https://www.aljazeera.com/xml/rss/all.xml"
+    type: global
+    tier: 2
+  - id: guardian-business
+    name: "The Guardian — Business"
+    url: "https://www.theguardian.com/uk/business/rss"
+    type: global
+    tier: 2
+  - id: guardian-asia
+    name: "The Guardian — Asia"
+    url: "https://www.theguardian.com/world/asia/rss"
+    type: global
+    tier: 2
+  - id: scmp-asia
+    name: "South China Morning Post — Asia"
+    url: "https://www.scmp.com/rss/318208/feed"
+    type: global
+    tier: 2
+  - id: nikkei-asia
+    name: "Nikkei Asia"
+    url: "https://asia.nikkei.com/rss/feed/nar"
+    type: global
+    tier: 3
+  - id: the-diplomat
+    name: "The Diplomat"
+    url: "https://thediplomat.com/feed/"
+    type: global
+    tier: 2
+  - id: foreign-policy
+    name: "Foreign Policy"
+    url: "https://foreignpolicy.com/feed/"
+    type: global
+    tier: 2
+
+  # --- Think tanks / multilaterals ---
+  # Note: Brookings, PIIE, Carnegie, IMF, World Bank, Wilson Center, and ORF
+  # no longer publish working public RSS feeds (verified during setup) and
+  # were dropped rather than included broken. Re-check periodically.
+  - id: csis
+    name: "CSIS"
+    url: "https://www.csis.org/rss.xml"
+    type: thinktank
+    tier: 2
+  - id: atlantic-council
+    name: "Atlantic Council"
+    url: "https://www.atlanticcouncil.org/feed/"
+    type: thinktank
+    tier: 2
+  - id: adb-news
+    name: "Asian Development Bank"
+    url: "https://www.adb.org/rss.xml"
+    type: thinktank
+    tier: 1
+  - id: stimson
+    name: "Stimson Center"
+    url: "https://www.stimson.org/feed/"
+    type: thinktank
+    tier: 2
+
+  # --- Country-specific outlets ---
+  - id: dawn-business
+    name: "Dawn — Business (Pakistan)"
+    url: "https://www.dawn.com/feeds/business"
+    type: local
+    tier: 2
+  - id: brecorder
+    name: "Business Recorder (Pakistan)"
+    url: "https://www.brecorder.com/feeds/business"
+    type: local
+    tier: 2
+  - id: daily-star-business
+    name: "The Daily Star — Business (Bangladesh)"
+    url: "https://www.thedailystar.net/business/rss.xml"
+    type: local
+    tier: 2
+  - id: dhaka-tribune
+    name: "Dhaka Tribune (Bangladesh)"
+    url: "https://www.dhakatribune.com/feed/"
+    type: local
+    tier: 2
+  - id: kathmandu-post-money
+    name: "The Kathmandu Post (Nepal)"
+    url: "https://kathmandupost.com/rss"
+    type: local
+    tier: 2
+  # Note: Himalayan Times, Kuensel (Bhutan), and The Edition (Maldives) had
+  # no working public RSS feed as of setup (dead/timeout). Bhutan and the
+  # Maldives are still covered via global-outlet mentions. Re-check later.
+  - id: inquirer-business
+    name: "Philippine Daily Inquirer — Business"
+    url: "https://business.inquirer.net/feed"
+    type: local
+    tier: 2
+  - id: bworldonline
+    name: "BusinessWorld (Philippines)"
+    url: "https://www.bworldonline.com/feed/"
+    type: local
+    tier: 2
+  - id: rappler-business
+    name: "Rappler — Business (Philippines)"
+    url: "https://www.rappler.com/business/feed/"
+    type: local
+    tier: 2
+  - id: tolonews
+    name: "TOLOnews (Afghanistan)"
+    url: "https://tolonews.com/rss.xml"
+    type: local
+    tier: 2
