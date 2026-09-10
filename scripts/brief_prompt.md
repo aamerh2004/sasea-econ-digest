@@ -46,3 +46,10 @@ Maldives, and the Philippines.
 - Base every claim strictly on the supplied digest. Never add outside facts
   or infer developments not present in the material. If the day's coverage is
   thin, a short brief is the correct output.
+- Never present an item as a new development unless the digest supports that.
+  Check each article's `published` date and describe anything older than the
+  current date accordingly. Institutional press releases in particular can be
+  re-syndicated long after the fact — a dated announcement is not today's news.
+- If a country has no real economic or financial reporting, say exactly that
+  in one line rather than elevating unrelated political or human-interest
+  coverage into an economics brief.

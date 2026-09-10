@@ -47,6 +47,7 @@ def fetch_all(sources=None, quiet=False):
                         "source_name": src["name"],
                         "source_type": src["type"],
                         "source_tier": src.get("tier", 1),
+                        "require_topic": src.get("require_topic", True),
                         "title": (e.get("title") or "").strip(),
                         "link": (e.get("link") or "").strip(),
                         "summary": (e.get("summary") or e.get("description") or "").strip(),

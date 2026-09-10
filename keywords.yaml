@@ -18,6 +18,9 @@ countries:
 # country filtering is skipped since everything on the feed already is
 # about that country.
 local_feed_countries:
+  khaama: Afghanistan
+  ariananews: Afghanistan
+  amu-tv: Afghanistan
   dawn-business: Pakistan
   brecorder: Pakistan
   daily-star-business: Bangladesh
@@ -27,6 +30,12 @@ local_feed_countries:
   bworldonline: Philippines
   rappler-business: Philippines
   tolonews: Afghanistan
+
+# Countries whose coverage is framed in aid, sanctions, and humanitarian
+# financing terms that the economics keyword list below tends to miss.
+# A country match alone is enough to include these.
+topic_exempt_countries:
+  - Afghanistan
 
 topics:
   - trade
@@ -75,3 +84,44 @@ topics:
   - poverty
   - growth
   - recession
+  # Geopolitical and policy developments that move markets or bear on
+  # sovereign financing, even when the story isn't framed as economics.
+  - taliban
+  - border
+  - crossing
+  - refugee
+  - migrant
+  - deportation
+  - humanitarian
+  - security
+  - conflict
+  - militant
+  - ceasefire
+  - treaty
+  - agreement
+  - bilateral
+  - diplomatic
+  - diplomacy
+  - talks
+  - summit
+  - election
+  - parliament
+  - protest
+  - unrest
+  - coup
+  - corruption
+  - energy
+  - oil
+  - gas
+  - pipeline
+  - port
+  - supply chain
+  - shipping
+  - infrastructure
+  - belt and road
+  - cpec
+  - water
+  - climate
+  - flood
+  - earthquake
+  - disaster

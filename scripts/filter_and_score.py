@@ -12,6 +12,22 @@ warnings.filterwarnings("ignore", category=MarkupResemblesLocatorWarning)
 
 NO_USABLE_SUMMARY_FEEDS = {"adb-news"}
 
+# Several feeds (ADB, The Economist's section feeds) serve long archives
+# rather than just recent items, so undated or old stories would otherwise
+# be presented as today's news. This is a daily digest: anything outside the
+# window is not news, and an item with no date can't be verified as recent.
+MAX_ARTICLE_AGE_DAYS = 3
+
+# Formats that are never useful in an economics digest, regardless of source.
+EXCLUDED_TITLE_PATTERNS = [
+    "in pictures", "photo essay", "photos:", "in photos", "quiz", "crossword",
+    "obituary", "newsletter", "podcast", "your briefing", "week in review",
+    "recipe", "what to watch", "best of", "cartoon",
+    # Afghan broadcasters publish TV programme listings into the same feeds.
+    "6pm news", "8pm news", "farakhabar", "tahawol", "goftaman", "saar:",
+    "news bulletin",
+]
+
 # Country-specific outlets carry a lot of foreign wire copy. If a story on
 # such a feed centers on one of these places and never mentions the outlet's
 # own country, it isn't regional news and shouldn't be filed under it.
@@ -21,6 +37,10 @@ FOREIGN_FOCUS_MARKERS = [
     "european central bank", "ecb", "eurozone", "europe", "german", "france", "britain", "uk ",
     "wall street", "federal reserve", "u.s. stocks", "washington", "new york",
     "japan", "tokyo", "korea", "singapore", "vietnam", "indonesia", "thailand", "malaysia",
+    "canada", "mexico", "brazil", "australia", "africa",
+    "saudi", "houthi", "yemen", "israel", "gaza", "lebanon",
+    "russia", "ukraine", "moscow",
+    "republicans", "democrats", "midterm", "white house",
 ]
 
 
@@ -73,10 +93,20 @@ def filter_and_score(entries, keywords=None):
     countries = keywords["countries"]
     topics = keywords["topics"]
     local_feed_countries = keywords.get("local_feed_countries", {})
+    topic_exempt_countries = set(keywords.get("topic_exempt_countries", []))
+
+    cutoff_ts = time.time() - (MAX_ARTICLE_AGE_DAYS * 86400)
 
     scored = []
     for e in entries:
+        if not e.get("published_ts") or e["published_ts"] < cutoff_ts:
+            continue
+
         title = clean_text(e["title"])
+        title_l = title.lower()
+        if any(p in title_l for p in EXCLUDED_TITLE_PATTERNS):
+            continue
+
         text = f"{title} {clean_text(e['summary'])}"
 
         if e["source_id"] in local_feed_countries:
@@ -97,8 +127,16 @@ def filter_and_score(entries, keywords=None):
             continue
 
         topic_hits = find_topics(text, topics)
+        topic_waived = False
         if not topic_hits:
-            continue
+            # Major global papers cover these countries rarely enough that
+            # anything they run is worth surfacing, and some countries are
+            # covered in aid/sanctions terms the topic list doesn't catch.
+            topic_waived = not e.get("require_topic", True) or any(
+                c in topic_exempt_countries for c in country_hits
+            )
+            if not topic_waived:
+                continue
 
         # Cap the country-count bonus so a press release namechecking every
         # country in the region doesn't automatically outrank a specific,
@@ -121,6 +159,10 @@ def filter_and_score(entries, keywords=None):
             + min(len(country_hits), 2) * 2
             + recency_bonus
         )
+        # Stories that matched no economics term are carried for completeness
+        # but must not outrank actual finance reporting in the headlines.
+        if topic_waived:
+            score -= 20
 
         if e["source_id"] in NO_USABLE_SUMMARY_FEEDS:
             # These feeds' <description> is a mangled HTML/metadata dump,

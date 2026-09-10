@@ -1,23 +1,77 @@
 # RSS sources for the South & Southeast Asia Economic Digest.
 # type: global | thinktank | local
 # tier: relative weight used when ranking "Today's Top Developments" (3 = highest)
+# require_topic: false means a country match alone is enough to include the
+#   story — used for major global papers, which cover these countries rarely
+#   enough that anything they do publish is worth surfacing.
 sources:
   # --- Global / major outlets ---
+  - id: nyt-world
+    name: "The New York Times — World"
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+    type: global
+    tier: 3
+    require_topic: false
+  - id: nyt-business
+    name: "The New York Times — Business"
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
+    type: global
+    tier: 3
+    require_topic: false
+  - id: nyt-asia
+    name: "The New York Times — Asia Pacific"
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml"
+    type: global
+    tier: 3
+    require_topic: false
+  - id: nyt-economy
+    name: "The New York Times — Economy"
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml"
+    type: global
+    tier: 3
+    require_topic: false
+  - id: ft-world
+    name: "Financial Times — World"
+    url: "https://www.ft.com/world?format=rss"
+    type: global
+    tier: 3
+    require_topic: false
+  - id: ft-asia
+    name: "Financial Times — Asia Pacific"
+    url: "https://www.ft.com/world/asia-pacific?format=rss"
+    type: global
+    tier: 3
+    require_topic: false
+  - id: ft-global-economy
+    name: "Financial Times — Global Economy"
+    url: "https://www.ft.com/global-economy?format=rss"
+    type: global
+    tier: 3
+    require_topic: false
   - id: wsj-world
     name: "WSJ — World News"
     url: "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
     type: global
     tier: 3
+    require_topic: false
   - id: wsj-markets
     name: "WSJ — Markets"
     url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"
     type: global
     tier: 3
+    require_topic: false
   - id: economist-finance
     name: "The Economist — Finance & Economics"
     url: "https://www.economist.com/finance-and-economics/rss.xml"
     type: global
     tier: 3
+    require_topic: false
+  - id: economist-asia
+    name: "The Economist — Asia"
+    url: "https://www.economist.com/asia/rss.xml"
+    type: global
+    tier: 3
+    require_topic: false
   - id: bbc-business
     name: "BBC — Business"
     url: "http://feeds.bbci.co.uk/news/business/rss.xml"
@@ -136,5 +190,32 @@ sources:
   - id: tolonews
     name: "TOLOnews (Afghanistan)"
     url: "https://tolonews.com/rss.xml"
+    type: local
+    tier: 2
+  - id: khaama
+    name: "Khaama Press (Afghanistan)"
+    url: "https://www.khaama.com/feed/"
+    type: local
+    tier: 2
+  - id: ariananews
+    name: "Ariana News (Afghanistan)"
+    url: "https://www.ariananews.af/feed/"
+    type: local
+    tier: 2
+  - id: amu-tv
+    name: "Amu TV (Afghanistan)"
+    url: "https://amu.tv/feed/"
+    type: local
+    tier: 2
+  # Pakistani general-news feeds carry substantial Afghanistan coverage
+  # (border, trade routes, refugees, security) that the business feeds miss.
+  - id: dawn-world
+    name: "Dawn — World (Pakistan)"
+    url: "https://www.dawn.com/feeds/world"
+    type: local
+    tier: 2
+  - id: thenews-pk
+    name: "The News International (Pakistan)"
+    url: "https://www.thenews.com.pk/rss/1/1"
     type: local
     tier: 2
