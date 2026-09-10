@@ -1,26 +1,34 @@
 {
   "date": "2026-09-10",
-  "lede": "Crude oil's break above $100/barrel amid Strait of Hormuz tensions is transmitting directly into regional currencies and markets: Pakistan hiked petrol and diesel prices for a fourth consecutive time and the PSX logged a third straight losing session, while the Philippine peso slipped to P62.535/$1 and the PSEi retreated on inflation fears. Separately, the IMF confirmed its mission will arrive in Islamabad on September 23 for the biannual review of Pakistan's $7 billion Extended Fund Facility, the next formal checkpoint on program compliance.",
+  "lede": "A crude oil spike above $100/barrel tied to Strait of Hormuz tensions rippled through regional asset prices: Pakistan's stock exchange extended losses for a third session and the government imposed a fourth consecutive fuel-price hike, while the Philippine peso weakened to P62.535/dollar and the PSEi retreated. Separately, the IMF confirmed a mission to Islamabad on September 23 for the biannual review of Pakistan's $7 billion Extended Fund Facility.",
   "countries": [
     {
       "country": "Pakistan",
-      "summary": "An IMF mission is due September 23 for the biannual review of the $7 billion EFF. The PSX fell for a third consecutive session (having already retreated below 174,000 earlier in the week) as Hormuz-related oil price gains weighed on sentiment, even as the rupee held roughly steady at 277.35/dollar. The government raised petrol by Rs3.05/liter and diesel by Rs5.37/liter effective September 11 — the fourth straight increase, taking petrol to Rs370.80/liter. On the regulatory side, SECP proposed REIT reforms and regulatory duty on premium imported smartphones was cut by up to 20%."
+      "summary": "The IMF said a mission will visit September 23 for the biannual review of the $7 billion Extended Fund Facility. The PSX fell for a third straight session amid Hormuz-linked oil price gains and political uncertainty, having already retreated below 174,000 on profit-taking earlier in the week; the rupee held nearly flat at 277.35/dollar. The government raised petrol Rs3.05 and diesel Rs5.37 per liter effective September 11 — the fourth consecutive increase, taking petrol to Rs370.80/liter — reflecting global crude pass-through. Islamabad also invited Belt and Road partners into CPEC Phase II, and SECP proposed reforms to expand the REIT sector."
     },
     {
       "country": "Bangladesh",
-      "summary": "Parliament passed the Bank Resolution (Amendment) Bill as authorities continue confronting sector-wide asset quality problems: bankers and industry data cited non-performing loans at a record Tk 6.06 lakh crore, attributed to political patronage and weak default enforcement. Bangladesh Bank disciplined 13 Commerce Bank officials over an alleged Tk 4 crore incentive-scheme irregularity, and Prime Bank joined the central bank's Tk 3,000 crore export-diversification refinance scheme. Separately, former land minister Saifuzzaman Chowdhury faces a bankruptcy petition in London's High Court after the UK's National Crime Agency froze roughly £185 million ($250 million) in his property assets."
-    },
-    {
-      "country": "Nepal",
-      "summary": "Reporting continues on the economic fallout from the August 26 glacial-collapse floods: the Trishuli-Bhotekoshi trade corridor was destroyed, with coverage describing national-level economic consequences beyond the immediate disaster zone, and the government is seeking $20 million in international climate compensation. Separate coverage notes reduced USAID funding has constrained flood relief capacity. The disaster's toll stands at over 1,410 dead and 5,651 still missing two weeks on."
-    },
-    {
-      "country": "Philippines",
-      "summary": "Foreign direct investment net inflows rose 35% year-on-year in June but fell to a two-month low, and inquirer coverage separately describes first-half FDI momentum as weakening on growth concerns — a mixed signal on investment trends. BofA flagged that Philippine GDP growth could lag Southeast Asian peers this year on weak domestic demand, and BusinessWorld reported job-quality gains stalling on the same weak-investment dynamic. The peso weakened 2.2 centavos to P62.535/dollar and the PSEi slipped as oil prices breached $100/barrel, fueling inflation concerns; Manulife said peso weakness is not yet a structural threat to the bond market. BSP Governor Remolona earned a third consecutive 'A-' grade from Global Finance's central banker report card, and BSP is easing rules to build out an Islamic finance market."
+      "summary": "Bankers and an industry report said non-performing loans have reached a record Tk 6.06 lakh crore, attributing the buildup to political patronage and impunity for wilful defaulters. Parliament passed a Bank Resolution (Amendment) Bill on September 9, and the central bank ordered disciplinary action against 13 Bangladesh Commerce Bank officials over Tk 4 crore in incentive-related irregularities. Prime Bank joined Bangladesh Bank's Tk 3,000 crore export-diversification refinance scheme. Separately, London's High Court froze roughly $250 million (£185 million) in UK property belonging to a former land minister under a National Crime Agency bankruptcy petition."
     },
     {
       "country": "Afghanistan",
-      "summary": "No substantive economic or financial reporting today; coverage was limited to diplomatic economic-cooperation meetings (with Bangladesh, Turkey, and Malaysia) and humanitarian/political stories, including a UN report citing 3.1 million people internally displaced in 2025 and continued fallout from Pakistan's expulsion order for Afghan medical students."
+      "summary": "No substantive economic or financial reporting today. Coverage centered on security (TTP and Baloch militant attacks spreading into Pakistan's Balochistan) and humanitarian conditions (the UN warning of a deepening crisis and a REACH report citing 3.1 million internally displaced), alongside diplomatic meetings on trade with Bangladesh, Turkey, and Iran that produced no new figures or agreements."
+    },
+    {
+      "country": "Nepal",
+      "summary": "Two weeks after Himalayan floods that killed more than 1,410 people with 5,651 still missing, coverage turned to the economic toll: The Diplomat reported that destruction of the Trishuli-Bhotekoshi trade corridor has caused economic collapse in Nepal's border region, and the foreign minister renewed a call for $20 million in climate compensation from major emitters. A September 9 New York Times report said USAID funding cuts have hampered flood relief efforts."
+    },
+    {
+      "country": "Bhutan",
+      "summary": "Royal Securities Exchange trading value rose 32% in August even as the number of trades and investors fell. The finance ministry introduced a new framework (September 8) to strengthen oversight of sovereign guarantees and on-lending."
+    },
+    {
+      "country": "Maldives",
+      "summary": "The central bank's net foreign-currency position narrowed in August as liabilities outpaced asset growth, a reserve-adequacy signal. A new regulation targets 168 stalled tourism developments to recover $537 million owed to the state, and the tax authority (MIRA) said it recovered $32.2 million in unpaid state revenue. Bank of Maldives will discontinue overseas ATM cross-border fees, and officials said tourism is recovering from earlier Middle East conflict-related disruption."
+    },
+    {
+      "country": "Philippines",
+      "summary": "Central-bank FDI data drew conflicting characterizations: BusinessWorld reported net inflows jumped 35% y/y in June even as they hit a two-month low, while the Inquirer described first-half FDI as 'losing momentum' amid growth concerns. BofA warned Philippine GDP growth may lag Southeast Asian peers this year on weak domestic demand, and BSP Governor Remolona earned a third consecutive 'A-' from Global Finance's central banker report card. The peso weakened 2.2 centavos to P62.535/dollar and the PSEi slipped as oil breached $100/barrel. Del Monte Pacific opened creditor talks to restructure amid liquidity pressure, and Moody's said DigiPlus has room for more debt after a first-time B1 rating."
     }
   ]
 }
