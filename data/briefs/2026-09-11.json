@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-11",
+  "lede": "Middle East tensions over the Strait of Hormuz drove a common oil-and-market shock across the region: Pakistan's rupee held steady and SBP reserves rose to $18.3bn even as the PSX swung sharply on crude-driven volatility, while the Philippine peso slid to a fresh record low past 62/dollar and the PSEi fell below 6,100 on the same inflation and oil pressures. Separately, Nepal's foreign ministry put a first hard figure on last month's glacial-flood damage, estimating a $4.78bn reconstruction bill.",
+  "countries": [
+    {
+      "country": "Pakistan",
+      "summary": "State Bank of Pakistan reserves rose $1.2bn to $18.33bn in the week to September 4, and Fitch Solutions unit BMI pushed back its rupee depreciation forecast to 2027, revising its end-2026 projection to Rs278/USD from Rs288 on improved FX buffers; the spot rupee was little changed, closing at 277.32. Remittances rose 16.5% y/y in August to $3.66bn, and exchange companies' dollar sales to banks jumped 30% y/y. Reports diverged on IMF timing: Dawn cited a mission due September 23 for the biannual review of the $7bn Extended Fund Facility, while Business Recorder said the mission would arrive \"in coming weeks\" for both the EFF and Resilience and Sustainability Facility reviews. The PSX was volatile on Hormuz-linked oil swings, dropping through 169,000 on panic selling before recovering nearly 1% intraday on hopes of eased tensions, as the government raised petrol and diesel prices for a third straight cycle."
+    },
+    {
+      "country": "Bangladesh",
+      "summary": "Bangladesh Bank data show non-performing loans at a record Tk 6.06 lakh crore, which bankers and industry analysts attribute to political patronage and impunity for wilful defaulters. Separately, the central bank ordered the highest administrative action against 13 Bangladesh Commerce Bank officials over an alleged Tk 4 crore embezzlement scheme. In London, the UK's National Crime Agency has frozen £185m ($250m) in property tied to former land minister Saifuzzaman Chowdhury, who now faces a High Court bankruptcy petition. The government is also weighing a policy giving unsolicited investors a 7% edge in state-asset bids, and Dhaka plans two new LNG import terminals (a floating unit by 2028, land-based by 2030) to secure gas supply."
+    },
+    {
+      "country": "Nepal",
+      "summary": "Nepal's foreign ministry estimated the reconstruction bill from last month's glacial-collapse flooding at $4.78bn, with PM Balendra Shah pledging a rebuilding effort. The New York Times reported that USAID cuts have hampered flood-relief capacity Nepal previously relied on, as in the 2015 earthquake response, and The Diplomat detailed lasting economic damage to the Trishuli-Bhotekoshi border trade corridor."
+    },
+    {
+      "country": "Philippines",
+      "summary": "The peso extended its slide to a fresh record low past 62/dollar on persistent inflation fears and Middle East-driven oil prices, and the PSEi fell below 6,100 as crude breached $100/barrel. Net FDI inflows fell in the first half of 2026 on growth-momentum concerns, and July data showed bad loans rising as consumers fell further behind on credit card and auto payments. BSP Governor Eli Remolona earned a third consecutive \"A-\" from Global Finance's central banker report card, while Manulife said peso weakness is not yet a structural threat to the bond market but could turn disruptive if it feeds inflation expectations. Retail fuel prices are set to rise by up to P5/liter on September 15 as the US-Iran conflict persists."
+    },
+    {
+      "country": "Maldives",
+      "summary": "The Maldives Monetary Authority's net foreign currency position narrowed in August as liabilities outpaced asset growth, and Malé consumer prices rose 6.26% y/y on food costs. A new regulation targets 168 stalled tourism developments to recover $537m owed to the state, while developer group Destination Future is pushing to delay the October offshore tourism tax, warning a short transition will disrupt contracts and bookings. The MMA separately warned the public against unlicensed foreign-exchange operators."
+    },
+    {
+      "country": "Bhutan",
+      "summary": "Trading value on the Royal Securities Exchange of Bhutan rose 32% in August even as the number of trades and investors fell — the only economic data point in today's coverage."
+    }
+  ]
+}
