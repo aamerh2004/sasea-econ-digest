@@ -1,0 +1,2005 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T17:20:39.112595+00:00",
+  "top_headlines": [
+    {
+      "title": "Revenue surge, subsidy plans sit well with IMF",
+      "link": "https://www.dawn.com/news/2033886/revenue-surge-subsidy-plans-sit-well-with-imf",
+      "source_name": "Dawn — Business (Pakistan)",
+      "countries": [
+        "Pakistan"
+      ]
+    },
+    {
+      "title": "PM urges exporters to deliver, finmin presents reform agenda at PSX",
+      "link": "https://www.brecorder.com/news/40442133/pm-urges-exporters-to-deliver-finmin-presents-reform-agenda-at-psx",
+      "source_name": "Business Recorder (Pakistan)",
+      "countries": [
+        "Pakistan"
+      ]
+    },
+    {
+      "title": "Asia rice: Indian rice export prices rise to over one-year high on firm demand, production concerns",
+      "link": "https://www.brecorder.com/news/40442186/asia-rice-indian-rice-export-prices-rise-to-over-one-year-high-on-firm-demand-production-concerns",
+      "source_name": "Business Recorder (Pakistan)",
+      "countries": [
+        "Bangladesh",
+        "Philippines"
+      ]
+    },
+    {
+      "title": "Gov’t Establishes State-Owned National Exchange Limited to Develop Securities Market",
+      "link": "https://corporatemaldives.com/govt-establishes-state-owned-national-exchange-limited-to-develop-securities-market/",
+      "source_name": "Corporate Maldives",
+      "countries": [
+        "Maldives"
+      ]
+    },
+    {
+      "title": "Philippines’ central bank braces for ‘Godzilla’ El Niño",
+      "link": "https://www.ft.com/content/390fafe6-88bf-4564-978d-4774e2b75e8d?syn-25a6b1a6=1",
+      "source_name": "Financial Times — Asia Pacific",
+      "countries": [
+        "Philippines"
+      ]
+    },
+    {
+      "title": "Upgrading Malé Commercial Harbour Essential to Drive National Trade, Says Minister",
+      "link": "https://corporatemaldives.com/upgrading-male-commercial-harbour-essential-to-drive-national-trade-says-minister/",
+      "source_name": "Corporate Maldives",
+      "countries": [
+        "Maldives"
+      ]
+    },
+    {
+      "title": "mCapital unveils $1 billion Bangladesh fund plan",
+      "link": "https://www.thedailystar.net/business/news/mcapital-unveils-1-billion-bangladesh-fund-plan-4288036",
+      "source_name": "The Daily Star — Business (Bangladesh)",
+      "countries": [
+        "Bangladesh"
+      ]
+    }
+  ],
+  "by_country": {
+    "Bangladesh": [
+      {
+        "title": "Asia rice: Indian rice export prices rise to over one-year high on firm demand, production concerns",
+        "link": "https://www.brecorder.com/news/40442186/asia-rice-indian-rice-export-prices-rise-to-over-one-year-high-on-firm-demand-production-concerns",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T12:39:34+00:00",
+        "preview": "Indian rice export prices were at an over one-year high this week, driven by improving demand and concerns over production due to flooding in rice-growing areas after a dry spell. India’s 5% broken parboiled variety was…"
+      },
+      {
+        "title": "mCapital unveils $1 billion Bangladesh fund plan",
+        "link": "https://www.thedailystar.net/business/news/mcapital-unveils-1-billion-bangladesh-fund-plan-4288036",
+        "source_name": "The Daily Star — Business (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-10-01T14:58:53+00:00",
+        "preview": "mCapital, a private members-only network that connects the global diaspora with investment opportunities in Bangladesh, has launched its flagship “Dakchhe Bangladesh” initiative, announcing a $1 billion investment…"
+      },
+      {
+        "title": "BB expands export refinance scheme to Tk 7,000 crore",
+        "link": "https://www.thedailystar.net/business/news/bb-expands-export-refinance-scheme-tk-7000-crore-4288021",
+        "source_name": "The Daily Star — Business (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-10-01T14:33:32+00:00",
+        "preview": "The banking regulator also raised interest rate to 6%"
+      },
+      {
+        "title": "Five licences later, one question remains: what is a digital bank for?",
+        "link": "https://www.thedailystar.net/business/news/five-licences-later-one-question-remains-what-digital-bank-4287971",
+        "source_name": "The Daily Star — Business (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-10-01T13:07:36+00:00",
+        "preview": "The regulator has already told digital banks where to play. They cannot finance foreign trade or offer term loans to medium and large industries. Their field is the individual and the small business, precisely the…"
+      },
+      {
+        "title": "India’s opposition parties call for protests over ‘vote theft’",
+        "link": "https://www.dawn.com/news/2033915/indias-opposition-parties-call-for-protests-over-vote-theft",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T02:02:44+00:00",
+        "preview": "NEW DELHI: India’s opposition parties announced on Wednesday planned protests to “save democracy”, escalating their campaign against the election commission after a newspaper investigation suggested impropriety in a…"
+      },
+      {
+        "title": "Govt approves 15-year deal to hand over Chattogram Port’s NCT to foreign operator",
+        "link": "https://www.thedailystar.net/business/news/govt-approves-15-year-deal-hand-over-chattogram-ports-nct-foreign-operator-4288106",
+        "source_name": "The Daily Star — Business (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-10-01T16:25:24+00:00",
+        "preview": "Economic affairs committee's approval didn't disclose the name of the foreign operator"
+      },
+      {
+        "title": "Bangladesh’s exports rise 8.54% in September",
+        "link": "https://www.thedailystar.net/business/news/bangladeshs-exports-rise-854-september-4287991",
+        "source_name": "The Daily Star — Business (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-10-01T13:32:46+00:00",
+        "preview": "The country shipped $3.93 billion worth of merchandise in the month"
+      },
+      {
+        "title": "Grameen Telecom concern launches gpay",
+        "link": "https://www.thedailystar.net/business/news/grameen-telecom-concern-launches-gpay-4288091",
+        "source_name": "The Daily Star — Business (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-10-01T16:14:39+00:00",
+        "preview": "Samadhan Services Ltd, a concern of Grameen Telecom, today launched its digital financial services platform gpay, about a year after receiving a licence from Bangladesh Bank to operate as a payment service provider…"
+      },
+      {
+        "title": "British Council seeks to deepen Bangladesh-UK collaboration",
+        "link": "https://www.thedailystar.net/business/news/british-council-seeks-deepen-bangladesh-uk-collaboration-4288056",
+        "source_name": "The Daily Star — Business (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-10-01T15:13:22+00:00",
+        "preview": "The British Council is looking to deepen its longstanding partnerships in Bangladesh and expand opportunities for collaboration between people and institutions in the two countries, its chief executive Scott McDonald…"
+      },
+      {
+        "title": "Korea-Bangladesh Chamber holds tree plantation programme at Cumilla Economic Zone",
+        "link": "https://www.thedailystar.net/business/news/korea-bangladesh-chamber-holds-tree-plantation-programme-cumilla-economic-zone-4287961",
+        "source_name": "The Daily Star — Business (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-10-01T12:53:49+00:00",
+        "preview": "The Korea-Bangladesh Chamber of Commerce & Industry (KBCCI) today organised a tree plantation programme at the Cumilla Economic Zone at Sonachar in Meghna upazila of Cumilla."
+      },
+      {
+        "title": "Remittance inflow hits 11-month low",
+        "link": "https://www.thedailystar.net/top-news/news/remittance-inflow-hits-11-month-low-4287956",
+        "source_name": "The Daily Star — Business (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-10-01T12:53:06+00:00",
+        "preview": "However, the figure, $2.76 billion, is 3% higher year-on-year"
+      },
+      {
+        "title": "QatarEnergy extends LNG force majeure",
+        "link": "https://www.dawn.com/news/2033427/qatarenergy-extends-lng-force-majeure",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-29T03:12:30+00:00",
+        "preview": "MILAN: QatarEnergy has extended force majeure notices and will not be able to deliver liquefied natural gas cargoes to Italian utility Edison or some Asian clients as the Strait of Hormuz remains closed, Edison and…"
+      },
+      {
+        "title": "‘They showed no mercy’: mapping the Rohingya villages being erased by rebel forces",
+        "link": "https://www.theguardian.com/global-development/ng-interactive/2026/oct/01/they-showed-no-mercy-mapping-the-rohingya-villages-being-erased-by-rebel-forces",
+        "source_name": "The Guardian — Asia",
+        "source_type": "global",
+        "published": "2026-10-01T09:00:33+00:00",
+        "preview": "Nearly a decade after the ethnic cleansing of Rohingya people by Myanmar forces, satellite images show the insurgent Arakan Army is now emulating the killings and land grabs There are at least 10 camps like the one on…"
+      },
+      {
+        "title": "Bangladesh women lose ground after quota reform",
+        "link": "https://www.dawn.com/news/2033709/bangladesh-women-lose-ground-after-quota-reform",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-30T06:06:38+00:00",
+        "preview": "Bangladesh’s 2024 student-led uprising was fuelled by a demand that coveted government jobs be awarded on merit, not through quotas. The movement succeeded, the government was overthrown, and the quota system was…"
+      }
+    ],
+    "Pakistan": [
+      {
+        "title": "Revenue surge, subsidy plans sit well with IMF",
+        "link": "https://www.dawn.com/news/2033886/revenue-surge-subsidy-plans-sit-well-with-imf",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T02:01:57+00:00",
+        "preview": "• Country exceeds first-quarter revenue target despite economic pressures • Plan to replace power subsidies with targeted BISP support reviewed ISLAMABAD: Robust revenue collection and preparedness to shift electricity…"
+      },
+      {
+        "title": "PM urges exporters to deliver, finmin presents reform agenda at PSX",
+        "link": "https://www.brecorder.com/news/40442133/pm-urges-exporters-to-deliver-finmin-presents-reform-agenda-at-psx",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T11:26:25+00:00",
+        "preview": "Prime Minister Shehbaz Sharif on Thursday said that the government remains committed to achieving export-led, sustainable economic growth following the stabilisation of the economy. In a virtual address at the gong…"
+      },
+      {
+        "title": "Pakistan eyes B+ sovereign credit rating by Sept 2027: finance minister",
+        "link": "https://www.brecorder.com/news/40442205/pakistan-eyes-b-sovereign-credit-rating-by-sept-2027-finance-minister",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T17:16:36+00:00",
+        "preview": "Finance Minister Muhammad Aurangzeb said on Thursday Pakistan was expected to be upgraded to ‘B+’ sovereign credit rating by first quarter (Jul–Sep) of the next fiscal year 2027-28 by global agencies, adding it was…"
+      },
+      {
+        "title": "IMF-linked plan to boost local currency bond market unveiled",
+        "link": "https://www.dawn.com/news/2033664/imf-linked-plan-to-boost-local-currency-bond-market-unveiled",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-30T02:27:30+00:00",
+        "preview": "ISLAMABAD: The government on Tuesday anno­unced that the general public would be allowed to trade government securities, including treasury bills and bonds, through the stock market as part of efforts to improve…"
+      },
+      {
+        "title": "Rupee registers gain against US dollar",
+        "link": "https://www.brecorder.com/news/40442175/intra-day-update-rupee-records-gain-against-us-dollar",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T14:28:45+00:00",
+        "preview": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Thursday. The local unit closed the day at 277.10, a gain of Re0.01 against the greenback. On Wednesday , the Pakistani…"
+      },
+      {
+        "title": "Finance minister kicks off talks with visiting IMF mission",
+        "link": "https://www.dawn.com/news/2033493/finance-minister-kicks-off-talks-with-visiting-imf-mission",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-29T10:56:51+00:00",
+        "preview": "ISLAMABAD: Minister for Finance and Revenue Muhammad Aurangzeb held a kick-off meeting on Tuesday with a visiting staff mission of the International Monetary Fund (IMF). The IMF mission, led by Iva Petrova, is in…"
+      },
+      {
+        "title": "Stocks post modest gains on select buying",
+        "link": "https://www.dawn.com/news/2033861/stocks-post-modest-gains-on-select-buying",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T03:52:08+00:00",
+        "preview": "KARACHI: The Pakistan Stock Exchange (PSX) on Wednesday witnessed strong buying interest at attractive valuations, propelling the benchmark KSE-100 index above 171,000 intraday before closing well below the day’s high,…"
+      },
+      {
+        "title": "Asian Development Bank backs ML-1 modernisation",
+        "link": "https://www.dawn.com/news/2033863/asian-development-bank-backs-ml-1-modernisation",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T03:31:09+00:00",
+        "preview": "ISLAMABAD: After extensive consultations with the government, the Asian Development Bank (ADB) is finalising a $1.1 billion investment programme to improve the efficiency, safety and sustainability of railway transport…"
+      },
+      {
+        "title": "T-bill yields jump beyond policy rate",
+        "link": "https://www.dawn.com/news/2033864/t-bill-yields-jump-beyond-policy-rate",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T02:02:28+00:00",
+        "preview": "KARACHI: The government on Wednesday raised the cut-off yields on treasury bills by up to 75 basis points, significantly surpassing returns on risk-free papers above the State Bank of Pakistan’s policy rate of 11.5 per…"
+      },
+      {
+        "title": "Pakistan inflation clocks in at 10.3% in September 2026",
+        "link": "https://www.brecorder.com/news/40442129/pakistan-inflation-clocks-in-at-103-in-september-2026",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T09:15:50+00:00",
+        "preview": "Pakistan’s headline inflation clocked in at 10.3% on a year-on-year (YoY) basis in September 2026, up from 11.1% recorded in August , as shown by Pakistan Bureau of Statistics (PBS) data on Thursday. The consumer price…"
+      },
+      {
+        "title": "PSX: KSE-100 falls over 1,300 points amid selling pressure",
+        "link": "https://www.brecorder.com/news/40442128/psx-kse-100-falls-over-1300-points-amid-selling-pressure",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T14:17:05+00:00",
+        "preview": "After opening on a strong note, stocks at the Pakistan Stock Exchange (PSX) came under sustained selling pressure, gradually erasing early gains as the benchmark KSE-100 Index settled with a loss of over 1,300 points on…"
+      },
+      {
+        "title": "'Everything necessary will be done': Military spokesman reaffirms Pakistan's right to self-defence against Afghanistan-based terrorism",
+        "link": "https://www.dawn.com/news/2034009/everything-necessary-will-be-done-military-spokesman-reaffirms-pakistans-right-to-self-defence-against-afghanistan-based-terrorism",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T16:53:03+00:00",
+        "preview": "Inter-Services Public Relations (ISPR) Director General Lt Gen Ahmed Sharif Chaudhry said on Thursday that Pakistan had the right to self-defence and “everything that is necessary will be done” in response to terrorism…"
+      },
+      {
+        "title": "PM Shehbaz meets global financial firms in London, invites them to invest and expand services in Pakistan",
+        "link": "https://www.dawn.com/news/2033543/pm-shehbaz-meets-global-financial-firms-in-london-invites-them-to-invest-and-expand-services-in-pakistan",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-29T17:07:06+00:00",
+        "preview": "ISLAMABAD: Prime Minister Shehbaz Sharif on Tuesday met with senior executives from leading global financial institutions in London and invited them to invest and expand their services in Pakistan. During a busy day in…"
+      },
+      {
+        "title": "Consumer inflation eases to 10.3pc in September from 11.1pc in August, official data shows",
+        "link": "https://www.dawn.com/news/2033980/consumer-inflation-eases-to-103pc-in-september-from-111pc-in-august-official-data-shows",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T10:49:11+00:00",
+        "preview": "ISLAMABAD: Consumer inflation eased to 10.3 per cent in September from 11.1pc a month earlier, mainly due to a sharp slowdown in food inflation, the Pakistan Bureau of Statistics said on Thursday. The slight…"
+      },
+      {
+        "title": "Pakistan’s solar boom adds pressure on Chinese-backed coal plants: report",
+        "link": "https://www.brecorder.com/news/40442166/pakistans-solar-boom-adds-pressure-on-chinese-backed-coal-plants-report",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T08:14:12+00:00",
+        "preview": "Pakistan’s rapid shift towards solar power is creating a new challenge for the country’s troubled power sector, as cheaper distributed generation reduces demand for grid electricity, strains utilities’ finances and…"
+      },
+      {
+        "title": "‘Why the need for all this drama’: DG ISPR lampoons India's 'neutralised Pakistani terrorist' claims, presents him before media",
+        "link": "https://www.dawn.com/news/2033963/why-the-need-for-all-this-drama-dg-ispr-lampoons-indias-neutralised-pakistani-terrorist-claims-presents-him-before-media",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T17:00:59+00:00",
+        "preview": "Inter-Services Public Relations (ISPR) Director General Lt Gen Ahmed Sharif Chaudhry lampooned India’s claims of “neutralising” a “terrorist” allegedly linked to the Pakistani military, presenting the individual during…"
+      },
+      {
+        "title": "HBL PMI: weaker new orders weigh on manufacturing activity",
+        "link": "https://www.brecorder.com/news/40442189/hbl-pmi-weaker-new-orders-weigh-on-manufacturing-activity",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T13:23:58+00:00",
+        "preview": "The HBL Pakistan Manufacturing PMI eased to 50.9 in September from 51.8 in August, marking the slowest expansion in manufacturing activity in three months. Growth moderated amid the ongoing impact of Middle East…"
+      },
+      {
+        "title": "Public debt surges 76pc to Rs86.7tr in four years",
+        "link": "https://www.dawn.com/news/2033657/public-debt-surges-76pc-to-rs867tr-in-four-years",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-30T02:00:38+00:00",
+        "preview": "ISLAMABAD: With total public debt surging 76 per cent since June 2022 and gross financing needs (GFNs) reaching Rs28.65 trillion for the current fiscal year, the government on Tuesday announced plans to borrow an…"
+      },
+      {
+        "title": "Index tumbles below 170,000 on uncertainty",
+        "link": "https://www.dawn.com/news/2033652/index-tumbles-below-170000-on-uncertainty",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-30T02:00:38+00:00",
+        "preview": "KARACHI: The Pakis­tan Stock Exchange (PSX) extended its decline as jittery investors sold off their holdings, pushing the benchmark KSE-100 index below the 170,000-point mark amid growing economic uncertainty. Topline…"
+      },
+      {
+        "title": "Makkah Defence Alliance aims to 'bolster regional stability', says Saudi crown prince",
+        "link": "https://www.dawn.com/news/2033965/makkah-defence-alliance-aims-to-bolster-regional-stability-says-saudi-crown-prince",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T08:41:47+00:00",
+        "preview": "Saudi Crown Prince Mohammed bin Salman on Wednesday said the Makkah Defence Alliance with Turkiye and Pakistan aims to bolster regional stability and shield the region from tensions and conflicts. He made the remarks…"
+      },
+      {
+        "title": "FPCCI slams govt’s ‘coercive actions’ against industrialists",
+        "link": "https://www.dawn.com/news/2033618/fpcci-slams-govts-coercive-actions-against-industrialists",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-30T02:01:05+00:00",
+        "preview": "HYDERABAD: Leaders of the Federation of Pakistan Chambers of Commerce and Industry (FPCCI) have said that power tariffs will have to be brought at a par with other countries of the region to ensure economic growth and…"
+      },
+      {
+        "title": "Fashion brand Khaadi plans IPO next month: report",
+        "link": "https://www.brecorder.com/news/40442196/fashion-brand-khaadi-plans-ipo-next-month-report",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T14:42:45+00:00",
+        "preview": "Khaadi Pakistan Ltd., a fashion retailer, is planning to launch an initial public offering (IPO) next month to raise funds for expanding its retail outlet network, Bloomberg reported on Thursday. As per the report, the…"
+      },
+      {
+        "title": "Kohinoor Energy, Chinese firm plan battery manufacturing in Pakistan",
+        "link": "https://www.brecorder.com/news/40442169/kohinoor-energy-chinese-firm-plan-battery-manufacturing-in-pakistan",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T10:09:31+00:00",
+        "preview": "Kohinoor Energy Limited (KEL), an Independent Power Producer in the energy sector, and China’s Hebei Juhang Energy Technology Group have signed a non-binding memorandum of understanding to explore a joint venture in…"
+      },
+      {
+        "title": "DPM Dar hails 'whole of govt' approach as he reviews govt fuel subsidy scheme",
+        "link": "https://www.dawn.com/news/2033527/dpm-dar-hails-whole-of-govt-approach-as-he-reviews-govt-fuel-subsidy-scheme",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-29T13:33:45+00:00",
+        "preview": "Deputy Prime Minister and Foreign Minister Ishaq Dar on Tuesday appreciated the success of the Prime Minister’s Fuel Relief Scheme , saying that it reflected a “whole of government” approach. The relief scheme for…"
+      },
+      {
+        "title": "Tarar warns India's unilateral actions on IWT may have implications for water governance globally",
+        "link": "https://www.dawn.com/news/2033713/tarar-warns-indias-unilateral-actions-on-iwt-may-have-implications-for-water-governance-globally",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-30T10:27:54+00:00",
+        "preview": "Information Minister Attaullah Tarar on Wednesday warned that India’s decision to hold the Indus Waters Treaty (IWT) in abeyance could have implications for global transboundary water governance, urging the…"
+      },
+      {
+        "title": "Pakistan condemns India at UN council over occupied Kashmir, minority rights",
+        "link": "https://www.dawn.com/news/2033985/pakistan-condemns-india-at-un-council-over-occupied-kashmir-minority-rights",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T12:01:07+00:00",
+        "preview": "ISLAMABAD: Pakistan on Thursday condemned New Delhi of evading questions on human rights in occupied Kashmir and the treatment of minorities. Exercising the right of reply to India at the 63rd session of the United…"
+      },
+      {
+        "title": "Iran gets US response as Washington pulls out of Iraq",
+        "link": "https://www.dawn.com/news/2033884/iran-gets-us-response-as-washington-pulls-out-of-iraq",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T02:56:25+00:00",
+        "preview": "• Tehran says it looks forward to restoring Islamabad MoU • Official says both sides largely agree on required steps but still disagree about the order in which to take them • US withdrawal from Iraq hailed as historic…"
+      },
+      {
+        "title": "Govt reduces petrol price by Re0.14 per litre, high-speed diesel rate by Rs1.89",
+        "link": "https://www.dawn.com/news/2033780/govt-reduces-petrol-price-by-re014-per-litre-high-speed-diesel-rate-by-rs189",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-30T18:13:24+00:00",
+        "preview": "The government on Wednesday reduced the price of petrol by Re0.14 per litre and that of high-speed diesel (HSD) by Rs1.89 per litre. Following the revision, petrol will retail at Rs387.40 per litre, while HSD will cost…"
+      },
+      {
+        "title": "IHC questions 7-year moratorium on OMCs",
+        "link": "https://www.dawn.com/news/2033867/ihc-questions-7-year-moratorium-on-omcs",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T02:02:28+00:00",
+        "preview": "ISLAMABAD: The Islamabad High Court (IHC) has sought a comprehensive report from the Oil and Gas Regulatory Authority (Ogra) on the continued operation of a moratorium on the establishment of new oil marketing companies…"
+      },
+      {
+        "title": "SBP-held foreign exchange reserves rise $39m to $21.44bn",
+        "link": "https://www.brecorder.com/news/40442201/sbp-held-foreign-exchange-reserves-rise-39m-to-2144bn",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T15:39:57+00:00",
+        "preview": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $39 million during the week ended September 25, 2026, reaching $21.439 billion, according to data released by the central bank on Thursday.…"
+      },
+      {
+        "title": "Pakistan explores PNSC container vessel to support exporters",
+        "link": "https://www.brecorder.com/news/40442144/pakistan-explores-pnsc-container-vessel-to-support-exporters",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T06:02:16+00:00",
+        "preview": "Pakistan National Shipping Corporation (PNSC) may lease or purchase a container vessel to facilitate Pakistani exporters and reduce shipping costs, provided sufficient cargo volumes can be secured to make the operation…"
+      },
+      {
+        "title": "Stakeholders want tax returns date extended",
+        "link": "https://www.dawn.com/news/2033656/stakeholders-want-tax-returns-date-extended",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-30T02:58:47+00:00",
+        "preview": "ISLAMABAD: As the Federal Board of Revenue (FBR) has reported an overwhelming response, with tax returns filed reaching 5.181 million by Sept 29, trade bodies and professionals are seeking an extension of the deadline,…"
+      },
+      {
+        "title": "FBR extends deadline for filing income tax returns to Oct 15",
+        "link": "https://www.dawn.com/news/2033760/fbr-extends-deadline-for-filing-income-tax-returns-to-oct-15",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-30T19:44:16+00:00",
+        "preview": "The Federal Board of Revenue (FBR) on Wednesday extended the cutoff date for filing income tax returns for 2026 to Oct 15, hours before the deadline was set to expire by the end of Sept 30. The notification posted on…"
+      },
+      {
+        "title": "Electricity users face Rs25bn extra fuel cost",
+        "link": "https://www.dawn.com/news/2033658/electricity-users-face-rs25bn-extra-fuel-cost",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-30T02:00:38+00:00",
+        "preview": "ISLAMABAD: As the government sought to charge consumers an additional Rs25 billion for fuel costs in the October bills, the National Electric Power Regulatory Authority (Nepra) on Tuesday decided to review the…"
+      },
+      {
+        "title": "Sri Lankan shares snap 6-session losing streak on consumer, property gains",
+        "link": "https://www.brecorder.com/news/40442178/sri-lankan-shares-snap-6-session-losing-streak-on-consumer-property-gains",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T11:31:34+00:00",
+        "preview": "Sri Lankan shares closed higher, snapping a six-session losing streak, on Thursday as gains in consumer discretionary and real estate stocks outweighed losses in IT and energy stocks. The CSE All-Share index settled up…"
+      },
+      {
+        "title": "LPG gets 8pc costlier ahead of winter",
+        "link": "https://www.dawn.com/news/2033865/lpg-gets-8pc-costlier-ahead-of-winter",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T02:02:28+00:00",
+        "preview": "ISLAMABAD: Ahead of winter, the Oil and Gas Regulatory Authority (Ogra) on Wednesday notified an eight per cent increase in liquefied petroleum gas (LPG), raising the cost of the 11.8kg domestic cylinder by Rs244.14 for…"
+      },
+      {
+        "title": "Aleem orders NHA to work with foreign experts on road engineering, highway design",
+        "link": "https://www.dawn.com/news/2033761/aleem-orders-nha-to-work-with-foreign-experts-on-road-engineering-highway-design",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-30T14:06:20+00:00",
+        "preview": "ISLAMABAD: Communications Minister Abdul Aleem Khan directed the National Highway Authority (NHA) to work with foreign experts to improve road engineering and highway design in a meeting on Wednesday. The meeting,…"
+      },
+      {
+        "title": "UNAMA acting chief visits Islam Qala border to assess support for returnees",
+        "link": "https://www.ariananews.af/unama-acting-chief-visits-islam-qala-border-to-assess-support-for-returnees/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T09:50:17+00:00",
+        "preview": "UN launched a $529 million response plan aimed at assisting around 2.7 million Afghans expected to return from Iran and Pakistan between April and December 2026. The post UNAMA acting chief visits Islam Qala border to…"
+      },
+      {
+        "title": "Lucky Motor opens bookings for all-new Kia Stonic Turbo",
+        "link": "https://www.brecorder.com/news/40442187/lucky-motor-opens-bookings-for-all-new-kia-stonic-turbo",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T14:56:52+00:00",
+        "preview": "Lucky Motor Corporation (LMC) announced on Thursday the official launch of the all-new Kia Stonic 1.0L Turbo and opened bookings for the compact crossover from October 1. The Stonic comes in two variants. The 1.0L Turbo…"
+      },
+      {
+        "title": "Pakistan launches deadly air strikes on Afghanistan",
+        "link": "https://www.bbc.co.uk/news/articles/cw4grg92lmr5o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC — Asia",
+        "source_type": "global",
+        "published": "2026-10-01T08:06:28+00:00",
+        "preview": "The Afghan Taliban says nine civilians have died while Pakistan says the strikes killed 22 militants."
+      },
+      {
+        "title": "No change in Kashmir policy, US assures Islamabad",
+        "link": "https://www.dawn.com/news/2033661/no-change-in-kashmir-policy-us-assures-islamabad",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-30T02:43:59+00:00",
+        "preview": "WASHINGTON: The US has assured Pakistan that its position on the Kashmir dispute remains unchanged and that Washington continues to regard the region as a disputed territory requiring a settlement between Pakistan and…"
+      },
+      {
+        "title": "Taliban spokesman says Pakistani airstrikes killed 9 civilians in Kunar, Helmand",
+        "link": "https://amu.tv/253491/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T05:41:14+00:00",
+        "preview": "The latest strikes mark the third reported round of Pakistani air attacks inside Afghanistan in the past 10 days. The post Taliban spokesman says Pakistani airstrikes killed 9 civilians in Kunar, Helmand appeared first…"
+      },
+      {
+        "title": "FBR unearths Rs9.41bn wealth fraud",
+        "link": "https://www.dawn.com/news/2033866/fbr-unearths-rs941bn-wealth-fraud",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T02:02:28+00:00",
+        "preview": "ISLAMABAD: The Federal Board of Revenue (FBR) has uncovered a fraud in which taxpayers illegally amended previous wealth statements to declare unexplained assets worth Rs9.41 billion. The FBR said on Wednesday that it…"
+      },
+      {
+        "title": "UNAMA Says 10 Civilians Killed in Pakistani Airstrikes on Afghanistan",
+        "link": "https://www.khaama.com/unama-says-10-civilians-killed-in-pakistani-airstrikes-on-afghanistan/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T12:09:27+00:00",
+        "preview": "The United Nations Assistance Mission in Afghanistan (UNAMA) said at least 10 civilians were killed in Pakistani airstrikes on Afghanistan’s Kunar and Helmand provinces, with most of the victims reported to be children.…"
+      },
+      {
+        "title": "Pakistan will be there to defend Saudi Arabia in any conflict: Khawaja Asif",
+        "link": "https://www.dawn.com/news/2033772/pakistan-will-be-there-to-defend-saudi-arabia-in-any-conflict-khawaja-asif",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-30T15:54:37+00:00",
+        "preview": "Defence Minister Khawaja Asif has said that Pakistan was “there to help” Saudi Arabia in any conflict. “We are there to help Saudi Arabia in any conflict, whether it is coming from the Houthis or a country or any other…"
+      },
+      {
+        "title": "Four members of one family killed in Helmand in Pakistan airstrike",
+        "link": "https://www.ariananews.af/four-members-of-one-family-killed-in-helmand-in-pakistan-airstrike/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T10:05:47+00:00",
+        "preview": "The family, originally from Ghazni province, reportedly operated a small restaurant in the area. The post Four members of one family killed in Helmand in Pakistan airstrike first appeared on Ariana News | Afghanistan…"
+      },
+      {
+        "title": "Govt reduces petrol price by Rs1.49 per litre, high-speed diesel rate by Rs2.73",
+        "link": "https://www.dawn.com/news/2033537/govt-reduces-petrol-price-by-rs149-per-litre-high-speed-diesel-rate-by-rs273",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-29T17:51:10+00:00",
+        "preview": "The government on Tuesday reduced the price of petrol by Rs1.49 per litre and that of high-speed diesel (HSD) by Rs2.73 per litre. Following the revision, petrol will retail at Rs387.54 per litre, while HSD will cost…"
+      },
+      {
+        "title": "QatarEnergy extends LNG force majeure",
+        "link": "https://www.dawn.com/news/2033427/qatarenergy-extends-lng-force-majeure",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-29T03:12:30+00:00",
+        "preview": "MILAN: QatarEnergy has extended force majeure notices and will not be able to deliver liquefied natural gas cargoes to Italian utility Edison or some Asian clients as the Strait of Hormuz remains closed, Edison and…"
+      },
+      {
+        "title": "Pakistan Airstrikes in Kunar and Helmand Kill 9, Mujahid Says",
+        "link": "https://www.khaama.com/pakistan-airstrikes-in-kunar-and-helmand-kill-9-mujahid-says/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T06:22:00+00:00",
+        "preview": "Pakistan carried out airstrikes in Afghanistan’s Kunar and Helmand provinces on Thursday, killing nine people and injuring 11 others, according to Taliban spokesman Zabihullah Mujahid. Mujahid said the strikes hit…"
+      },
+      {
+        "title": "3 Pakistanis among 5 crew lost during operation to recover ship hijacked by Somali pirates, FO confirms",
+        "link": "https://www.dawn.com/news/2033759/3-pakistanis-among-5-crew-lost-during-operation-to-recover-ship-hijacked-by-somali-pirates-fo-confirms",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-30T13:25:51+00:00",
+        "preview": "The Foreign Office (FO) on Wednesday expressed condolences over the death of three Pakistani nationals during an operation to recover the MT Honour 25 oil tanker, which had been hijacked by Somali pirates in April. The…"
+      },
+      {
+        "title": "Higher-than-expected sales tax receipts help FBR exceed quarterly collection targets",
+        "link": "https://www.dawn.com/news/2033926/higher-than-expected-sales-tax-receipts-help-fbr-exceed-quarterly-collection-targets",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T03:43:54+00:00",
+        "preview": "https://www.dawn.com/news/2033862"
+      },
+      {
+        "title": "Swedish rights prize honours Pakistani human rights lawyer Jalila Haider",
+        "link": "https://www.dawn.com/news/2033707/swedish-rights-prize-honours-pakistani-human-rights-lawyer-jalila-haider",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-30T05:54:46+00:00",
+        "preview": "Human rights lawyer and activist Jalila Haider on Wednesday received the Right Livelihood prize, dubbed an “alternative Nobel”. The Sweden-based Right Livelihood Foundation honoured Haider “for breaking barriers, as the…"
+      },
+      {
+        "title": "Kabul Summons Pakistani Diplomat Over Airstrikes on Afghanistan",
+        "link": "https://www.khaama.com/kabul-summons-pakistani-diplomat-over-airstrikes-on-afghanistan/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T05:45:00+00:00",
+        "preview": "The Taliban administration has summoned Pakistan’s chargé d’affaires in Kabul over Pakistani airstrikes on several Afghanistan provinces, accusing Islamabad of violating Afghanistan’s airspace and territorial…"
+      },
+      {
+        "title": "FBR integrates blockchain trade verification",
+        "link": "https://www.dawn.com/news/2033654/fbr-integrates-blockchain-trade-verification",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-30T02:00:38+00:00",
+        "preview": "ISLAMABAD: The Federal Board of Revenue (FBR) has integrated customs administration with ValidAP, the blockchain-based cross-validation platform, to advance secure digital trade and facilitation. ValidAP was developed…"
+      },
+      {
+        "title": "Pakistan Defence Minister Tells Afghan Journalist: “You Are Not a Good Neighbour”",
+        "link": "https://www.khaama.com/pakistan-defence-minister-tells-afghan-journalist-you-are-not-a-good-neighbour/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T12:53:31+00:00",
+        "preview": "Pakistan’s Defence Minister Khawaja Asif told an Afghan woman journalist that Afghanistan was “not a good neighbour” when asked about Islamabad’s changing position toward the Taliban and the deterioration of relations…"
+      },
+      {
+        "title": "Securities and Exchange Commission proposes hike in loan limits",
+        "link": "https://www.dawn.com/news/2033653/securities-and-exchange-commission-proposes-hike-in-loan-limits",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-30T03:17:02+00:00",
+        "preview": "ISLAMABAD: The Securities and Exchange Commission of Pakistan (SECP) has proposed raising the maximum loan limit for microenterprise and housing finance from non-banking microfinance companies to Rs5 million and…"
+      },
+      {
+        "title": "Pakistan’s Escalating Response to Cross-Border Terrorism",
+        "link": "https://thediplomat.com/2026/09/pakistans-escalating-response-to-cross-border-terrorism/",
+        "source_name": "The Diplomat",
+        "source_type": "global",
+        "published": "2026-09-29T14:14:00+00:00",
+        "preview": "The recurring clashes represent the failure of months of diplomacy and external mediation. Where does the Afghanistan-Pakistan relationship go from here?"
+      },
+      {
+        "title": "Govt reduces petrol price by Rs2.27 per litre, high-speed diesel rate by Rs3.56",
+        "link": "https://www.dawn.com/news/2033319/govt-reduces-petrol-price-by-rs227-per-litre-high-speed-diesel-rate-by-rs356",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-28T18:00:09+00:00",
+        "preview": "The government on Monday decreased the price of petrol by Rs2.27 per litre and that of high-speed diesel (HSD) by Rs3.56 per litre. Following the revision, petrol will retail at Rs389.03 per litre, while HSD will cost…"
+      },
+      {
+        "title": "FPCCI seeks extension in tax returns filing date",
+        "link": "https://www.dawn.com/news/2033423/fpcci-seeks-extension-in-tax-returns-filing-date",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-29T03:19:09+00:00",
+        "preview": "KARACHI: Federation of Pakistan Chambers of Commerce and Industry (FPCCI) President Atif Ikram Sheikh has formally urged the government to extend the deadline for filing income tax returns to Oct 31 to facilitate trade,…"
+      },
+      {
+        "title": "Islamabad-Kabul Relations Reach ‘Point of No Return,’ Report Says",
+        "link": "https://www.khaama.com/islamabad-kabul-relations-reach-point-of-no-return-report-says/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-28T18:12:11+00:00",
+        "preview": "Relations between Pakistan and the Taliban have reached a “point of no return” and are likely to deteriorate further despite regional mediation efforts, according to Pakistan’s Express Tribune, as military clashes and…"
+      },
+      {
+        "title": "IOM: Returnees From Pakistan Receive Three Times More Aid Than Those From Iran",
+        "link": "https://www.khaama.com/iom-returnees-from-pakistan-receive-three-times-more-aid-than-those-from-iran/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-29T09:26:10+00:00",
+        "preview": "Afghan returnees from Pakistan were nearly three times more likely than those returning from Iran to receive multipurpose cash assistance, according to a new report by the International Organization for Migration (IOM).…"
+      },
+      {
+        "title": "Pakistan and Terrorism: When the Tables Turn",
+        "link": "https://thediplomat.com/2026/09/pakistan-and-terrorism-when-the-tables-turn/",
+        "source_name": "The Diplomat",
+        "source_type": "global",
+        "published": "2026-09-29T12:12:00+00:00",
+        "preview": "Islamabad cannot use its own people’s suffering to erase its record of supporting forces that have devastated lives in other countries."
+      },
+      {
+        "title": "FBR waives tax on factory to warehouse movements in move to curb taxpayer harassment",
+        "link": "https://www.dawn.com/news/2033462/fbr-waives-tax-on-factory-to-warehouse-movements-in-move-to-curb-taxpayer-harassment",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-09-29T03:06:16+00:00",
+        "preview": "https://www.dawn.com/news/2033429"
+      },
+      {
+        "title": "UNAMA says at least 10 civilians killed in Pakistani airstrikes in Kunar, Helmand",
+        "link": "https://amu.tv/253566/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T15:34:15+00:00",
+        "preview": "The strikes hit parts of Shultan district in Kunar and Garmser district in Helmand overnight. The post UNAMA says at least 10 civilians killed in Pakistani airstrikes in Kunar, Helmand appeared first on Amu TV ."
+      },
+      {
+        "title": "Rashid Khan, Azmatullah Omarzai maintain top spots in ICC ODI rankings",
+        "link": "https://www.ariananews.af/rashid-khan-azmatullah-omarzai-maintain-top-spots-in-icc-odi-rankings/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T09:37:48+00:00",
+        "preview": "Afghanistan’s cricket stars Rashid Khan and Azmatullah Omarzai have maintained their positions at the top of the latest ICC Men’s ODI rankings. Rashid Khan remains the No. 1 ODI bowler in the world with 714 rating…"
+      },
+      {
+        "title": "Karzai Condemns Pakistani Airstrikes in Kunar and Helmand, Calls for End to Hostilities",
+        "link": "https://www.khaama.com/karzai-condemns-pakistani-airstrikes-in-kunar-and-helmand-calls-for-end-to-hostilities/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T07:50:15+00:00",
+        "preview": "Former Afghanistan President Hamid Karzai has condemned Pakistani airstrikes in Afghanistan’s Kunar and Helmand provinces, describing the attacks as a violation of Afghanistan’s sovereignty and territorial integrity. In…"
+      },
+      {
+        "title": "Karzai condemns Pakistani airstrikes on Kunar and Helmand",
+        "link": "https://www.ariananews.af/karzai-condemns-pakistani-airstrikes-on-kunar-and-helmand/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T06:50:00+00:00",
+        "preview": "In a statement, Karzai expressed condolences to the families of those killed and wished a swift recovery to those injured. The post Karzai condemns Pakistani airstrikes on Kunar and Helmand first appeared on Ariana News…"
+      },
+      {
+        "title": "Pakistan Airstrikes in Afghanistan’s Helmand Kill Civilians",
+        "link": "https://www.khaama.com/pakistan-airstrikes-in-afghanistans-helmand-kill-civilians/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T05:48:51+00:00",
+        "preview": "Pakistani airstrikes on Afghanistan’s southern Helmand province killed at least four people and injured six others, most of them women and children, according to Afghan officials, as tensions between the two neighboring…"
+      },
+      {
+        "title": "Pakistani airstrikes kill nine Afghan civilians, injure 11",
+        "link": "https://www.ariananews.af/pakistani-airstrikes-kill-nine-afghan-civilians-injure-11/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T04:55:45+00:00",
+        "preview": "The Islamic Emirate of Afghanistan (IEA) said on Thursday Pakistani aircraft carried out airstrikes on civilian homes in Kunar and Helmand provinces last night, killing nine Afghan civilians, including women and…"
+      },
+      {
+        "title": "US Afghanistan War Commission Meets Pakistan Army Chief, Reviews Islamabad’s Role in War",
+        "link": "https://www.khaama.com/us-afghanistan-war-commission-meets-pakistan-army-chief-reviews-islamabads-role-in-war/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-29T05:31:05+00:00",
+        "preview": "A delegation from the U.S. Afghanistan War Commission, led by its co-chairs Shamila N. Chaudhary and Dr. Colin F. Jackson, met Pakistan’s Chief of Defence Forces and Army Chief, Field Marshal Asim Munir, in Rawalpindi…"
+      }
+    ],
+    "Afghanistan": [
+      {
+        "title": "'Everything necessary will be done': Military spokesman reaffirms Pakistan's right to self-defence against Afghanistan-based terrorism",
+        "link": "https://www.dawn.com/news/2034009/everything-necessary-will-be-done-military-spokesman-reaffirms-pakistans-right-to-self-defence-against-afghanistan-based-terrorism",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T16:53:03+00:00",
+        "preview": "Inter-Services Public Relations (ISPR) Director General Lt Gen Ahmed Sharif Chaudhry said on Thursday that Pakistan had the right to self-defence and “everything that is necessary will be done” in response to terrorism…"
+      },
+      {
+        "title": "‘Why the need for all this drama’: DG ISPR lampoons India's 'neutralised Pakistani terrorist' claims, presents him before media",
+        "link": "https://www.dawn.com/news/2033963/why-the-need-for-all-this-drama-dg-ispr-lampoons-indias-neutralised-pakistani-terrorist-claims-presents-him-before-media",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T17:00:59+00:00",
+        "preview": "Inter-Services Public Relations (ISPR) Director General Lt Gen Ahmed Sharif Chaudhry lampooned India’s claims of “neutralising” a “terrorist” allegedly linked to the Pakistani military, presenting the individual during…"
+      },
+      {
+        "title": "Russia to Host Eighth Moscow Format Talks on Afghanistan on October 5",
+        "link": "https://www.khaama.com/russia-to-host-eighth-moscow-format-talks-on-afghanistan-on-october-5/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T09:55:08+00:00",
+        "preview": "Russia will host the eighth round of the Moscow Format consultations on Afghanistan on October 5, bringing together Afghan officials and representatives from neighboring and regional countries to discuss political,…"
+      },
+      {
+        "title": "UNAMA acting chief visits Islam Qala border to assess support for returnees",
+        "link": "https://www.ariananews.af/unama-acting-chief-visits-islam-qala-border-to-assess-support-for-returnees/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T09:50:17+00:00",
+        "preview": "UN launched a $529 million response plan aimed at assisting around 2.7 million Afghans expected to return from Iran and Pakistan between April and December 2026. The post UNAMA acting chief visits Islam Qala border to…"
+      },
+      {
+        "title": "Pakistan launches deadly air strikes on Afghanistan",
+        "link": "https://www.bbc.co.uk/news/articles/cw4grg92lmr5o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC — Asia",
+        "source_type": "global",
+        "published": "2026-10-01T08:06:28+00:00",
+        "preview": "The Afghan Taliban says nine civilians have died while Pakistan says the strikes killed 22 militants."
+      },
+      {
+        "title": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot",
+        "link": "https://www.ariananews.af/passengers-foil-bid-to-crash-dubai-tel-aviv-flight-israel-says-after-co-pilot-stabs-pilot/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T04:19:05+00:00",
+        "preview": "The incident sharpened concerns about global aviation security in a region scarred by years of conflict, prompting ​Israel to tighten checks on pilots flying into the country. The post Passengers foil bid to crash…"
+      },
+      {
+        "title": "Massive Fire Breaks Out at Islam Qala Customs, Fuel and Gas Tankers Explode",
+        "link": "https://www.khaama.com/massive-fire-breaks-out-at-islam-qala-customs-fuel-and-gas-tankers-explode/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T19:05:16+00:00",
+        "preview": "A major fire broke out at Afghanistan’s Islam Qala customs port in western Herat province on Wednesday, engulfing vehicles and fuel tankers and sending thick smoke over the border crossing, according to local sources.…"
+      },
+      {
+        "title": "Taliban spokesman says Pakistani airstrikes killed 9 civilians in Kunar, Helmand",
+        "link": "https://amu.tv/253491/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T05:41:14+00:00",
+        "preview": "The latest strikes mark the third reported round of Pakistani air attacks inside Afghanistan in the past 10 days. The post Taliban spokesman says Pakistani airstrikes killed 9 civilians in Kunar, Helmand appeared first…"
+      },
+      {
+        "title": "Over 1,500 Unaccompanied Refugee Children in Greece Shelters, Afghans Second-Largest Group: IRC",
+        "link": "https://www.khaama.com/irc-more-than-1500-unaccompanied-children-face-uncertain-future-in-greece/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T11:24:00+00:00",
+        "preview": "More than 1,500 unaccompanied refugee children are currently living in shelters across Greece, with Afghan minors making up the second-largest group, according to a new report by IRC. More than 1,500 unaccompanied…"
+      },
+      {
+        "title": "UNAMA Says 10 Civilians Killed in Pakistani Airstrikes on Afghanistan",
+        "link": "https://www.khaama.com/unama-says-10-civilians-killed-in-pakistani-airstrikes-on-afghanistan/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T12:09:27+00:00",
+        "preview": "The United Nations Assistance Mission in Afghanistan (UNAMA) said at least 10 civilians were killed in Pakistani airstrikes on Afghanistan’s Kunar and Helmand provinces, with most of the victims reported to be children.…"
+      },
+      {
+        "title": "Four members of one family killed in Helmand in Pakistan airstrike",
+        "link": "https://www.ariananews.af/four-members-of-one-family-killed-in-helmand-in-pakistan-airstrike/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T10:05:47+00:00",
+        "preview": "The family, originally from Ghazni province, reportedly operated a small restaurant in the area. The post Four members of one family killed in Helmand in Pakistan airstrike first appeared on Ariana News | Afghanistan…"
+      },
+      {
+        "title": "Pakistan Airstrikes in Kunar and Helmand Kill 9, Mujahid Says",
+        "link": "https://www.khaama.com/pakistan-airstrikes-in-kunar-and-helmand-kill-9-mujahid-says/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T06:22:00+00:00",
+        "preview": "Pakistan carried out airstrikes in Afghanistan’s Kunar and Helmand provinces on Thursday, killing nine people and injuring 11 others, according to Taliban spokesman Zabihullah Mujahid. Mujahid said the strikes hit…"
+      },
+      {
+        "title": "US Homeland Security Says Errors Found in 40% of Afghan Asylum Cases",
+        "link": "https://www.khaama.com/us-homeland-security-says-errors-found-in-40-of-afghan-asylum-cases/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T11:52:42+00:00",
+        "preview": "The U.S. Department of Homeland Security’s Office of Inspector General has found at least one vetting or documentation error in 40 percent of a sample of asylum files involving Afghans who entered the United States…"
+      },
+      {
+        "title": "Tajikistan Agrees to Increase Electricity Exports to Afghanistan",
+        "link": "https://www.khaama.com/tajikistan-agrees-to-increase-electricity-exports-to-afghanistan/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T09:00:00+00:00",
+        "preview": "Afghanistan electricity company, Breshna, says Tajikistan has agreed to increase electricity exports to Afghanistan as the two countries discuss expanding power supplies and transmission infrastructure. The company said…"
+      },
+      {
+        "title": "Afghanistan, Belarus discuss expanding industrial and trade cooperation",
+        "link": "https://www.ariananews.af/afghanistan-belarus-discuss-expanding-industrial-and-trade-cooperation/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T07:15:45+00:00",
+        "preview": "Particular attention was given to companies producing tractors, industrial machinery, and equipment and vehicles used in the mining sector. The post Afghanistan, Belarus discuss expanding industrial and trade…"
+      },
+      {
+        "title": "US-Iran Talks Stall as Qatar Mediation Fails to Bridge Key Differences",
+        "link": "https://www.khaama.com/us-iran-talks-stall-as-qatar-mediation-fails-to-bridge-key-differences/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T05:08:00+00:00",
+        "preview": "Efforts by Qatar to broker a diplomatic breakthrough between the United States and Iran have made little progress this week, with neither side showing willingness to substantially change its position, Axios reported,…"
+      },
+      {
+        "title": "Da Afghanistan Bank reports increase in public bank deposits",
+        "link": "https://www.ariananews.af/da-afghanistan-bank-reports-increase-in-public-bank-deposits/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T06:03:47+00:00",
+        "preview": "Da Afghanistan Bank (DAB) says public deposits in the country’s banks have increased this year, with significant progress also recorded in the banking sector. Sediqullah Khalid, First Deputy Governor of DAB, made the…"
+      },
+      {
+        "title": "Kabul Summons Pakistani Diplomat Over Airstrikes on Afghanistan",
+        "link": "https://www.khaama.com/kabul-summons-pakistani-diplomat-over-airstrikes-on-afghanistan/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T05:45:00+00:00",
+        "preview": "The Taliban administration has summoned Pakistan’s chargé d’affaires in Kabul over Pakistani airstrikes on several Afghanistan provinces, accusing Islamabad of violating Afghanistan’s airspace and territorial…"
+      },
+      {
+        "title": "Iran Begins Renewal of Temporary Residency Cards for Former Afghan Personnel",
+        "link": "https://www.khaama.com/iran-begins-renewal-of-temporary-residency-cards-for-former-afghan-personnel/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T19:53:00+00:00",
+        "preview": "Iran has begun the process of renewing temporary residency documents for some Afghan former military personnel and employees of the previous Afghan government, according to Afghan migrants and an activist familiar with…"
+      },
+      {
+        "title": "Pakistan Defence Minister Tells Afghan Journalist: “You Are Not a Good Neighbour”",
+        "link": "https://www.khaama.com/pakistan-defence-minister-tells-afghan-journalist-you-are-not-a-good-neighbour/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T12:53:31+00:00",
+        "preview": "Pakistan’s Defence Minister Khawaja Asif told an Afghan woman journalist that Afghanistan was “not a good neighbour” when asked about Islamabad’s changing position toward the Taliban and the deterioration of relations…"
+      },
+      {
+        "title": "Afghanistan, Tajikistan discuss higher electricity imports and 500kV transmission line",
+        "link": "https://www.ariananews.af/afghanistan-tajikistan-discuss-higher-electricity-imports-and-500kv-transmission-line/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T07:48:23+00:00",
+        "preview": "The two sides agreed that their technical and commercial teams would continue negotiations and work toward practical outcomes on the issues discussed. The post Afghanistan, Tajikistan discuss higher electricity imports…"
+      },
+      {
+        "title": "Taliban leader formalizes clerics’ oversight role, requires ‘jihadi mindset’",
+        "link": "https://amu.tv/253445/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T07:06:46+00:00",
+        "preview": "Each council is to have a chairman, deputy, administrative officer and financial officer, with additional members appointed as needed. The post Taliban leader formalizes clerics’ oversight role, requires ‘jihadi…"
+      },
+      {
+        "title": "Taliban minister urges armed opponents to return",
+        "link": "https://amu.tv/253470/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T13:50:56+00:00",
+        "preview": "Noori described Taliban opponents as “slaves” but also said the Taliban were capable of negotiation and understanding. The post Taliban minister urges armed opponents to return appeared first on Amu TV ."
+      },
+      {
+        "title": "Fighting subsides in Kamdesh after five days of clashes, residents say",
+        "link": "https://amu.tv/253456/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T10:29:46+00:00",
+        "preview": "The Taliban district governor in Kamdesh also confirmed that the fighting had stopped but declined to provide further details. The post Fighting subsides in Kamdesh after five days of clashes, residents say appeared…"
+      },
+      {
+        "title": "US, Iran Hold Separate Talks With Mediators in Latest Bid to End War",
+        "link": "https://www.khaama.com/us-iran-hold-separate-talks-with-mediators-in-latest-bid-to-end-war/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-29T05:46:50+00:00",
+        "preview": "US and Iranian officials held separate talks with mediators on Monday as diplomatic efforts intensified to end the seven-month war and revive negotiations over a possible ceasefire and the reopening of the Strait of…"
+      },
+      {
+        "title": "Haalvsh Reports Fatemiyoun Fighters Spotted in Iran’s Zahedan",
+        "link": "https://www.khaama.com/haalvsh-reports-fatemiyoun-fighters-spotted-in-irans-zahedan/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T06:40:00+00:00",
+        "preview": "Human rights organization Haalvsh has released a video that it shows members of the Iran-backed Fatemiyoun militia wearing military uniforms and carrying weapons while patrolling mountainous areas in Rudmahi, near…"
+      },
+      {
+        "title": "Explosion kills Three Children Afghanistan’s Nangarhar",
+        "link": "https://www.khaama.com/explosion-kills-three-children-afghanistans-nangarhar/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T06:25:00+00:00",
+        "preview": "An explosion in Afghanistan’s eastern Nangarhar province has killed three children, according to reports. Three children were killed after a mortar shell they reportedly found exploded in Khugiani district of…"
+      },
+      {
+        "title": "Qalat resident says he walks two kilometers a day to find water",
+        "link": "https://amu.tv/253429/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T05:06:31+00:00",
+        "preview": "The residents called for the construction of dams and other water-storage facilities to help retain water for longer periods. The post Qalat resident says he walks two kilometers a day to find water appeared first on…"
+      },
+      {
+        "title": "US Extends Qatar Camp Housing More Than 1,000 Afghan Allies for Nine Months",
+        "link": "https://www.khaama.com/us-extends-qatar-camp-housing-more-than-1000-afghan-allies-for-nine-months/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T04:46:17+00:00",
+        "preview": "The United States will extend the operation of Camp As Sayliyah in Qatar for another nine months, delaying the planned closure of a facility housing more than 1,000 Afghans who supported the U.S. war effort or are…"
+      },
+      {
+        "title": "Pakistan’s Escalating Response to Cross-Border Terrorism",
+        "link": "https://thediplomat.com/2026/09/pakistans-escalating-response-to-cross-border-terrorism/",
+        "source_name": "The Diplomat",
+        "source_type": "global",
+        "published": "2026-09-29T14:14:00+00:00",
+        "preview": "The recurring clashes represent the failure of months of diplomacy and external mediation. Where does the Afghanistan-Pakistan relationship go from here?"
+      },
+      {
+        "title": "UNODC Warns Afghanistan’s Interlinked Crises Are Increasing Risks of Crime and Exploitation",
+        "link": "https://www.khaama.com/unodc-warns-afghanistans-interlinked-crises-are-increasing-risks-of-crime-and-exploitation/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-29T10:47:20+00:00",
+        "preview": "The United Nations Office on Drugs and Crime (UNODC) has warned that overlapping crises in Afghanistan, including restrictions on women and girls, declining humanitarian assistance and large-scale returns of Afghans…"
+      },
+      {
+        "title": "American University of Afghanistan at Risk of Closure Amid Funding Cuts",
+        "link": "https://www.nytimes.com/2026/10/01/world/asia/american-university-kabul-usaid.html",
+        "source_name": "The New York Times — World",
+        "source_type": "global",
+        "published": "2026-10-01T16:35:30+00:00",
+        "preview": "The State Department has denied its funding for the next two years, jeopardizing the education of hundreds of female Afghan students."
+      },
+      {
+        "title": "UNHCR Funding Crisis Could Leave 8.3 Million Without Aid",
+        "link": "https://www.khaama.com/unhcr-funding-crisis-could-leave-8-3-million-without-aid/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-29T10:24:43+00:00",
+        "preview": "The United Nations refugee agency has warned that a severe funding crisis could leave nearly 8.3 million refugees and forcibly displaced people without access to essential assistance this year, as donor contributions…"
+      },
+      {
+        "title": "Explosion Damages Security Post in Herat, Officials Say",
+        "link": "https://www.khaama.com/explosion-damages-security-post-in-herat-officials-say/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-29T10:04:00+00:00",
+        "preview": "The security command in Herat has confirmed that an explosion occurred at one of the security booths in the western Afghanistan city, without immediately providing details about casualties or the cause of the blast.…"
+      },
+      {
+        "title": "Islamabad-Kabul Relations Reach ‘Point of No Return,’ Report Says",
+        "link": "https://www.khaama.com/islamabad-kabul-relations-reach-point-of-no-return-report-says/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-28T18:12:11+00:00",
+        "preview": "Relations between Pakistan and the Taliban have reached a “point of no return” and are likely to deteriorate further despite regional mediation efforts, according to Pakistan’s Express Tribune, as military clashes and…"
+      },
+      {
+        "title": "IOM: Returnees From Pakistan Receive Three Times More Aid Than Those From Iran",
+        "link": "https://www.khaama.com/iom-returnees-from-pakistan-receive-three-times-more-aid-than-those-from-iran/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-29T09:26:10+00:00",
+        "preview": "Afghan returnees from Pakistan were nearly three times more likely than those returning from Iran to receive multipurpose cash assistance, according to a new report by the International Organization for Migration (IOM).…"
+      },
+      {
+        "title": "US Senator Criticizes Iran War, Cites Rising Cost to Americans",
+        "link": "https://www.khaama.com/us-senator-criticizes-iran-war-cites-rising-cost-to-americans/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-29T07:18:26+00:00",
+        "preview": "U.S. Senate Minority Leader Chuck Schumer has criticized President Donald Trump over the prolonged war with Iran, saying the conflict has entered its eighth month despite Trump’s initial estimate that it would last only…"
+      },
+      {
+        "title": "Norway Provides $2.6 Million to UN Afghanistan Trust Fund",
+        "link": "https://www.khaama.com/norway-provides-2-6-million-to-un-afghanistan-trust-fund/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-29T06:05:00+00:00",
+        "preview": "Norway has contributed about $2.6 million to the United Nations’ Special Trust Fund for Afghanistan, bringing its total contributions to the fund to more than $49.3 million, according to UN figures. The fund welcomed…"
+      },
+      {
+        "title": "UNAMA says at least 10 civilians killed in Pakistani airstrikes in Kunar, Helmand",
+        "link": "https://amu.tv/253566/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T15:34:15+00:00",
+        "preview": "The strikes hit parts of Shultan district in Kunar and Garmser district in Helmand overnight. The post UNAMA says at least 10 civilians killed in Pakistani airstrikes in Kunar, Helmand appeared first on Amu TV ."
+      },
+      {
+        "title": "Arman FC crush Toofan Herat 4-0 in ACL clash",
+        "link": "https://www.ariananews.af/arman-fc-crush-toofan-herat-4-0-in-acl-clash/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T16:33:07+00:00",
+        "preview": "In stoppage time, Noah Ali Rustami added a fourth goal for Arman FC, sealing a 4-0 victory over Toofan Herat. The post Arman FC crush Toofan Herat 4-0 in ACL clash first appeared on Ariana News | Afghanistan News ."
+      },
+      {
+        "title": "Rashid Khan, Azmatullah Omarzai maintain top spots in ICC ODI rankings",
+        "link": "https://www.ariananews.af/rashid-khan-azmatullah-omarzai-maintain-top-spots-in-icc-odi-rankings/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T09:37:48+00:00",
+        "preview": "Afghanistan’s cricket stars Rashid Khan and Azmatullah Omarzai have maintained their positions at the top of the latest ICC Men’s ODI rankings. Rashid Khan remains the No. 1 ODI bowler in the world with 714 rating…"
+      },
+      {
+        "title": "Karzai Condemns Pakistani Airstrikes in Kunar and Helmand, Calls for End to Hostilities",
+        "link": "https://www.khaama.com/karzai-condemns-pakistani-airstrikes-in-kunar-and-helmand-calls-for-end-to-hostilities/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T07:50:15+00:00",
+        "preview": "Former Afghanistan President Hamid Karzai has condemned Pakistani airstrikes in Afghanistan’s Kunar and Helmand provinces, describing the attacks as a violation of Afghanistan’s sovereignty and territorial integrity. In…"
+      },
+      {
+        "title": "Khurasan Faryab and Ariana Khost settle for 1-1 draw",
+        "link": "https://www.ariananews.af/khurasan-faryab-and-ariana-khost-settle-for-1-1-draw/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T13:14:59+00:00",
+        "preview": "Khurasan Faryab and Ariana Khost played out a 1-1 draw in the 32nd match of the sixth season of Afghanistan Champions League Roshan in Kabul on Thursday. The match was played at the Afghanistan Football Federation…"
+      },
+      {
+        "title": "Karzai condemns Pakistani airstrikes on Kunar and Helmand",
+        "link": "https://www.ariananews.af/karzai-condemns-pakistani-airstrikes-on-kunar-and-helmand/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T06:50:00+00:00",
+        "preview": "In a statement, Karzai expressed condolences to the families of those killed and wished a swift recovery to those injured. The post Karzai condemns Pakistani airstrikes on Kunar and Helmand first appeared on Ariana News…"
+      },
+      {
+        "title": "Pakistan Airstrikes in Afghanistan’s Helmand Kill Civilians",
+        "link": "https://www.khaama.com/pakistan-airstrikes-in-afghanistans-helmand-kill-civilians/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T05:48:51+00:00",
+        "preview": "Pakistani airstrikes on Afghanistan’s southern Helmand province killed at least four people and injured six others, most of them women and children, according to Afghan officials, as tensions between the two neighboring…"
+      },
+      {
+        "title": "Pakistani airstrikes kill nine Afghan civilians, injure 11",
+        "link": "https://www.ariananews.af/pakistani-airstrikes-kill-nine-afghan-civilians-injure-11/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T04:55:45+00:00",
+        "preview": "The Islamic Emirate of Afghanistan (IEA) said on Thursday Pakistani aircraft carried out airstrikes on civilian homes in Kunar and Helmand provinces last night, killing nine Afghan civilians, including women and…"
+      },
+      {
+        "title": "Jalila Haider, Hazara rights defender, wins 2026 ‘Alternative Nobel’",
+        "link": "https://amu.tv/253551/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T10:41:17+00:00",
+        "preview": "Haider, 41, was born in Quetta on Dec. 10, 1984, and earned a law degree from University Law College in Quetta in 2010. The post Jalila Haider, Hazara rights defender, wins 2026 ‘Alternative Nobel’ appeared first on Amu…"
+      },
+      {
+        "title": "For Maryam, a Herat tailoring shop has become a lifeline for women",
+        "link": "https://amu.tv/253528/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T10:24:41+00:00",
+        "preview": "Workers say the workshop’s focus on more expensive, modern dresses has helped create a steady source of income. The post For Maryam, a Herat tailoring shop has become a lifeline for women appeared first on Amu TV ."
+      },
+      {
+        "title": "Zimbabwe Businessman Wicknell Chivayo, Wife Among Six Killed in Helicopter Crash",
+        "link": "https://www.khaama.com/zimbabwe-businessman-wicknell-chivayo-wife-among-six-killed-in-helicopter-crash/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T09:37:25+00:00",
+        "preview": "Zimbabwean businessman and philanthropist Wicknell Chivayo and his wife, Lucy Muteke, were among six people killed when a helicopter crashed in rural Marondera, east of Harare, on Wednesday evening, the family said. The…"
+      },
+      {
+        "title": "Trump: Unlike Afghanistan, US took all equipment from Iraq",
+        "link": "https://www.ariananews.af/trump-unlike-afghanistan-us-took-all-equipment-from-iraq/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T09:12:40+00:00",
+        "preview": "Trump said the withdrawal from Iraq marked the end of what he described as a costly military involvement, adding that he had set a clear mission and instructed commanders to complete it without allowing the US presence…"
+      },
+      {
+        "title": "Kataib Hezbollah Suspends Military Activities in Iraq After US Troop Withdrawal",
+        "link": "https://www.khaama.com/kataib-hezbollah-suspends-military-activities-in-iraq-after-us-troop-withdrawal/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T09:08:11+00:00",
+        "preview": "Kataib Hezbollah, an Iran-backed Iraqi armed group, has announced the suspension of its military activities in Iraq following the completion of the U.S. military withdrawal, while saying it would retain the right to act…"
+      },
+      {
+        "title": "Moscow Format meeting on Afghanistan expected next week amid regional tensions",
+        "link": "https://amu.tv/253502/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T08:43:17+00:00",
+        "preview": "Russia said the eighth meeting of the Moscow Format consultations on Afghanistan will be held on Oct. 5. The post Moscow Format meeting on Afghanistan expected next week amid regional tensions appeared first on Amu TV ."
+      },
+      {
+        "title": "UNICEF to Treat 1.3 Million Children for Malnutrition in Afghanistan in 2026",
+        "link": "https://www.khaama.com/unicef-to-treat-1-3-million-children-for-malnutrition-in-afghanistan-in-2026/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T06:45:28+00:00",
+        "preview": "The United Nations Children’s Fund (UNICEF) says it plans to provide treatment for around 1.3 million children suffering from malnutrition in Afghanistan in 2026, as millions of children remain at risk of acute…"
+      },
+      {
+        "title": "Moscow to host 8th meeting of Afghanistan consultations on October 5",
+        "link": "https://www.ariananews.af/moscow-to-host-8th-meeting-of-afghanistan-consultations-on-october-5/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-01T06:38:46+00:00",
+        "preview": "Russian Foreign Minister Sergey Lavrov is expected to address the participants during the consultations. The post Moscow to host 8th meeting of Afghanistan consultations on October 5 first appeared on Ariana News |…"
+      },
+      {
+        "title": "Abu Muslim Farah beat Omar Zawak Herat 4-0 in Afghanistan Champions League",
+        "link": "https://www.ariananews.af/abu-muslim-farah-beat-omar-zawak-herat-4-0-in-afghanistan-champions-league/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T13:12:27+00:00",
+        "preview": "Abu Muslim Farah beat Omar Zawak Herat 4-0 in the 30th match of the sixth season of the Roshan Afghanistan Champions League, delivering an impressive performance. The match was played today (Wednesday) at the…"
+      },
+      {
+        "title": "Ten Gold Mine Workers Trapped Underground in Afghanistan’s Takhar",
+        "link": "https://www.khaama.com/ten-gold-mine-workers-trapped-underground-in-afghanistans-takhar/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T12:26:37+00:00",
+        "preview": "Ten workers have been trapped underground at a gold mine in the Samti area of Chah Ab district in northeastern Afghanistan’s Takhar province, local officials said Thursday, as rescue efforts continue. Naqibullah…"
+      },
+      {
+        "title": "ACB launches nationwide fast-bowling talent hunt",
+        "link": "https://www.ariananews.af/acb-launches-nationwide-fast-bowling-talent-hunt/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T11:57:28+00:00",
+        "preview": "The Afghanistan Cricket Board’s High Performance Center is set to launch a nationwide fast-bowling talent identification program, titled “Afghan Thunder,” across several provinces throughout October. According to the…"
+      },
+      {
+        "title": "US extends Qatar camp stay for more than 1,000 Afghans",
+        "link": "https://www.ariananews.af/us-extends-qatar-camp-stay-for-more-than-1000-afghans/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T11:04:29+00:00",
+        "preview": "A US official, speaking on condition of anonymity, confirmed the extension. The post US extends Qatar camp stay for more than 1,000 Afghans first appeared on Ariana News | Afghanistan News ."
+      },
+      {
+        "title": "DHS review finds errors in 40% of Biden-era Afghan asylum files",
+        "link": "https://www.ariananews.af/dhs-review-finds-errors-in-40-of-biden-era-afghan-asylum-files/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T10:31:13+00:00",
+        "preview": "Following a 2023 lawsuit against DHS, a settlement required USCIS to adjudicate 90% of OAW asylum applications within 150 days. The post DHS review finds errors in 40% of Biden-era Afghan asylum files first appeared on…"
+      },
+      {
+        "title": "Sindh court allows Afghan medical students to resume classes",
+        "link": "https://www.ariananews.af/sindh-court-allows-afghan-medical-students-to-resume-classes/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T09:18:09+00:00",
+        "preview": "The court ordered the university to restore the students’ access and ensure their education is not disrupted before the next hearing. The post Sindh court allows Afghan medical students to resume classes first appeared…"
+      },
+      {
+        "title": "US Lawmakers Urge Immediate Action for Afghan Allies and Military Families Stranded Abroad",
+        "link": "https://www.khaama.com/us-lawmakers-urge-immediate-action-for-afghan-allies-and-military-families-stranded-abroad/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-30T05:27:00+00:00",
+        "preview": "A group of U.S. lawmakers has urged the Trump administration to take immediate action on behalf of Afghan allies and family members of U.S. service members and veterans who remain stranded outside the United States.…"
+      },
+      {
+        "title": "US Afghanistan War Commission Meets Pakistan Army Chief, Reviews Islamabad’s Role in War",
+        "link": "https://www.khaama.com/us-afghanistan-war-commission-meets-pakistan-army-chief-reviews-islamabads-role-in-war/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-29T05:31:05+00:00",
+        "preview": "A delegation from the U.S. Afghanistan War Commission, led by its co-chairs Shamila N. Chaudhary and Dr. Colin F. Jackson, met Pakistan’s Chief of Defence Forces and Army Chief, Field Marshal Asim Munir, in Rawalpindi…"
+      },
+      {
+        "title": "5 British Men Released on Bail After Arrests Near RAF Fairford",
+        "link": "https://www.khaama.com/5-british-men-released-on-bail-after-arrests-near-raf-fairford/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-29T08:49:00+00:00",
+        "preview": "British counter-terrorism police have released five British men on bail after they were arrested near RAF Fairford, a military base in Gloucestershire used by the U.S. military, as investigators examine whether the…"
+      },
+      {
+        "title": "Italian Diplomat Nicola Bellomo Begins Work as EU’s New Chargé d’Affaires in Afghanistan",
+        "link": "https://www.khaama.com/italian-diplomat-nicola-bellomo-begins-work-as-eus-new-charge-daffaires-in-afghanistan/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-29T06:44:32+00:00",
+        "preview": "Italian diplomat Nicola Bellomo has begun his tenure as the new Chargé d’Affaires of the European Union Delegation to Afghanistan, succeeding Slovenian diplomat Veronika Bošković Pohar. Bellomo said Monday on X that he…"
+      },
+      {
+        "title": "Afghanistan Absent From UN General Assembly Podium for Sixth Consecutive Year",
+        "link": "https://www.khaama.com/afghanistan-absent-from-un-general-assembly-podium-for-sixth-consecutive-year/",
+        "source_name": "Khaama Press (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-09-28T17:51:56+00:00",
+        "preview": "Afghanistan’s permanent representative to the United Nations, Nasir Ahmad Faiq, did not address the UN General Assembly this year after citing a “technical” reason, marking the sixth consecutive year that Afghanistan…"
+      }
+    ],
+    "Nepal": [
+      {
+        "title": "The Last First: Winter K2 review – race up second highest mountain reveals fatal cost of human ambition",
+        "link": "https://www.theguardian.com/film/2026/oct/01/the-last-first-winter-k2-review-race-up-second-highest-mountain-reveals-fatal-cost-of-regrettable-traits",
+        "source_name": "The Guardian — Asia",
+        "source_type": "global",
+        "published": "2026-10-01T13:53:11+00:00",
+        "preview": "Amir Bar-Lev’s doc covering competing climbers trying to achieve something that has not been done before uncovers a fascinating tapestry of aspiration and folly During the Covid pandemic in 2021, a “last first” in…"
+      },
+      {
+        "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+        "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC — Asia",
+        "source_type": "global",
+        "published": "2026-09-30T22:01:16+00:00",
+        "preview": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain."
+      },
+      {
+        "title": "‘I do not know if the doctor survived’: young mothers recall ‘living hell’ of Nepal’s floods",
+        "link": "https://www.theguardian.com/global-development/2026/sep/30/mothers-trauma-women-children-nepal-flash-floods",
+        "source_name": "The Guardian — Asia",
+        "source_type": "global",
+        "published": "2026-09-30T04:00:11+00:00",
+        "preview": "Kalpana Nepali was seven months pregnant when the flash floods hit last month, while Pooja Pariyal spent three days on a hospital roof waiting to be rescued. Now, they are living precariously in temporary shelters For…"
+      },
+      {
+        "title": "After the Flood, Can China, Nepal, and India Move From Earth Observation to Regional Preparedness?",
+        "link": "https://thediplomat.com/2026/09/after-the-flood-can-china-nepal-and-india-move-from-earth-observation-to-regional-preparedness/",
+        "source_name": "The Diplomat",
+        "source_type": "global",
+        "published": "2026-09-29T14:28:00+00:00",
+        "preview": "A blueprint for building resilience in the Hindu Kush Himalaya."
+      }
+    ],
+    "Bhutan": [],
+    "Maldives": [
+      {
+        "title": "Gov’t Establishes State-Owned National Exchange Limited to Develop Securities Market",
+        "link": "https://corporatemaldives.com/govt-establishes-state-owned-national-exchange-limited-to-develop-securities-market/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-01T13:15:43+00:00",
+        "preview": "A new state-owned company will support government financing and the expansion of Islamic finance through the development of a government-backed secondary securities market in the Maldives. National Exchange Limited,…"
+      },
+      {
+        "title": "Upgrading Malé Commercial Harbour Essential to Drive National Trade, Says Minister",
+        "link": "https://corporatemaldives.com/upgrading-male-commercial-harbour-essential-to-drive-national-trade-says-minister/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-01T09:44:35+00:00",
+        "preview": "The modernisation of the Malé Commercial Harbour is a critical driver for the trade and economic development of the Maldives, according to Minister of Economic Development, Transport and Trade Mohamed Saeed. In a…"
+      },
+      {
+        "title": "President envisions major economic transformation with port relocation",
+        "link": "https://psmnews.mv/189340",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-01T17:09:50+00:00",
+        "preview": ""
+      },
+      {
+        "title": "Maldives Guest Information System is a step forward for tax system: Finance Minister",
+        "link": "https://mfr.mv/financial-sector/maldives-guest-information-system-is-a-step-forward-for-tax-system-finance-minister",
+        "source_name": "Maldives Financial Review",
+        "source_type": "local",
+        "published": "2026-10-01T13:35:19+00:00",
+        "preview": ""
+      },
+      {
+        "title": "How Dhiraagu Connected an Island Economy",
+        "link": "https://corporatemaldives.com/how-dhiraagu-connected-an-island-economy/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-01T05:40:25+00:00",
+        "preview": "Dhiraagu's 38-year evolution connected Maldivian island businesses through expanding networks, cloud services, and cybersecurity."
+      },
+      {
+        "title": "President Muizzu Reaffirms Commitment to Deeper Maldives-China Ties",
+        "link": "https://corporatemaldives.com/president-muizzu-reaffirms-commitment-to-deeper-maldives-china-ties/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-01T05:30:01+00:00",
+        "preview": "President Muizzu reaffirms Maldives commitment to deepening strategic partnership with China across trade and development."
+      },
+      {
+        "title": "PCB Removes Two Directors from MACL Board",
+        "link": "https://corporatemaldives.com/pcb-removes-two-directors-from-macl-board/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-01T11:04:34+00:00",
+        "preview": "Two directors have been removed from the board of Maldives Airports Company Limited (MACL), with the Privatization and Corporatization Board (PCB) announcing the changes without disclosing the reasons. The decision…"
+      },
+      {
+        "title": "Maldives, Russia sign agreement to strengthen legal cooperation",
+        "link": "https://psmnews.mv/189309",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-01T10:57:37+00:00",
+        "preview": ""
+      },
+      {
+        "title": "Tourist Establishments to Move to New Guest Reporting System",
+        "link": "https://corporatemaldives.com/tourist-establishments-to-move-to-new-guest-reporting-system/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-01T08:49:53+00:00",
+        "preview": "Maldives launches MGIS, unifying tourist guest reporting for MIRA and Tourism Ministry, reducing duplicate submissions."
+      },
+      {
+        "title": "Gov’t Projects USD 11 Billion in State Revenue from Rasmale’",
+        "link": "https://corporatemaldives.com/govt-projects-usd-11-billion-in-state-revenue-from-rasmale/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-01T05:19:14+00:00",
+        "preview": "Government projects USD 11 billion in state revenue from Rasmale' development amid legal challenge."
+      },
+      {
+        "title": "Finance Minister Zareer Seeks Infrastructure Financing During Doha Visit",
+        "link": "https://corporatemaldives.com/finance-minister-zareer-seeks-infrastructure-financing-during-doha-visit/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-09-29T06:38:59+00:00",
+        "preview": "Finance Minister Zareer pursues infrastructure financing and emergency credit talks during Doha AIIB annual meeting."
+      },
+      {
+        "title": "MWSC and Fenaka signs a Framework Agreement for transfer of water and sewerage services in Addu City, Addu Hulhudhoo, Addu Meedhoo and Fuvahmulah City",
+        "link": "https://mfr.mv/public-sector/mwsc-and-fenaka-signs-a-framework-agreement-for-transfer-of-water-and-sewerage-services-in-addu-city-addu-hulhudhoo-addu-meedhoo-and-fuvahmulah-city",
+        "source_name": "Maldives Financial Review",
+        "source_type": "local",
+        "published": "2026-09-29T08:31:37+00:00",
+        "preview": "On 27 September 2026, the Male' Water and Sewerage Company Pvt. Ltd. and FENAKA Corporation Limited have signed a Framework Agreement for the proposed transfer of water and sewerage services in..."
+      },
+      {
+        "title": "Why Has the Maldives Inserted Itself Into the Chagos Sovereignty Dispute?",
+        "link": "https://thediplomat.com/2026/09/why-has-the-maldives-inserted-itself-into-the-chagos-sovereignty-dispute/",
+        "source_name": "The Diplomat",
+        "source_type": "global",
+        "published": "2026-09-29T12:46:00+00:00",
+        "preview": "Muizzu has promised to submit evidence supporting the Maldives’ claim to Chagos to relevant international bodies."
+      },
+      {
+        "title": "Maldives Must Strive to Become World’s Safest Destination, Says Homeland Security Minister",
+        "link": "https://corporatemaldives.com/maldives-must-strive-to-become-worlds-safest-destination-says-homeland-security-minister/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-09-29T09:21:53+00:00",
+        "preview": "Minister urges united effort to make Maldives the world's safest tourist destination through collaboration."
+      },
+      {
+        "title": "Velana International Airport named Indian Ocean’s leading Airport 2026",
+        "link": "https://mfr.mv/travel-and-tourism/velana-international-airport-named-indian-ocean-s-leading-airport-2026",
+        "source_name": "Maldives Financial Review",
+        "source_type": "local",
+        "published": "2026-09-29T08:25:59+00:00",
+        "preview": "Velana International Airport (VIA), operated by Maldives Airports Company Limited (MACL), has been named Indian Ocean’s Leading Airport 2026 at the World Travel Awards, marking another significant achievement for the..."
+      },
+      {
+        "title": "Foreign Currency Act: What businesses need to know",
+        "link": "https://mfr.mv/financial-sector/foreign-currency-act-what-businesses-need-to-know",
+        "source_name": "Maldives Financial Review",
+        "source_type": "local",
+        "published": "2026-09-29T08:07:35+00:00",
+        "preview": "The Foreign Currency Act (Law No. 32/2024) was recently amended. The First Amendment to the Foreign Currency Act, Gazetted on 1 September 2026, introduces several changes relating to foreign currency..."
+      },
+      {
+        "title": "President congratulates Morocco’s first female prime minister",
+        "link": "https://psmnews.mv/189325",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-01T17:01:56+00:00",
+        "preview": ""
+      },
+      {
+        "title": "BML Caps Monthly USD ATM Withdrawals at USD 3,500 Per Customer",
+        "link": "https://corporatemaldives.com/bml-caps-monthly-usd-atm-withdrawals-at-usd-3500-per-customer/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-01T13:35:29+00:00",
+        "preview": "Bank of Maldives (BML) has introduced a monthly limit of USD 3,500 per customer for USD withdrawals from ATMs, adding a monthly ceiling alongside its existing daily withdrawal limit. The new limit takes effect on 1…"
+      },
+      {
+        "title": "Kuda Villingili Resort was highly commended for the best long-haul family stay at the Family Traveller Awards 2026",
+        "link": "https://mfr.mv/travel-and-tourism/kuda-villingili-resort-was-highly-commended-for-the-best-long-haul-family-stay-at-the-family-traveller-awards-2026",
+        "source_name": "Maldives Financial Review",
+        "source_type": "local",
+        "published": "2026-10-01T13:25:41+00:00",
+        "preview": "Kuda Villingili Resort Maldives has been named Highly Commended for Best Long-Haul Family Stay in the Family Traveller Awards 2026, recognising the resort’s thoughtful approach to family and multigenerational travel,…"
+      },
+      {
+        "title": "National Service Programme to expand into more specialised fields",
+        "link": "https://psmnews.mv/189314",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-01T11:33:37+00:00",
+        "preview": ""
+      },
+      {
+        "title": "President establishes state-owned National Exchange",
+        "link": "https://psmnews.mv/189312",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-01T11:18:06+00:00",
+        "preview": ""
+      },
+      {
+        "title": "Health Minister urges health workers to make compassion the cornerstone to their service",
+        "link": "https://psmnews.mv/189310",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-01T11:02:57+00:00",
+        "preview": ""
+      },
+      {
+        "title": "Dhiraagu Marks 38 Years in Maldives Telecoms with Expanded Digital Services",
+        "link": "https://corporatemaldives.com/dhiraagu-marks-38-years-in-maldives-telecoms-with-expanded-digital-services/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-01T10:36:49+00:00",
+        "preview": "Dhiraagu has launched a suite of promotions and a new artificial intelligence tool to celebrate its 38th anniversary. The company announced the offers during a press conference at its Head Office in Malé, which marked…"
+      },
+      {
+        "title": "Guest Information System to improve information sharing between agencies",
+        "link": "https://psmnews.mv/189308",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-01T10:16:14+00:00",
+        "preview": ""
+      },
+      {
+        "title": "400 youth secure jobs after completing National Service Programme",
+        "link": "https://psmnews.mv/189304",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-01T10:12:32+00:00",
+        "preview": ""
+      },
+      {
+        "title": "Older persons anchor families and pass down wisdom, First Lady says",
+        "link": "https://psmnews.mv/189301",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-01T08:33:37+00:00",
+        "preview": ""
+      },
+      {
+        "title": "ERA warns against capturing and trading migratory birds",
+        "link": "https://psmnews.mv/189296",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-01T08:02:11+00:00",
+        "preview": ""
+      },
+      {
+        "title": "Reforms to National Airline Yield Results, Says Civil Aviation Minister",
+        "link": "https://corporatemaldives.com/reforms-to-national-airline-yield-results-says-civil-aviation-minister/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-09-30T09:31:23+00:00",
+        "preview": "Minister Ameen says reforms to national airline Maldivian yield results after years of strain."
+      },
+      {
+        "title": "Barceló Nasandhura Malé Introduces Students to Digital Innovation in Hospitality",
+        "link": "https://corporatemaldives.com/barcelo-nasandhura-male-introduces-students-to-digital-innovation-in-hospitality/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-09-30T08:44:51+00:00",
+        "preview": "Thaajuddin students explore digital innovation in hospitality during World Tourism Day visit to Barceló Nasandhura."
+      },
+      {
+        "title": "Pension Office Releases Over MVR 173 Million in Payouts for September",
+        "link": "https://corporatemaldives.com/pension-office-releases-over-mvr-173-million-in-payouts-for-september/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-09-30T07:04:20+00:00",
+        "preview": "Maldives Pension Office disbursed over MVR 173 million across schemes for September 2026."
+      },
+      {
+        "title": "First Commercial Mud Crab Fattening Project in the Maldives Approved by Ministry",
+        "link": "https://corporatemaldives.com/first-commercial-mud-crab-fattening-project-in-the-maldives-approved-by-ministry/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-09-30T06:30:09+00:00",
+        "preview": "Ministry approves the Maldives' first commercial mud crab fattening project in GDh. Fiyoaree island."
+      },
+      {
+        "title": "SIMDI Resu Launches illy Golden Hour Series for International Coffee Day",
+        "link": "https://corporatemaldives.com/simdi-resu-launches-illy-golden-hour-series-for-international-coffee-day/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-09-30T05:47:28+00:00",
+        "preview": "SIMDI Resu launches illy Golden Hour Series for International Coffee Day with events and café promotions."
+      },
+      {
+        "title": "Resorts Urged to Settle Q4 Tourism Land Rent Today as Deadline Arrives",
+        "link": "https://corporatemaldives.com/resorts-urged-to-settle-q4-tourism-land-rent-today-as-deadline-arrives/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-09-30T05:28:03+00:00",
+        "preview": "MIRA reminds resort operators that fourth-quarter Tourism Land Rent payments are due today."
+      },
+      {
+        "title": "Introducing the Corporate Maldives Business Directory",
+        "link": "https://corporatemaldives.com/introducing-the-corporate-maldives-business-directory/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-09-29T12:56:45+00:00",
+        "preview": "Corporate Maldives launches searchable Business Directory helping users discover companies and boost business visibility across sectors."
+      },
+      {
+        "title": "Rip Curl Expands Maldivian Retail Network to Maafushi",
+        "link": "https://corporatemaldives.com/rip-curl-expands-maldivian-retail-network-to-maafushi/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-09-29T11:05:26+00:00",
+        "preview": "Rip Curl opens new Maafushi store via SIMDI Group, expanding its Maldivian retail network."
+      },
+      {
+        "title": "Maldives secures five honours at World Travel Awards Asia, Oceania & Indian Ocean Gala 2026",
+        "link": "https://mfr.mv/travel-and-tourism/maldives-secures-five-honours-at-world-travel-awards-asia-oceania-indian-ocean-gala-2026",
+        "source_name": "Maldives Financial Review",
+        "source_type": "local",
+        "published": "2026-09-29T08:12:44+00:00",
+        "preview": "The Maldives has secured five major honours at the World Travel Awards Asia, Oceania & Indian Ocean Gala Ceremony 2026, held at CROSSROADS Maldives on World Tourism Day, 27 September,..."
+      },
+      {
+        "title": "Ras Malé Deal Faces Court Challenge as Key Terms Remain Undisclosed",
+        "link": "https://corporatemaldives.com/ras-male-deal-faces-court-challenge-as-key-terms-remain-undisclosed/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-09-29T06:04:01+00:00",
+        "preview": "Court challenge seeks to halt undisclosed Ras Malé deal with UAE developer Eagle Hills."
+      },
+      {
+        "title": "Hazardous Chemical Sellers Given Until 27 October to Secure Permits",
+        "link": "https://corporatemaldives.com/hazardous-chemical-sellers-given-until-27-october-to-secure-permits/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-09-29T05:17:11+00:00",
+        "preview": "Maldives extends hazardous chemical sellers' permit and storage registration deadline to 27 October amid low compliance."
+      }
+    ],
+    "Philippines": [
+      {
+        "title": "Asia rice: Indian rice export prices rise to over one-year high on firm demand, production concerns",
+        "link": "https://www.brecorder.com/news/40442186/asia-rice-indian-rice-export-prices-rise-to-over-one-year-high-on-firm-demand-production-concerns",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-01T12:39:34+00:00",
+        "preview": "Indian rice export prices were at an over one-year high this week, driven by improving demand and concerns over production due to flooding in rice-growing areas after a dry spell. India’s 5% broken parboiled variety was…"
+      },
+      {
+        "title": "Philippines’ central bank braces for ‘Godzilla’ El Niño",
+        "link": "https://www.ft.com/content/390fafe6-88bf-4564-978d-4774e2b75e8d?syn-25a6b1a6=1",
+        "source_name": "Financial Times — Asia Pacific",
+        "source_type": "global",
+        "published": "2026-10-01T00:06:28+00:00",
+        "preview": "Severe Pacific Ocean weather event could fuel inflationary pressures and hit agricultural production across region"
+      },
+      {
+        "title": "August bank lending growth fastest in three months",
+        "link": "https://bworldonline.com/top-stories/2026/10/01/783507/august-bank-lending-growth-fastest-in-three-months/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-01T13:08:01+00:00",
+        "preview": "By Katherine K. Chan, Reporter PHILIPPINE BANKS’ LENDING to businesses and consumers accelerated in August to its fastest…"
+      },
+      {
+        "title": "DTI pushes ‘dying’ traditional crafts to a wider market",
+        "link": "https://bworldonline.com/arts-and-leisure/2026/10/01/783830/dti-pushes-dying-traditional-crafts-to-a-wider-market/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-01T13:12:29+00:00",
+        "preview": "The Department of Trade and Industry (DTI) said on Thursday that it aims to expand the market reach…"
+      },
+      {
+        "title": "PMI sharply contracts in September",
+        "link": "https://bworldonline.com/top-stories/2026/10/01/783691/pmi-sharply-contracts-in-september/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-01T13:11:37+00:00",
+        "preview": "By Justine Irish D. Tabile, Senior Reporter PHILIPPINE FACTORY ACTIVITY sharply contracted in September for the first time…"
+      },
+      {
+        "title": "Retail dollar bond offering possible this month — BTr",
+        "link": "https://bworldonline.com/top-stories/2026/10/01/783690/retail-dollar-bond-offering-possible-this-month-btr/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-01T13:10:35+00:00",
+        "preview": "THE GOVERNMENT could issue retail dollar bonds (RDBs) domestically this month ahead of a scheduled maturity, the Bureau…"
+      },
+      {
+        "title": "Peso likely to remain laggard in Asia — DBS",
+        "link": "https://bworldonline.com/top-stories/2026/10/01/783689/peso-likely-to-remain-laggard-in-asia-dbs/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-01T13:09:34+00:00",
+        "preview": "By Katherine K. Chan, Reporter THE PESO may recover slightly by yearend before depreciating further to breach P64…"
+      },
+      {
+        "title": "Philippines’ manufacturing PMI second lowest among select Southeast Asian economies",
+        "link": "https://bworldonline.com/infographics/2026/10/01/783561/philippines-manufacturing-pmi-second-lowest-among-select-southeast-asian-economies/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-01T13:06:14+00:00",
+        "preview": "PHILIPPINE FACTORY ACTIVITY sharply contracted in September for the first time since April, as weak demand, high oil…"
+      },
+      {
+        "title": "PNB Holdings signs new office tenant in Makati",
+        "link": "https://bworldonline.com/corporate/2026/10/01/783724/pnb-holdings-signs-new-office-tenant-in-makati/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-01T13:03:16+00:00",
+        "preview": "NEWLY LISTED PNB Holdings Corp. has signed a lease agreement with creative agency RNDMD for office space at…"
+      },
+      {
+        "title": "Six water treatment plants readied for ‘Super El Niño’",
+        "link": "https://bworldonline.com/economy/2026/10/01/783758/six-water-treatment-plants-readied-for-super-el-nino/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-01T13:00:18+00:00",
+        "preview": "THE Metropolitan Waterworks and Sewerage System (MWSS) said it expects six new water treatment plants to start operations…"
+      },
+      {
+        "title": "PEZA pitches ecozones to locators from robotics, advanced electronics industries",
+        "link": "https://bworldonline.com/economy/2026/10/01/783728/peza-pitches-ecozones-to-locators-from-robotics-advanced-electronics-industries/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-01T12:58:47+00:00",
+        "preview": "THE Philippine Economic Zone Authority (PEZA) said its economic zones (ecozones) are targeting locators planning to manufacture robotics…"
+      },
+      {
+        "title": "BIR clarifies refund or credit rules for excess tax payments",
+        "link": "https://bworldonline.com/economy/2026/10/01/783727/bir-clarifies-refund-or-credit-rules-for-excess-tax-payments/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-01T12:58:31+00:00",
+        "preview": "THE Bureau of Internal Revenue (BIR) has outlined the procedures for taxpayers that made excess payments through erroneous…"
+      },
+      {
+        "title": "HSBC Private Bank survey signals major AI push by PHL entrepreneurs",
+        "link": "https://bworldonline.com/economy/2026/10/01/783726/hsbc-private-bank-survey-signals-major-ai-push-by-phl-entrepreneurs/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-01T12:57:57+00:00",
+        "preview": "PHILIPPINE entrepreneurs are planning significant investments in artificial intelligence (AI), with 87% planning to spend more than a…"
+      },
+      {
+        "title": "Climate commission flags rising PHL carbon intensity",
+        "link": "https://bworldonline.com/economy/2026/10/01/783730/climate-commission-flags-rising-phl-carbon-intensity/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-01T12:56:35+00:00",
+        "preview": "THE PHILIPPINES’ national carbon intensity continues to rise, according to the Climate Change Commission (CCC). Speaking before corporate…"
+      },
+      {
+        "title": "LGUs seek P4.36B in financing",
+        "link": "https://bworldonline.com/the-nation/2026/10/01/783746/lgus-seek-p4-36b-in-financing/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-01T12:38:09+00:00",
+        "preview": "THE Bureau of Local Government Finance (BLGF) listed 30 certificates covering P4.355 billion in proposed borrowings by local…"
+      },
+      {
+        "title": "NGCP ends years-long fight over regulatory fees with ERC",
+        "link": "https://www.rappler.com/business/ngcp-erc-regulatory-fees-compromise-agreement/",
+        "source_name": "Rappler — Business (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-01T08:07:16+00:00",
+        "preview": "The regulator did not disclose the total amount covered under its compromise agreement with the grid operator, how much of the fees had already been collected, and how much is left to collect"
+      },
+      {
+        "title": "Dennis Uy loses Donatela resort after foreclosure, another blow to shrinking empire",
+        "link": "https://www.rappler.com/business/dennis-uy-donatela-resort-foreclosure/",
+        "source_name": "Rappler — Business (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-01T02:48:39+00:00",
+        "preview": "The luxury Bohol resort has been turned over to Landbank as Dennis Uy’s company struggles to overcome its overwhelming debt burden"
+      },
+      {
+        "title": "[In This Economy] Investment options sa panahon ng mataas na inflation",
+        "link": "https://www.rappler.com/voices/thought-leaders/in-this-economy-investment-options-high-philippine-inflation-interest-rate-2026/",
+        "source_name": "Rappler — Business (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-30T07:13:53+00:00",
+        "preview": "Marami nang options ngayon sa pag-iinvest. Piliin ang produktong bagay sa goals mo at sa kung kailan mo kailangan ang pera."
+      },
+      {
+        "title": "World Bank: 4Ps a ‘far more effective’ program for reducing poverty",
+        "link": "https://www.rappler.com/business/world-bank-4ps-effective-program-reducing-poverty/",
+        "source_name": "Rappler — Business (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-29T04:37:42+00:00",
+        "preview": "Rather than being merely the ayuda program critics sometimes portray it as, the Pantawid Pamilyang Pilipino Program may actually have the 'strongest demonstrated poverty-reduction impact among major transfer programs,'…"
+      },
+      {
+        "title": "Why everyone wants a piece of the Lopez group’s Energy Development Corp.",
+        "link": "https://www.rappler.com/newsbreak/inside-track/why-everyone-wants-piece-lopez-family-energy-development-corporation/",
+        "source_name": "Rappler — Business (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-29T10:54:44+00:00",
+        "preview": "The Lopez group, through First Gen, bought Energy Development Corp. from the government in 2007 and has spent the 19 years since learning how deep the asset actually goes"
+      },
+      {
+        "title": "[Vantage Point] Philweb’s risky bet on JKS, and why it must put cards on the table",
+        "link": "https://www.rappler.com/voices/newsletters/vantage-point-philweb-risky-bet-jks-tech-solutions/",
+        "source_name": "Rappler — Business (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-29T04:00:00+00:00",
+        "preview": "Philweb’s investment in JKS rests on a valuation that raises questions"
+      },
+      {
+        "title": "[Ask the Tax Whiz] The BIR sent an audit notice. What now?",
+        "link": "https://www.rappler.com/business/ask-the-tax-whiz-bureau-internal-revenue-audit-notice-what-now/",
+        "source_name": "Rappler — Business (Philippines)",
+        "source_type": "local",
+        "published": "2026-09-29T02:57:33+00:00",
+        "preview": "A fair audit requires cooperation from taxpayers and accountability from examiners"
+      }
+    ]
+  },
+  "article_count": 191,
+  "feed_stats": [
+    {
+      "source_id": "nyt-world",
+      "status": "ok",
+      "count": 54
+    },
+    {
+      "source_id": "nyt-business",
+      "status": "ok",
+      "count": 49
+    },
+    {
+      "source_id": "nyt-asia",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "source_id": "nyt-economy",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "source_id": "ft-world",
+      "status": "ok",
+      "count": 25
+    },
+    {
+      "source_id": "ft-asia",
+      "status": "ok",
+      "count": 25
+    },
+    {
+      "source_id": "ft-global-economy",
+      "status": "ok",
+      "count": 25
+    },
+    {
+      "source_id": "wsj-world",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "source_id": "wsj-markets",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "source_id": "economist-finance",
+      "status": "ok",
+      "count": 300
+    },
+    {
+      "source_id": "economist-asia",
+      "status": "ok",
+      "count": 300
+    },
+    {
+      "source_id": "bbc-business",
+      "status": "ok",
+      "count": 42
+    },
+    {
+      "source_id": "bbc-asia",
+      "status": "ok",
+      "count": 17
+    },
+    {
+      "source_id": "aljazeera-all",
+      "status": "ok",
+      "count": 25
+    },
+    {
+      "source_id": "guardian-business",
+      "status": "ok",
+      "count": 40
+    },
+    {
+      "source_id": "guardian-asia",
+      "status": "ok",
+      "count": 18
+    },
+    {
+      "source_id": "scmp-asia",
+      "status": "ok",
+      "count": 50
+    },
+    {
+      "source_id": "nikkei-asia",
+      "status": "ok",
+      "count": 50
+    },
+    {
+      "source_id": "the-diplomat",
+      "status": "ok",
+      "count": 96
+    },
+    {
+      "source_id": "foreign-policy",
+      "status": "ok",
+      "count": 25
+    },
+    {
+      "source_id": "csis",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "atlantic-council",
+      "status": "ok",
+      "count": 100
+    },
+    {
+      "source_id": "adb-news",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "source_id": "stimson",
+      "status": "ok",
+      "count": 12
+    },
+    {
+      "source_id": "dawn-business",
+      "status": "ok",
+      "count": 30
+    },
+    {
+      "source_id": "brecorder",
+      "status": "ok",
+      "count": 30
+    },
+    {
+      "source_id": "daily-star-business",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "dhaka-tribune",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "source_id": "kathmandu-post-money",
+      "status": "ok",
+      "count": 40
+    },
+    {
+      "source_id": "businessbhutan",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "thebhutanese",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "bhutanlive",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "mfr-mv",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "corporatemv",
+      "status": "ok",
+      "count": 24
+    },
+    {
+      "source_id": "psmnews",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "inquirer-business",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "source_id": "bworldonline",
+      "status": "ok",
+      "count": 30
+    },
+    {
+      "source_id": "rappler-business",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "tolonews",
+      "status": "ok",
+      "count": 30
+    },
+    {
+      "source_id": "khaama",
+      "status": "ok",
+      "count": 100
+    },
+    {
+      "source_id": "ariananews",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "source_id": "amu-tv",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "dawn-world",
+      "status": "ok",
+      "count": 30
+    },
+    {
+      "source_id": "thenews-pk",
+      "status": "ok",
+      "count": 50
+    }
+  ]
+}
