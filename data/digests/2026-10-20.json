@@ -1,0 +1,1749 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T15:37:10.537014+00:00",
+  "top_headlines": [
+    {
+      "title": "At SCO, Dar calls for promoting use of national currencies to help offset global economic shocks",
+      "link": "https://www.dawn.com/news/2038514/at-sco-dar-calls-for-promoting-use-of-national-currencies-to-help-offset-global-economic-shocks",
+      "source_name": "Dawn — Business (Pakistan)",
+      "countries": [
+        "Pakistan",
+        "Afghanistan"
+      ]
+    },
+    {
+      "title": "IMF calls for Pakistan to rationalise tax concessions, bring under-taxed sectors into net",
+      "link": "https://www.brecorder.com/news/40445082/imf-calls-for-pakistan-to-rationalise-tax-concessions-bring-under-taxed-sectors-into-net",
+      "source_name": "Business Recorder (Pakistan)",
+      "countries": [
+        "Pakistan"
+      ]
+    },
+    {
+      "title": "DOF signs $1.5B ADB deal to address Middle East crisis",
+      "link": "https://business.inquirer.net/616835/dof-signs-1-5b-adb-deal-to-address-middle-east-crisis",
+      "source_name": "Philippine Daily Inquirer — Business",
+      "countries": [
+        "Philippines"
+      ]
+    },
+    {
+      "title": "Inflation risks to keep BSP hawkish",
+      "link": "https://bworldonline.com/top-stories/2026/10/20/788200/inflation-risks-to-keep-bsp-hawkish/",
+      "source_name": "BusinessWorld (Philippines)",
+      "countries": [
+        "Philippines"
+      ]
+    },
+    {
+      "title": "Growth Outlook Remains Strong for Bhutan, but Inflation and External Deficit Widen",
+      "link": "https://businessbhutan.bt/growth-outlook-remains-strong-for-bhutan-but-inflation-and-external-deficit-widen/?utm_source=rss&utm_medium=rss&utm_campaign=growth-outlook-remains-strong-for-bhutan-but-inflation-and-external-deficit-widen",
+      "source_name": "Business Bhutan",
+      "countries": [
+        "Bhutan"
+      ]
+    },
+    {
+      "title": "World Bank seeks to boost connectivity in developing countries",
+      "link": "https://www.thedailystar.net/business/news/world-bank-seeks-boost-connectivity-developing-countries-4303181",
+      "source_name": "The Daily Star — Business (Bangladesh)",
+      "countries": [
+        "Bangladesh"
+      ]
+    },
+    {
+      "title": "Trump blames migrants for violence in France as US midterms loom",
+      "link": "https://www.ariananews.af/trump-blames-migrants-for-violence-in-france-as-us-midterms-loom/",
+      "source_name": "Ariana News (Afghanistan)",
+      "countries": [
+        "Afghanistan"
+      ]
+    }
+  ],
+  "by_country": {
+    "Bangladesh": [
+      {
+        "title": "World Bank seeks to boost connectivity in developing countries",
+        "link": "https://www.thedailystar.net/business/news/world-bank-seeks-boost-connectivity-developing-countries-4303181",
+        "source_name": "The Daily Star — Business (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-10-20T05:47:23+00:00",
+        "preview": "The bank's strategy aims to support infrastructure for connectivity and lower the cost of entry-level smartphone and broadband services"
+      },
+      {
+        "title": "Card issuance nearly doubles in 5 years: Bangladesh Bank report",
+        "link": "https://www.thedailystar.net/business/news/card-issuance-nearly-doubles-5-years-bangladesh-bank-report-4303421",
+        "source_name": "The Daily Star — Business (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-10-20T13:19:36+00:00",
+        "preview": "The total number of debit, credit and prepaid cards grew 96 percent--rising to 5.29 crore in August 2026 from 2.7 crore in September 2021, according to the central bank’s report, titled “An Overview of Card Usage…"
+      },
+      {
+        "title": "NCC Bank opens ‘China Desk’ to serve businesses",
+        "link": "https://www.thedailystar.net/business/organisation-news/news/ncc-bank-opens-china-desk-serve-businesses-4302911",
+        "source_name": "The Daily Star — Business (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-10-19T18:00:00+00:00",
+        "preview": "NCC Bank PLC has launched a specialised banking desk to provide integrated financial services to Chinese businesses and investors operating in Bangladesh."
+      },
+      {
+        "title": "Citizens Bank opens sub-branch in Keraniganj",
+        "link": "https://www.thedailystar.net/business/organisation-news/news/citizens-bank-opens-sub-branch-keraniganj-4302901",
+        "source_name": "The Daily Star — Business (Bangladesh)",
+        "source_type": "local",
+        "published": "2026-10-19T18:00:00+00:00",
+        "preview": "Citizens Bank PLC has inaugurated a sub-branch in Ruhitpur, Keraniganj, Dhaka, to expand its banking services and support local businesses."
+      }
+    ],
+    "Pakistan": [
+      {
+        "title": "At SCO, Dar calls for promoting use of national currencies to help offset global economic shocks",
+        "link": "https://www.dawn.com/news/2038514/at-sco-dar-calls-for-promoting-use-of-national-currencies-to-help-offset-global-economic-shocks",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T14:56:55+00:00",
+        "preview": "Deputy Prime Minister and Foreign Minister Ishaq Dar on Tuesday encouraged members of the Shanghai Cooperation Organisation (SCO) to use national currencies for “mutual settlement” and establish other financial…"
+      },
+      {
+        "title": "IMF calls for Pakistan to rationalise tax concessions, bring under-taxed sectors into net",
+        "link": "https://www.brecorder.com/news/40445082/imf-calls-for-pakistan-to-rationalise-tax-concessions-bring-under-taxed-sectors-into-net",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T12:45:13+00:00",
+        "preview": "The International Monetary Fund (IMF) has called on Pakistan to rationalise tax concessions and bring under-taxed sectors into the tax net, saying a fairer and more neutral tax system is critical to improving revenue…"
+      },
+      {
+        "title": "GDP growth revised down to 3.65pc as country falls short of target",
+        "link": "https://www.dawn.com/news/2038439/gdp-growth-revised-down-to-365pc-as-country-falls-short-of-target",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T01:57:16+00:00",
+        "preview": "• Industrial, services sector slowdown drags down economic growth in FY26 • Per capita income ‘lowest in region’; economy reaches $450.4bn ISLAMABAD: The government on Monday revised the gross domestic product (GDP)…"
+      },
+      {
+        "title": "Businesses repaying bank debt amid weak investment",
+        "link": "https://www.dawn.com/news/2038419/businesses-repaying-bank-debt-amid-weak-investment",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T01:57:42+00:00",
+        "preview": "KARACHI: Nearly 100 days into the current fiscal year (FY27), the private sector has continued to retire bank debt rather than borrow, reflecting weak investment activity that could constrain economic growth. The latest…"
+      },
+      {
+        "title": "Indian military doctrines with 'poor' strategic sense of nuclear realities endanger South Asia: NCA adviser",
+        "link": "https://www.dawn.com/news/2038544/indian-military-doctrines-with-poor-strategic-sense-of-nuclear-realities-endanger-south-asia-nca-adviser",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T14:42:06+00:00",
+        "preview": "Adviser to the National Command Authority (NCA) and former director general of the Strategic Plans Division (SPD) retired Lieutenant General Mazhar Jamil has warned of the “risky” outcome for South Asia and beyond of a…"
+      },
+      {
+        "title": "Economy more shock-resistant, says SBP chief",
+        "link": "https://www.dawn.com/news/2037905/economy-more-shock-resistant-says-sbp-chief",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-18T01:39:42+00:00",
+        "preview": "KARACHI: State Bank of Pakistan Governor Jameel Ahmad said sustained, prudent macroeconomic policies and structural reforms have made Pakistan’s economy more resilient to domestic and external shocks. The central bank…"
+      },
+      {
+        "title": "Pakistan, US make progress on trade deal, but technical issues remain",
+        "link": "https://www.brecorder.com/news/40445083/pakistan-us-make-progress-on-trade-deal-but-technical-issues-remain",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T11:19:25+00:00",
+        "preview": "Pakistan and the United States have made substantial progress on several provisions of a proposed reciprocal trade agreement. However, Pakistan’s Commerce Secretary Jawad Paul said on Tuesday that a few technical issues…"
+      },
+      {
+        "title": "PSX extends losses for fourth straight week amid economic uncertainty",
+        "link": "https://www.dawn.com/news/2037903/psx-extends-losses-for-fourth-straight-week-amid-economic-uncertainty",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-18T01:39:42+00:00",
+        "preview": "KARACHI: The Pakistan Stock Exchange (PSX) recorded a fourth consecutive week of declines as domestic political uncertainty and geopolitical tensions weighed on investor sentiment amid inflation concerns and the…"
+      },
+      {
+        "title": "'We never gave up': Naqvi highlights Pakistan's peace efforts in US-Iran war at Qatar forum",
+        "link": "https://www.dawn.com/news/2038298/we-never-gave-up-naqvi-highlights-pakistans-peace-efforts-in-us-iran-war-at-qatar-forum",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-19T14:18:53+00:00",
+        "preview": "Interior Minister Mohsin Naqvi on Monday highlighted Pakistan’s mediation efforts between the United States and Iran, affirming that Islamabad “never gave up”. He made the remarks while addressing the 8th Global…"
+      },
+      {
+        "title": "Liberalised tariff — a nightmare for manufacturers",
+        "link": "https://www.dawn.com/news/2038228/liberalised-tariff-a-nightmare-for-manufacturers",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-19T03:37:59+00:00",
+        "preview": "Last year, Pakistan embarked on a radical economic experiment with the approval of the National Tariff Policy 2025-30, and the manufacturing sector became the guinea pig. The policy seems heavily influenced by the World…"
+      },
+      {
+        "title": "PSX: selling continues, KSE-100 settles over 800 points lower",
+        "link": "https://www.brecorder.com/news/40445084/psx-selling-continues-kse-100-settles-over-800-points-lower",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T13:53:02+00:00",
+        "preview": "Selling continued at the Pakistan Stock Exchange (PSX) on Tuesday, with the benchmark KSE-100 Index closing with a loss of over 800 points. The benchmark index opened higher, briefly rising towards the session’s…"
+      },
+      {
+        "title": "Reforms discussed to make gas sector viable",
+        "link": "https://www.dawn.com/news/2038418/reforms-discussed-to-make-gas-sector-viable",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T01:57:42+00:00",
+        "preview": "• Roadmap aims to establish efficient and competitive gas market in Pakistan • Finance minister says need to learn from global experiences to develop sector ISLAMABAD: Minister for Finance and Revenue Muha­mmad…"
+      },
+      {
+        "title": "Rupee registers gain against US dollar",
+        "link": "https://www.brecorder.com/news/40445118/intra-day-update-rupee-records-gain-against-us-dollar",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T13:59:57+00:00",
+        "preview": "The Pakistani rupee continued its marginal gains against the US dollar, appreciating 0.01% in the interbank market on Tuesday. The local unit closed the day at 276.87, a gain of Re0.03 against the greenback. On Monday ,…"
+      },
+      {
+        "title": "KP has vast potential for industrial growth: governor",
+        "link": "https://www.dawn.com/news/2038379/kp-has-vast-potential-for-industrial-growth-governor",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T01:58:56+00:00",
+        "preview": "PESHAWAR: Khyber Pakhtunkhwa Governor Faisal Karim Kundi on Monday said the province had vast potential for industrial development, so there was a need for a comprehensive and practical strategy to fully explore it for…"
+      },
+      {
+        "title": "Pakistan stresses diplomacy as Iran rejects US ‘threats’",
+        "link": "https://www.dawn.com/news/2038137/pakistan-stresses-diplomacy-as-iran-rejects-us-threats",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-19T02:28:25+00:00",
+        "preview": "• Dar discusses evolving regional situation in call with Araghchi • Iranian FM says Tehran rejects intimidation but remains open to dialogue • Insists seven-day Hormuz reopening proposal remains on table • Pakistani,…"
+      },
+      {
+        "title": "Growers end losers in ‘flawed’ wheat market reform",
+        "link": "https://www.dawn.com/news/2038230/growers-end-losers-in-flawed-wheat-market-reform",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-19T01:50:06+00:00",
+        "preview": "The coming wheat season, the third since the government abandoned the official support price and suspended traditional large-scale public procurement in April 2025, could prove one of the most uncertain for farmers. The…"
+      },
+      {
+        "title": "Gulf inflows in domestic bonds",
+        "link": "https://www.dawn.com/news/2037907/gulf-inflows-in-domestic-bonds",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-18T02:48:50+00:00",
+        "preview": "KARACHI: Foreign investment in Pakistan’s domestic bonds reached $188 million in the first nine days of October, indicating growing overseas interest and opening an­­other source of dollar inf­lows for the government.…"
+      },
+      {
+        "title": "Agriculture: The growing threat of double-rice cropping",
+        "link": "https://www.dawn.com/news/2038227/agriculture-the-growing-threat-of-double-rice-cropping",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-19T01:50:07+00:00",
+        "preview": "Rice is Pakistan’s second-largest crop after wheat and the country’s largest agricultural export commodity. For decades, the Punjab government consistently enforced a ban on raising rice nurseries before May 20 under…"
+      },
+      {
+        "title": "Pakistan suspends Iran trade corridors over 'security, smuggling concerns'",
+        "link": "https://www.dawn.com/news/2037865/pakistan-suspends-iran-trade-corridors-over-security-smuggling-concerns",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-18T07:57:39+00:00",
+        "preview": "GWADAR/QUETTA: Pakistan has suspended trade with Iran through the official Gabd-Rimdan (250) and Taftan border crossings, it emerged on Saturday. The Ministry of Commerce issued a memorandum on Friday, seen by Dawn ,…"
+      },
+      {
+        "title": "Tax Asaan Scheme – yet another fiasco",
+        "link": "https://www.dawn.com/news/2038232/tax-asaan-scheme-yet-another-fiasco",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-19T01:50:06+00:00",
+        "preview": "The poor response to the Fixed Tax Asaan Scheme, the voluntary trader registration, suggests that it is heading for a failure, reminding of the successive schemes that have met a similar fate over the decades while…"
+      },
+      {
+        "title": "SECP launches Security Operations Center to strengthen cybersecurity",
+        "link": "https://www.brecorder.com/news/40445112/secp-launches-security-operations-center-to-strengthen-cybersecurity",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T09:24:14+00:00",
+        "preview": "The Securities and Exchange Commission of Pakistan (SECP) has launched its Security Operations Center (SOC) to protect critical information assets, detect cyber threats at an early stage and enable timely incident…"
+      },
+      {
+        "title": "ABB says data centre business booming, Q3 figures in line with forecasts",
+        "link": "https://www.brecorder.com/news/40445098/abb-says-data-centre-business-booming-q3-figures-in-line-with-forecasts",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T06:53:09+00:00",
+        "preview": "ZURICH: ABB is continuing to see a boom in spending on data centres used to power artificial intelligence, the engineering group said on Tuesday, as it reported its latest earnings. The Swiss company said its…"
+      },
+      {
+        "title": "Equities falter below 166,000 amid selling pressure",
+        "link": "https://www.dawn.com/news/2038412/equities-falter-below-166000-amid-selling-pressure",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T03:06:50+00:00",
+        "preview": "KARACHI: The Pakistan Stock Exchange (PSX) opened the week on a depressed note amid persistent regional and political turmoil as investors remained cautious in a directionless market due to lack of positive triggers.…"
+      },
+      {
+        "title": "Industry calls for easier rules as FBR urges export growth",
+        "link": "https://www.dawn.com/news/2038415/industry-calls-for-easier-rules-as-fbr-urges-export-growth",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T01:57:42+00:00",
+        "preview": "KARACHI: Federal Board of Revenue (FBR) Chief Langrial urged exporters to expand the presence of Pakistani products in international markets, as industry leaders raised concerns over complicated regulations, digital…"
+      },
+      {
+        "title": "S.G. Power Ltd renamed Crestwell Healthcare Ltd",
+        "link": "https://www.brecorder.com/news/40445106/sg-power-ltd-renamed-crestwell-healthcare-ltd",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T08:00:49+00:00",
+        "preview": "The name and trading symbol of S.G. Power Ltd have been changed to Crestwell Healthcare Ltd following a request from the company. “All market participants are hereby informed that the security name of S.G. Power Limited…"
+      },
+      {
+        "title": "LPG stakeholders seek daily pricing amid soaring rates",
+        "link": "https://www.dawn.com/news/2038194/lpg-stakeholders-seek-daily-pricing-amid-soaring-rates",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-19T03:36:56+00:00",
+        "preview": "ISLAMABAD: As liquefied petroleum gas (LPG) prices surge following the closure of the Rahimdad-250 border post, market stakeholders on Sunday urged the government to shift from monthly to weekly or daily pricing, in…"
+      },
+      {
+        "title": "Pakistan, Canada discuss foreign direct investment flow",
+        "link": "https://www.dawn.com/news/2038416/pakistan-canada-discuss-foreign-direct-investment-flow",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T03:31:26+00:00",
+        "preview": "ISLAMABAD: Pak­istan and Canada on Monday began negotiations on the third round of the Bilateral Investment Treaty (BIT) aimed at strengthening the flow of foreign direct investment (FDI) between the two countries. The…"
+      },
+      {
+        "title": "Auto loans rise despite sales slump",
+        "link": "https://www.dawn.com/news/2037908/auto-loans-rise-despite-sales-slump",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-18T01:39:42+00:00",
+        "preview": "KARACHI: Despite a sales slowdown, outstanding car loans rose for the 22nd consecutive month to Rs407 billion in September from Rs393.3bn in August, data released by the State Bank of Pakistan (SBP) showed. Assemblers…"
+      },
+      {
+        "title": "Energy and industrial stocks drag Sri Lankan shares lower",
+        "link": "https://www.brecorder.com/news/40445128/energy-and-industrial-stocks-drag-sri-lankan-shares-lower",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T13:51:26+00:00",
+        "preview": "Sri Lankan shares closed lower on Tuesday, dragged by energy and industrial stocks. The CSE All-Share index settled 0.38% lower at 19,983.78 points. Serendib Land PLC and LAUGFS Gas PLC were the top percentage losers,…"
+      },
+      {
+        "title": "Govt slashes petrol price by Rs5.16 per litre, high-speed diesel rate by Rs7.69",
+        "link": "https://www.dawn.com/news/2038326/govt-slashes-petrol-price-by-rs516-per-litre-high-speed-diesel-rate-by-rs769",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-19T18:56:40+00:00",
+        "preview": "The government on Monday cut the price of petrol by Rs5.16 per litre and that of high-speed diesel (HSD) by Rs7.69. Following the revision, petrol will retail at Rs381.14 per litre while HSD will cost Rs389.27 per…"
+      },
+      {
+        "title": "Cotton arrivals jump 7.5pc as textile crisis deepens",
+        "link": "https://www.dawn.com/news/2038192/cotton-arrivals-jump-75pc-as-textile-crisis-deepens",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-19T01:39:42+00:00",
+        "preview": "• Industry says 500 ginning factories, over 150 textile mills closed • Ginners allege imported inputs meant for re-export are being sold locally LAHORE: Cotton arrivals at ginning factories rose 7.53 per cent…"
+      },
+      {
+        "title": "Govt unveils hi-tech system to manage loadshedding",
+        "link": "https://www.dawn.com/news/2038438/govt-unveils-hi-tech-system-to-manage-loadshedding",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T02:43:59+00:00",
+        "preview": "• Asset Performance Management System pilot project to be launched from Lahore, Kasur • APMS to be synced with smart meters to monitor power consumption in real-time • System will help authorities triangulate point of…"
+      },
+      {
+        "title": "Iran, Russia agree on need to ease Taliban-Pakistan tensions",
+        "link": "https://amu.tv/254828/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-20T10:46:10+00:00",
+        "preview": "Heightened tensions between Taliban authorities and Pakistan, including border clashes and the closure of key crossings between the two countries. The post Iran, Russia agree on need to ease Taliban-Pakistan tensions…"
+      },
+      {
+        "title": "HUBCO denies BYD plant delay, targets end-2026 launch: report",
+        "link": "https://www.brecorder.com/news/40445111/hubco-denies-byd-plant-delay-targets-end-2026-launch-report",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T08:51:37+00:00",
+        "preview": "Hub Power Company (HUBCO) aims to bring its BYD vehicle assembly plant online by the end of 2026, targeting an initial sales run rate of 1,000 to 1,500 vehicles per month as production ramps up, management said in its…"
+      },
+      {
+        "title": "UniCredit to buy back securities-services unit from Societe Generale, document shows",
+        "link": "https://www.brecorder.com/news/40445096/unicredit-to-buy-back-securities-services-unit-from-societe-generale-document-shows",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T06:49:20+00:00",
+        "preview": "MILAN: Italy’s second-biggest bank, UniCredit , has signed an agreement to repurchase its securities-services business from French peer Societe Generale , according to a union document seen by Reuters on Monday. The…"
+      },
+      {
+        "title": "US bars IT firm from sponsoring green cards, imposes $2m settlement",
+        "link": "https://www.dawn.com/news/2038485/us-bars-it-firm-from-sponsoring-green-cards-imposes-2m-settlement",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T05:38:04+00:00",
+        "preview": "WASHINGTON: The United States has barred California-based technology company Cloudera Inc. from participating in the employment-based green card process for two years and secured a $2 million settlement over allegations…"
+      },
+      {
+        "title": "Pakistan providing 'whatever support' Saudi Arabia needs for its defence: DG ISPR",
+        "link": "https://www.dawn.com/news/2038276/pakistan-providing-whatever-support-saudi-arabia-needs-for-its-defence-dg-ispr",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-19T10:45:18+00:00",
+        "preview": "Inter-Services Public Relations (ISPR) Director General Lieutenant General Ahmed Sharif Chaudhry has said Pakistan is providing “whatever support is needed” to defend Saudi Arabia amid attacks by Yemen’s Houthi rebels…"
+      },
+      {
+        "title": "CCP greenlights Lotte Chemical Pakistan’s stake acquisition in Engro Polymer & Chemicals",
+        "link": "https://www.brecorder.com/news/40445120/ccp-greenlights-lotte-chemical-pakistans-stake-acquisition-in-engro-polymer-amp-chemicals",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T10:56:56+00:00",
+        "preview": "The Competition Commission of Pakistan (CCP) has approved the proposed acquisition of a shareholding in Engro Polymer & Chemicals Limited (EPCL) by Lotte Chemical Pakistan Limited (LCPL) from Engro Corporation Limited,…"
+      },
+      {
+        "title": "PM warns against resistance to FBR reforms",
+        "link": "https://www.dawn.com/news/2038414/pm-warns-against-resistance-to-fbr-reforms",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T01:57:42+00:00",
+        "preview": "ISLAMABAD: Prime Minister Shehbaz Sharif on Monday warned tax officers that resistance to the ongoing reforms in the Federal Board of Revenue (FBR) would not be tolerated, directing the authorities to implement proposed…"
+      },
+      {
+        "title": "SECP probes discrepancies in SE Fruits IPO",
+        "link": "https://www.dawn.com/news/2038417/secp-probes-discrepancies-in-se-fruits-ipo",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T01:57:42+00:00",
+        "preview": "ISLAMABAD: The Securities and Exchange Commission of Pakistan (SECP) has launched an investigation into the initial public offering (IPO) of SE Fruits and Vegetable Limited after an anonymous complaint revealed major…"
+      },
+      {
+        "title": "Pakistan FM urges IEA not to allow Afghan soil to be used against Pakistan",
+        "link": "https://www.ariananews.af/pakistan-fm-urges-iea-not-to-allow-afghan-soil-to-be-used-against-pakistan/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-20T12:38:19+00:00",
+        "preview": "Mohammad Ishaq Dar, Pakistan’s Deputy Prime Minister and Minister of Foreign Affairs, has called on the Islamic Emirate to ensure that Afghan territory is not used for terrorism against Pakistan and other countries…"
+      },
+      {
+        "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+        "link": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "source_type": "global",
+        "published": "2026-10-20T14:39:50+00:00",
+        "preview": "With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington."
+      },
+      {
+        "title": "Food exports surge 25pc in July-Sept",
+        "link": "https://www.dawn.com/news/2037910/food-exports-surge-25pc-in-july-sept",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-18T01:39:42+00:00",
+        "preview": "ISLAMABAD: Pakistan’s raw food exports surged 25.31 per cent in the first quarter of the current fiscal year, compared with the same period last year, driven largely by higher rice shipments. According to data compiled…"
+      },
+      {
+        "title": "Rubio visits Uzbekistan to boost Washington’s ties with Central Asia",
+        "link": "https://www.dawn.com/news/2038138/rubio-visits-uzbekistan-to-boost-washingtons-ties-with-central-asia",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-19T03:31:02+00:00",
+        "preview": "WASHINGTON: While the Iran war smoulders, Saudi Arabia fights the Houthi-led Ansarallah forces in Yemen and a new rift opens in US-Ukraine relations, Secretary of State Marco Rubio is scheduled to land on Sunday in…"
+      },
+      {
+        "title": "Amazon to recruit over 300,000 workers for holiday season in first hiring jump in three years",
+        "link": "https://www.brecorder.com/news/40445130/amazon-to-recruit-over-300000-workers-for-holiday-season-in-first-hiring-jump-in-three-years",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T14:02:01+00:00",
+        "preview": "Amazon said on Tuesday it plans to hire more than 300,000 workers for the US holiday season, marking the first increase in recruitment for the period in three years as the online retailer prepares for a surge in orders.…"
+      },
+      {
+        "title": "Philippines raises $339mn from T-bond offer",
+        "link": "https://www.brecorder.com/news/40445088/philippines-raises-339mn-from-t-bond-offer",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T06:24:03+00:00",
+        "preview": "MANILA: Following are the results of the Philippine Bureau of the Treasury’s (BTr) auction of reissued 2031 T-bonds on Tuesday: BTr awards 21.38 billion Philippine pesos ($339.33 million) of the reissued 2031 T-bonds at…"
+      },
+      {
+        "title": "Apple commits up to $100 million for US titanium in domestic manufacturing push",
+        "link": "https://www.brecorder.com/news/40445123/apple-commits-up-to-100-million-for-us-titanium-in-domestic-manufacturing-push",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T12:09:25+00:00",
+        "preview": "Apple said on Tuesday it has committed to purchasing up to $100 million of titanium over three years from a Pennsylvania-based company as part of the iPhone maker’s push to expand manufacturing in the United States. The…"
+      },
+      {
+        "title": "Afghanistan-Pakistan trade plunges 74% amid border closures",
+        "link": "https://amu.tv/254718/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-19T06:38:39+00:00",
+        "preview": "The closures have affected traders, transport companies and communities that depend on cross-border commerce. The post Afghanistan-Pakistan trade plunges 74% amid border closures appeared first on Amu TV ."
+      },
+      {
+        "title": "CDF Munir to visit Tehran today",
+        "link": "https://www.dawn.com/news/2038436/cdf-munir-to-visit-tehran-today",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T01:57:23+00:00",
+        "preview": "ISLAMABAD: Chief of Defence Forces and Chief of Army Staff Field Marshal Asim Munir is due to visit Tehran on Tuesday (today), according to a Pakistani official and Iranian media. The scheduled visit follows earlier…"
+      },
+      {
+        "title": "Maldives and Pakistan to Deepen Bilateral Ties Across Key Sectors",
+        "link": "https://corporatemaldives.com/maldives-and-pakistan-to-deepen-bilateral-ties-across-key-sectors/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-19T07:47:00+00:00",
+        "preview": "President Muizzu visits Pakistan to deepen bilateral ties, marking sixty years of diplomatic relations."
+      },
+      {
+        "title": "Govt moves to curb LPG hoarding ahead of winter",
+        "link": "https://www.dawn.com/news/2037906/govt-moves-to-curb-lpg-hoarding-ahead-of-winter",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-18T01:39:42+00:00",
+        "preview": "• Petroleum Division flags irregular lifting of imported LPG from terminals • Ogra asked to ensure supplies at notified prices, particularly in remote areas ISLAMABAD: The government has taken notice of the alleged…"
+      },
+      {
+        "title": "Pakistan’s Counterterrorism Campaign Is at an Inflection Point",
+        "link": "https://thediplomat.com/2026/10/pakistans-counterterrorism-campaign-is-at-an-inflection-point/",
+        "source_name": "The Diplomat",
+        "source_type": "global",
+        "published": "2026-10-19T05:39:00+00:00",
+        "preview": "If the new security framework fails to adopt a holistic approach to counterterrorism, it will once again end up treating the symptoms while ignoring the causes."
+      },
+      {
+        "title": "Competition Commission of Pakistan deploys AI against bid rigging",
+        "link": "https://www.dawn.com/news/2037909/competition-commission-of-pakistan-deploys-ai-against-bid-rigging",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-18T02:28:00+00:00",
+        "preview": "ISLAMABAD: The Competition Commission of Pakistan (CCP) has developed an AI-powered system to screen procurement data and flag suspicious bidding patterns for investigation. The Bid-Rigging Detection System (BRDS) can…"
+      },
+      {
+        "title": "President Muizzu arrives in Pakistan on state visit",
+        "link": "https://psmnews.mv/190623",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-20T14:15:53+00:00",
+        "preview": ""
+      },
+      {
+        "title": "Iran, Russia agree on reducing tension between Afghanistan and Pakistan: Araqchi",
+        "link": "https://www.ariananews.af/iran-russia-agree-on-reducing-tension-between-afghanistan-and-pakistan-araqchi/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-20T05:46:28+00:00",
+        "preview": "Iranian Foreign Minister Abbas Araqchi says Tehran and Moscow share a common position on Afghanistan, reducing tensions between Kabul and Islamabad, and countering terrorist threats. Araqchi made the remarks on Monday…"
+      },
+      {
+        "title": "Pakistan and Maldives: A 60-year partnership built on schools, medicine, and faith",
+        "link": "https://psmnews.mv/190585",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-20T05:44:55+00:00",
+        "preview": ""
+      },
+      {
+        "title": "President Muizzu departs for state visit to Pakistan",
+        "link": "https://psmnews.mv/190584",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-20T05:25:24+00:00",
+        "preview": ""
+      },
+      {
+        "title": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
+        "link": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
+        "source_name": "The New York Times — Asia Pacific",
+        "source_type": "global",
+        "published": "2026-10-17T17:58:20+00:00",
+        "preview": "A teacher and 32 children were killed in northwest Pakistan in an episode has prompted safety inspections of schools across the region."
+      }
+    ],
+    "Afghanistan": [
+      {
+        "title": "At SCO, Dar calls for promoting use of national currencies to help offset global economic shocks",
+        "link": "https://www.dawn.com/news/2038514/at-sco-dar-calls-for-promoting-use-of-national-currencies-to-help-offset-global-economic-shocks",
+        "source_name": "Dawn — Business (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T14:56:55+00:00",
+        "preview": "Deputy Prime Minister and Foreign Minister Ishaq Dar on Tuesday encouraged members of the Shanghai Cooperation Organisation (SCO) to use national currencies for “mutual settlement” and establish other financial…"
+      },
+      {
+        "title": "Trump blames migrants for violence in France as US midterms loom",
+        "link": "https://www.ariananews.af/trump-blames-migrants-for-violence-in-france-as-us-midterms-loom/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-20T07:23:40+00:00",
+        "preview": "In a post on Truth Social, he also called on France to close its borders, declaring that migrants had taken over the country, AFP reported. The post Trump blames migrants for violence in France as US midterms loom first…"
+      },
+      {
+        "title": "Pakistan FM urges IEA not to allow Afghan soil to be used against Pakistan",
+        "link": "https://www.ariananews.af/pakistan-fm-urges-iea-not-to-allow-afghan-soil-to-be-used-against-pakistan/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-20T12:38:19+00:00",
+        "preview": "Mohammad Ishaq Dar, Pakistan’s Deputy Prime Minister and Minister of Foreign Affairs, has called on the Islamic Emirate to ensure that Afghan territory is not used for terrorism against Pakistan and other countries…"
+      },
+      {
+        "title": "Russian troops arrive in Uzbekistan for joint military exercises",
+        "link": "https://www.ariananews.af/russian-troops-arrive-in-uzbekistan-for-joint-military-exercises/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-20T15:34:35+00:00",
+        "preview": "The Hamkorlik-2026 exercises will run from October 20 to 27 at the Termez training ground in Surkhandarya province, near Uzbekistan’s border with Afghanistan. The post Russian troops arrive in Uzbekistan for joint…"
+      },
+      {
+        "title": "Afghanistan’s economic crisis raises concerns over EU deportations",
+        "link": "https://www.ariananews.af/afghanistans-economic-crisis-raises-concerns-over-eu-deportations/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-19T13:04:39+00:00",
+        "preview": "The growing contacts highlight the tension between Europe’s official policy of non-recognition and its practical efforts to address migration and other issues involving Afghanistan. The post Afghanistan’s economic…"
+      },
+      {
+        "title": "Afghanistan-Pakistan trade plunges 74% amid border closures",
+        "link": "https://amu.tv/254718/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-19T06:38:39+00:00",
+        "preview": "The closures have affected traders, transport companies and communities that depend on cross-border commerce. The post Afghanistan-Pakistan trade plunges 74% amid border closures appeared first on Amu TV ."
+      },
+      {
+        "title": "Christiane Amanpour to leave CNN after four decades as Ellison era begins",
+        "link": "https://www.dawn.com/news/2038334/christiane-amanpour-to-leave-cnn-after-four-decades-as-ellison-era-begins",
+        "source_name": "Dawn — World (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-19T18:30:27+00:00",
+        "preview": "CNN’s chief international anchor Christiane Amanpour will leave next year, after 43 years with the network, according to an internal memo seen by Reuters on Monday. The news channel has recently come under the ownership…"
+      },
+      {
+        "title": "Herat woman builds small business after deportation from Iran",
+        "link": "https://amu.tv/254737/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-19T14:59:52+00:00",
+        "preview": "Yousufi said her business has since expanded, with 6,000 to 7,000 afghanis ($92 to $107) invested in production each day. The post Herat woman builds small business after deportation from Iran appeared first on Amu TV ."
+      },
+      {
+        "title": "Violent protests spread across Europe as Albanian PM blames ‘foreign hand’",
+        "link": "https://www.ariananews.af/violent-protests-spread-across-europe-as-albania-pm-blames-foreign-hand/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-19T09:09:56+00:00",
+        "preview": "Hundreds of thousands of people took to the streets in separate demonstrations over the weekend, with some rallies escalating into looting, arson and confrontations with security forces. The post Violent protests spread…"
+      },
+      {
+        "title": "Greek coast guard says 12 migrants die in Aegean sea crossings",
+        "link": "https://www.ariananews.af/greek-coast-guard-says-12-migrants-die-in-aegean-sea-crossings/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-19T07:59:03+00:00",
+        "preview": "Twelve migrants died Monday attempting to cross the Aegean Sea, including six people whose bodies were found after their boat collided with a police vessel, authorities said. A baby and four women were among six people…"
+      },
+      {
+        "title": "Trump endorses Netanyahu in close Israeli election",
+        "link": "https://www.ariananews.af/trump-endorses-netanyahu-in-close-israeli-election/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-19T03:58:31+00:00",
+        "preview": "Polls have suggested no candidate has a clear path to power. Israel's prime minister is chosen through coalition-building in parliament rather than by direct popular vote. The post Trump endorses Netanyahu in close…"
+      },
+      {
+        "title": "Poland hits back at Hegseth over NATO sacrifices in Afghanistan",
+        "link": "https://www.ariananews.af/poland-hits-back-at-hegseth-over-nato-sacrifices-in-afghanistan/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-19T12:12:53+00:00",
+        "preview": "According to the report, 43 Polish soldiers and one civilian paramedic were killed, while more than 200 Polish personnel were wounded. The post Poland hits back at Hegseth over NATO sacrifices in Afghanistan first…"
+      },
+      {
+        "title": "Iran calls for extending Herat railway to Uzbekistan border",
+        "link": "https://www.ariananews.af/iran-calls-for-extending-herat-railway-to-uzbekistan-border/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-19T10:40:56+00:00",
+        "preview": "Meanwhile, Afghanistan’s Ministry of Public Works said the country has significant potential to serve as a regional connectivity hub. The post Iran calls for extending Herat railway to Uzbekistan border first appeared…"
+      },
+      {
+        "title": "People need sports and recreation, says Anas Haqqani",
+        "link": "https://www.ariananews.af/people-need-sports-and-recreation-says-anas-haqqani/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-19T10:12:40+00:00",
+        "preview": "Haqqani said Afghanistan has the capacity to grow in various sectors and would not face problems similar to those experienced during the presence of the Soviet Union and the United States in the country. The post People…"
+      },
+      {
+        "title": "Government assesses 115 private hospitals in Kabul, only two earn top grade",
+        "link": "https://www.ariananews.af/government-assesses-115-private-hospitals-in-kabul-only-two-earn-top-grade/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-20T13:50:31+00:00",
+        "preview": "The Ministry of Public Health of the Islamic Emirate of Afghanistan (IEA) has announced the results of its assessment of 115 private hospitals in Kabul, with two placed in Category A, nine in Category B and 39 in…"
+      },
+      {
+        "title": "Arman FC begin second half of Afghanistan Champions League with 2-0 win",
+        "link": "https://www.ariananews.af/arman-fc-begin-second-half-of-afghanistan-champions-league-with-2-0-win/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-20T13:47:25+00:00",
+        "preview": "Ariana Khost pushed for an equaliser, but Arman FC held firm before Mir Agha Sharifi struck in stoppage time to secure all three points. The post Arman FC begin second half of Afghanistan Champions League with 2-0 win…"
+      },
+      {
+        "title": "Iran, Russia agree on reducing tension between Afghanistan and Pakistan: Araqchi",
+        "link": "https://www.ariananews.af/iran-russia-agree-on-reducing-tension-between-afghanistan-and-pakistan-araqchi/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-20T05:46:28+00:00",
+        "preview": "Iranian Foreign Minister Abbas Araqchi says Tehran and Moscow share a common position on Afghanistan, reducing tensions between Kabul and Islamabad, and countering terrorist threats. Araqchi made the remarks on Monday…"
+      },
+      {
+        "title": "Nangarhar resident walks three hours to reach health center",
+        "link": "https://amu.tv/254803/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-20T10:23:17+00:00",
+        "preview": "After waiting for nearly an hour, Rahman said health workers told him they could not treat his son and that he would need to seek care at a private hospital. The post Nangarhar resident walks three hours to reach health…"
+      },
+      {
+        "title": "Atal’s form boosts Afghanistan ahead of 2027 World Cup",
+        "link": "https://amu.tv/254780/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-20T07:51:54+00:00",
+        "preview": "Afghanistan batter Sediqullah Atal has strengthened his place in the national team’s top order with a string of strong performances, including a century against Zimbabwe, as Afghanistan builds toward the 2027 Cricket…"
+      },
+      {
+        "title": "UK criticises Hegseth for downplaying NATO allies’ role in Afghanistan war",
+        "link": "https://www.ariananews.af/uk-criticises-hegseth-for-downplaying-nato-allies-role-in-afghanistan-war/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-20T06:17:50+00:00",
+        "preview": "The spokesperson noted that more than 450 British military personnel had died in Afghanistan and said their service and sacrifice would never be forgotten. The post UK criticises Hegseth for downplaying NATO allies’…"
+      },
+      {
+        "title": "UK, Poland rebuke Hegseth over remarks on NATO role in Afghanistan",
+        "link": "https://amu.tv/254768/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-20T05:27:44+00:00",
+        "preview": "Sikorski also challenged Hegseth’s remarks, pointing to the deaths of Polish personnel who served in Afghanistan. The post UK, Poland rebuke Hegseth over remarks on NATO role in Afghanistan appeared first on Amu TV ."
+      },
+      {
+        "title": "Afghanistan beats Zimbabwe by 158 runs in ODI tri-series opener",
+        "link": "https://amu.tv/254763/",
+        "source_name": "Amu TV (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-20T05:17:56+00:00",
+        "preview": "After winning the toss and electing to bat, Afghanistan scored 294 before being bowled out, setting Zimbabwe a target of 295. The post Afghanistan beats Zimbabwe by 158 runs in ODI tri-series opener appeared first on…"
+      },
+      {
+        "title": "Atal’s century and Rashid’s four wickets seal Afghanistan’s 158-run win over Zimbabwe",
+        "link": "https://www.ariananews.af/atals-century-and-rashids-four-wickets-seal-afghanistans-158-run-win-over-zimbabwe/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-20T04:31:34+00:00",
+        "preview": "Zimbabwe struggled in their chase and were bowled out for 136 in 38.4 overs. The post Atal’s century and Rashid’s four wickets seal Afghanistan’s 158-run win over Zimbabwe first appeared on Ariana News | Afghanistan…"
+      },
+      {
+        "title": "EU condemns restrictions on women and girls in Afghanistan",
+        "link": "https://www.ariananews.af/eu-condemns-restrictions-on-women-and-girls-in-afghanistan/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-19T16:43:08+00:00",
+        "preview": "IEA spokesperson Zabihullah Mujahid has previously said that education for girls above Grade 6 remains under review and that the government is working to resolve the issue. The post EU condemns restrictions on women and…"
+      },
+      {
+        "title": "IEA launches 40 million afghani road rehabilitation project in Panjshir",
+        "link": "https://www.ariananews.af/iea-launches-40-million-afghani-road-rehabilitation-project-in-panjshir/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-19T09:38:41+00:00",
+        "preview": "The Ministry of Public Works of the Islamic Emirate of Afghanistan (IEA) has launched a 40 million afghani (AFN) project to rehabilitate 45 kilometres of the main road in Panjshir province, aiming to improve road…"
+      },
+      {
+        "title": "Afghanistan finish runners-up after 6-0 defeat to Brazil in futsal final",
+        "link": "https://www.ariananews.af/afghanistan-finish-runners-up-after-6-0-defeat-to-brazil-in-futsal-final/",
+        "source_name": "Ariana News (Afghanistan)",
+        "source_type": "local",
+        "published": "2026-10-19T04:23:57+00:00",
+        "preview": "Afghanistan lost 6-0 to Brazil in the final of the 2026 Futsal Nations Cup on Sunday, finishing runners-up after an impressive run to the final of the six-nation tournament. Brazil dominated the final at the Max…"
+      }
+    ],
+    "Nepal": [],
+    "Bhutan": [
+      {
+        "title": "Growth Outlook Remains Strong for Bhutan, but Inflation and External Deficit Widen",
+        "link": "https://businessbhutan.bt/growth-outlook-remains-strong-for-bhutan-but-inflation-and-external-deficit-widen/?utm_source=rss&utm_medium=rss&utm_campaign=growth-outlook-remains-strong-for-bhutan-but-inflation-and-external-deficit-widen",
+        "source_name": "Business Bhutan",
+        "source_type": "local",
+        "published": "2026-10-20T03:45:57+00:00",
+        "preview": "IMF projections show Bhutan’s economy growing faster than the regional average, even as rising consumer prices and a widening current […]"
+      },
+      {
+        "title": "Nyera Amari Hydropower Projects Move Closer to Investment Agreement, Concession Signing Planned This Fiscal Year",
+        "link": "https://businessbhutan.bt/nyera-amari-hydropower-projects-move-closer-to-investment-agreement-concession-signing-planned-this-fiscal-year/?utm_source=rss&utm_medium=rss&utm_campaign=nyera-amari-hydropower-projects-move-closer-to-investment-agreement-concession-signing-planned-this-fiscal-year",
+        "source_name": "Business Bhutan",
+        "source_type": "local",
+        "published": "2026-10-19T05:19:06+00:00",
+        "preview": "DGPC updating project reports as Tata Power begins due diligence; ADB financing of USD 250 million to be prioritized next […]"
+      },
+      {
+        "title": "Green Economy Paradox: More Electricity, Rising Fuel Dependence",
+        "link": "https://businessbhutan.bt/green-economy-paradox-more-electricity-rising-fuel-dependence/?utm_source=rss&utm_medium=rss&utm_campaign=green-economy-paradox-more-electricity-rising-fuel-dependence",
+        "source_name": "Business Bhutan",
+        "source_type": "local",
+        "published": "2026-10-19T09:15:12+00:00",
+        "preview": "Bhutan’s growing electricity supply and rising petroleum imports reveal a fundamental contradiction in its green economic transition. While hydropower strengthens […]"
+      },
+      {
+        "title": "From Training to Mentorship: BCMD Strengthens Support for Women Leaders",
+        "link": "https://businessbhutan.bt/from-training-to-mentorship-bcmd-strengthens-support-for-women-leaders/?utm_source=rss&utm_medium=rss&utm_campaign=from-training-to-mentorship-bcmd-strengthens-support-for-women-leaders",
+        "source_name": "Business Bhutan",
+        "source_type": "local",
+        "published": "2026-10-20T04:05:58+00:00",
+        "preview": "Women aspiring to enter politics and leadership in Bhutan are receiving more targeted support through a new coaching and mentoring […]"
+      },
+      {
+        "title": "BCCI Bets Big on Trade Fairs to Drive Business Growth",
+        "link": "https://businessbhutan.bt/bcci-bets-big-on-trade-fairs-to-drive-business-growth/?utm_source=rss&utm_medium=rss&utm_campaign=bcci-bets-big-on-trade-fairs-to-drive-business-growth",
+        "source_name": "Business Bhutan",
+        "source_type": "local",
+        "published": "2026-10-19T10:43:34+00:00",
+        "preview": "Allocates Nu 38.59 Million for Private Sector Development in FY 2026-27 The Bhutan Chamber of Commerce and Industry (BCCI) has […]"
+      },
+      {
+        "title": "Six Dzongkhags to Prepare Action Plans Targeting Niche Tourism, Private Investment and Year-round Visitor Arrivals",
+        "link": "https://businessbhutan.bt/six-dzongkhags-to-prepare-action-plans-targeting-niche-tourism-private-investment-and-year-round-visitor-arrivals/?utm_source=rss&utm_medium=rss&utm_campaign=six-dzongkhags-to-prepare-action-plans-targeting-niche-tourism-private-investment-and-year-round-visitor-arrivals",
+        "source_name": "Business Bhutan",
+        "source_type": "local",
+        "published": "2026-10-19T09:20:46+00:00",
+        "preview": "Six eastern dzongkhags are developing a regional tourism development strategy and individual Tourism Action Plans (TAPs) to unlock the region’s […]"
+      },
+      {
+        "title": "Government to Review Banks’ Lending Margins as Borrowing Costs Remain a Concern",
+        "link": "https://businessbhutan.bt/government-to-review-banks-lending-margins-as-borrowing-costs-remain-a-concern/?utm_source=rss&utm_medium=rss&utm_campaign=government-to-review-banks-lending-margins-as-borrowing-costs-remain-a-concern",
+        "source_name": "Business Bhutan",
+        "source_type": "local",
+        "published": "2026-10-19T09:10:14+00:00",
+        "preview": "The government will work with the Royal Monetary Authority (RMA) to review the additional margins that banks charge on loans, […]"
+      },
+      {
+        "title": "GoI Hands Over Nu 2.90 Billion for Bhutan’s 13th FYP Projects",
+        "link": "https://businessbhutan.bt/goi-hands-over-nu-2-90-billion-for-bhutans-13th-fyp-projects/?utm_source=rss&utm_medium=rss&utm_campaign=goi-hands-over-nu-2-90-billion-for-bhutans-13th-fyp-projects",
+        "source_name": "Business Bhutan",
+        "source_type": "local",
+        "published": "2026-10-19T09:33:41+00:00",
+        "preview": "The Government of India (GoI) has handed over cheques amounting to Nu 2.90 billion to the Ministry of Finance (MoF) […]"
+      }
+    ],
+    "Maldives": [
+      {
+        "title": "Fiscal Deficit Narrows to MVR 4.5 Billion Amid Capital Spending Cutbacks",
+        "link": "https://corporatemaldives.com/maldivian-fiscal-deficit-narrows-to-mvr-4-5-billion-amid-capital-spending-cutbacks/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-20T10:38:34+00:00",
+        "preview": "Maldives cuts fiscal deficit to MVR 4.5 billion through capital spending reductions despite rising costs."
+      },
+      {
+        "title": "MMA Suspends MS Finance License and Issues MVR 500,000 Penalty Over Currency Breaches",
+        "link": "https://corporatemaldives.com/mma-suspends-ms-finance-licence-and-issues-mvr-500000-penalty-over-currency-breaches/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-20T09:15:03+00:00",
+        "preview": "MMA suspends MS Finance licence and fines it MVR 500,000 over currency breaches."
+      },
+      {
+        "title": "Parliament approves USD 8.7 million budget for Auditor General’s Office",
+        "link": "https://psmnews.mv/190600",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-20T08:38:02+00:00",
+        "preview": ""
+      },
+      {
+        "title": "Maldives and Pakistan to Deepen Bilateral Ties Across Key Sectors",
+        "link": "https://corporatemaldives.com/maldives-and-pakistan-to-deepen-bilateral-ties-across-key-sectors/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-19T07:47:00+00:00",
+        "preview": "President Muizzu visits Pakistan to deepen bilateral ties, marking sixty years of diplomatic relations."
+      },
+      {
+        "title": "MMA Officials Meet Global Financial Leaders at IMF and World Bank Meetings",
+        "link": "https://corporatemaldives.com/mma-officials-meet-global-financial-leaders-at-imf-and-world-bank-meetings/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-18T08:21:17+00:00",
+        "preview": "MMA delegation attends IMF and World Bank meetings in Bangkok, emphasizing research and central bank collaboration."
+      },
+      {
+        "title": "CMDA Reports Top Spot in Governance Rankings Secured by STO",
+        "link": "https://corporatemaldives.com/cmda-reports-top-spot-in-governance-rankings-secured-by-sto/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-19T09:40:57+00:00",
+        "preview": "STO leads Maldives governance rankings at 97.5 per cent as market compliance reaches record 92.9 per cent."
+      },
+      {
+        "title": "Funding for 1,273 Ongoing Projects Secured, Rising Oil Costs Absorbed via Subsidies",
+        "link": "https://corporatemaldives.com/funding-for-1273-ongoing-projects-secured-rising-oil-costs-absorbed-via-subsidies/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-19T06:58:12+00:00",
+        "preview": "Maldives absorbs oil price shocks via subsidies while securing funding for 1,273 projects."
+      },
+      {
+        "title": "Maldives Seeks to Strengthen Pandemic Preparedness and Health Security",
+        "link": "https://corporatemaldives.com/maldives-seeks-to-strengthen-pandemic-preparedness-and-health-security/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-19T06:29:42+00:00",
+        "preview": "Maldives boosts pandemic preparedness through regional WHO meeting and national chemical-biological emergency response training workshop."
+      },
+      {
+        "title": "Maldives Climate Plan Targets Women’s Access to Finance and Decision-Making",
+        "link": "https://corporatemaldives.com/maldives-climate-plan-targets-womens-access-to-finance-and-decision-making/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-18T05:31:34+00:00",
+        "preview": "Maldives climate gender plan prioritises women's finance access, business support and decision-making roles across islands."
+      },
+      {
+        "title": "Maldives’ Economic Activity Grows 2.4% as Fisheries Decline Weighs on Gains",
+        "link": "https://corporatemaldives.com/maldives-economic-activity-grows-2-4-as-fisheries-decline-weighs-on-gains/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-18T05:19:01+00:00",
+        "preview": "Maldives economy grew 2.4% in August as sharp fisheries decline offset services gains."
+      },
+      {
+        "title": "MPL Records 14,525 TEUs in September Container Throughput",
+        "link": "https://corporatemaldives.com/mpl-records-14525-teus-in-september-container-throughput/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-18T05:04:35+00:00",
+        "preview": "MPL handled 14,525 TEUs in September as a larger Thilafushi port nears development."
+      },
+      {
+        "title": "Maldives Explores Subsea Desalination with 500-Metre Deep Water Sampling",
+        "link": "https://corporatemaldives.com/maldives-explores-subsea-desalination-with-500-metre-deep-water-sampling/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-18T07:06:41+00:00",
+        "preview": "Maldives samples 500-metre deep water to assess feasibility of Flocean's subsea desalination technology."
+      },
+      {
+        "title": "President Muizzu arrives in Pakistan on state visit",
+        "link": "https://psmnews.mv/190623",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-20T14:15:53+00:00",
+        "preview": ""
+      },
+      {
+        "title": "Pakistan and Maldives: A 60-year partnership built on schools, medicine, and faith",
+        "link": "https://psmnews.mv/190585",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-20T05:44:55+00:00",
+        "preview": ""
+      },
+      {
+        "title": "DMRR 2026 Earns World Athletics Ranking Status with Over 5,500 Participants",
+        "link": "https://corporatemaldives.com/dmrr-2026-earns-world-athletics-ranking-status-with-over-5500-participants/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-20T11:22:37+00:00",
+        "preview": "DMRR 2026 gains World Athletics Ranking status with over 5,500 participants, largest ever edition."
+      },
+      {
+        "title": "President Muizzu departs for state visit to Pakistan",
+        "link": "https://psmnews.mv/190584",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-20T05:25:24+00:00",
+        "preview": ""
+      },
+      {
+        "title": "Government to retain full control of Ras Male' properties, President says",
+        "link": "https://psmnews.mv/190613",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-20T10:45:31+00:00",
+        "preview": ""
+      },
+      {
+        "title": "First draft of carbon trading regulations completed: Environment Minister",
+        "link": "https://psmnews.mv/190615",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-20T10:26:19+00:00",
+        "preview": ""
+      },
+      {
+        "title": "Government prepares to issue three additional seaweed farming permits",
+        "link": "https://psmnews.mv/190609",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-20T09:44:31+00:00",
+        "preview": ""
+      },
+      {
+        "title": "Education conferences should focus on sector-wide improvements, Education Minister says",
+        "link": "https://psmnews.mv/190602",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-20T08:51:42+00:00",
+        "preview": ""
+      },
+      {
+        "title": "China donates 880 solar streetlights to Maldives",
+        "link": "https://psmnews.mv/190599",
+        "source_name": "PSM News (Maldives)",
+        "source_type": "local",
+        "published": "2026-10-20T08:33:10+00:00",
+        "preview": ""
+      },
+      {
+        "title": "Applications Open for Nine Stall Rentals at Hulhumalé’s ‘Rashu Maarukeytu’",
+        "link": "https://corporatemaldives.com/applications-open-for-nine-stall-rentals-at-hulhumales-rashu-maarukeytu/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-20T07:49:02+00:00",
+        "preview": "HDC opens applications for leasing nine commercial stalls at Hulhumalé's Rashu Maarukeytu local market."
+      },
+      {
+        "title": "Ministry Revises Cross-Subsidisation Lease Acquisition Costs for Outer Atolls",
+        "link": "https://corporatemaldives.com/ministry-revises-cross-subsidisation-lease-acquisition-costs-for-outer-atolls/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-20T06:41:21+00:00",
+        "preview": "Tourism Ministry revises cross-subsidisation lease acquisition cost calculations for six outer atolls through 2027."
+      },
+      {
+        "title": "DMGC 2026 Announced for November with Free Entry and MVR 150K Prize Pool",
+        "link": "https://corporatemaldives.com/dmgc-2026-announced-for-november-with-free-entry-and-mvr-150k-prize-pool/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-20T06:06:34+00:00",
+        "preview": "Dhiraagu announces free-entry DMGC 2026 gaming tournament this November with MVR 150,000 prize pool."
+      },
+      {
+        "title": "Maldives Collaborates with Malaysian Firm to Install Ice Plants Across 11 Islands",
+        "link": "https://corporatemaldives.com/maldives-collaborates-with-malaysian-firm-to-install-ice-plants-across-11-islands/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-20T04:19:51+00:00",
+        "preview": "Maldives partners with Malaysian firm to install ice plants across 11 fishing islands."
+      },
+      {
+        "title": "Marketplace District Leads Broad Expansion of Maldives Expo 2026",
+        "link": "https://corporatemaldives.com/marketplace-district-leads-broad-expansion-of-maldives-expo-2026/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-19T08:41:21+00:00",
+        "preview": "Maldives Expo 2026 expands vendor participation, adds international and tourism districts, reserving awards for locals."
+      },
+      {
+        "title": "High Commission Urges Maldivian Travellers to Verify UK ETA Requirements",
+        "link": "https://corporatemaldives.com/high-commission-urges-maldivian-taravellers-to-verify-uk-eta-requirements/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-19T04:00:16+00:00",
+        "preview": "Maldivian High Commission advises citizens to verify UK ETA requirements before travelling or transiting through Britain."
+      },
+      {
+        "title": "Naagoashi Resort Set to Open Within 11 Months, Announces Tourism Minister",
+        "link": "https://corporatemaldives.com/naagoashi-resort-set-to-open-within-11-months-announces-tourism-minister/",
+        "source_name": "Corporate Maldives",
+        "source_type": "local",
+        "published": "2026-10-18T09:29:44+00:00",
+        "preview": "Naagoashi Resort passes 50 per cent completion, set to open within 11 months."
+      }
+    ],
+    "Philippines": [
+      {
+        "title": "DOF signs $1.5B ADB deal to address Middle East crisis",
+        "link": "https://business.inquirer.net/616835/dof-signs-1-5b-adb-deal-to-address-middle-east-crisis",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-20T19:14:42+00:00",
+        "preview": "MANILA, Philippines — The Department of Finance (DOF) has signed the $1.5-billion financing extended by the Asian Development Bank (ADB) to help fund the government’s measures to cushion the impact of the Middle East…"
+      },
+      {
+        "title": "Inflation risks to keep BSP hawkish",
+        "link": "https://bworldonline.com/top-stories/2026/10/20/788200/inflation-risks-to-keep-bsp-hawkish/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T13:24:16+00:00",
+        "preview": "A “DECISIVELY HAWKISH” Bangko Sentral ng Pilipinas (BSP) is expected to deliver further monetary tightening to contain inflation, after September’s hotter-than-expected price growth heightened concerns over looming…"
+      },
+      {
+        "title": "KKR targets LEC priority projects for financing",
+        "link": "https://business.inquirer.net/616664/kkr-targets-lec-priority-projects-for-financing",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-20T02:09:00+00:00",
+        "preview": "MANILA, Philippines — US-based global investment firm KKR & Co. Inc. has expressed interest in financing priority projects under the Luzon Economic Corridor (LEC), spanning digital finance, manufacturing, energy and…"
+      },
+      {
+        "title": "Economic shifts could swing 2027 budget by billions — DBM",
+        "link": "https://business.inquirer.net/616760/economic-shifts-could-swing-2027-budget-by-billions-dbm",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-20T15:50:30+00:00",
+        "preview": "MANILA, Philippines — The government’s 2027 fiscal position could swing by tens of billions of pesos depending on economic indicators, with faster expansion offering the biggest boost and higher global interest rates…"
+      },
+      {
+        "title": "BARMM cops seize P17-M imported cigarettes",
+        "link": "https://bworldonline.com/the-nation/2026/10/20/788217/barmm-cops-seize-p17-m-imported-cigarettes/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T13:04:26+00:00",
+        "preview": "COTABATO CITY — Policemen foiled on Monday an attempt by couriers to deliver P17 million worth of imported…"
+      },
+      {
+        "title": "PH dollar deficit swells to over 1-year high",
+        "link": "https://business.inquirer.net/616677/ph-dollar-deficit-swells-to-over-1-year-high",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-20T02:11:00+00:00",
+        "preview": "MANILA, Philippines — The country’s dollar deficit swelled to its widest in more than a year in September, as renewed tensions between the United States and Iran pushed import costs higher and weighed on investor flows.…"
+      },
+      {
+        "title": "GCash IPO: 3 Ways Mynt’s Stock Market Debut Could Benefit Filipinos",
+        "link": "https://business.inquirer.net/616823/gcash-ipo-3-ways-mynts-stock-market-debut-could-benefit-filipinos",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-20T17:08:57+00:00",
+        "preview": "MANILA, Philippines — GCash parent company Mynt officially debuted on the Philippine Stock Exchange (PSE) today, October 20, following the largest initial public offering (IPO) in Philippine history. The offering raised…"
+      },
+      {
+        "title": "Razon Group to buy 30% stake in WPS oil exploration firm",
+        "link": "https://business.inquirer.net/616772/razon-group-to-buy-30-stake-in-wps-oil-exploration-firm",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-20T14:21:31+00:00",
+        "preview": "MANILA, Philippines — The Razon Group is acquiring a 30-percent stake in a company that holds a service contract to harness petroleum resources in the West Philippine Sea. On Tuesday, Apex Mining Co. Inc. informed the…"
+      },
+      {
+        "title": "Gasoline, kerosene prices down, diesel up",
+        "link": "https://business.inquirer.net/616738/gasoline-kerosene-prices-down-diesel-up",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-20T05:00:00+00:00",
+        "preview": "After two straight weeks of increases, prices of gasoline will be cut back by at least P4.30 per liter and kerosene by P1 per liter, on Tuesday. Diesel prices, however, will go up by P2.60 per liter. “These adjustments…"
+      },
+      {
+        "title": "Prime Oil offers to buy fellow Razon firm’s stake in West Philippine Sea project",
+        "link": "https://bworldonline.com/corporate/2026/10/20/788205/prime-oil-offers-to-buy-fellow-razon-firms-stake-in-west-philippine-sea-project/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T13:14:19+00:00",
+        "preview": "PRIME OIL & GAS, Inc. has offered to acquire the 30% interest held by a subsidiary of listed…"
+      },
+      {
+        "title": "SC voids parts of 2024-2026 budget laws, sets limits to unprogrammed funds",
+        "link": "https://bworldonline.com/the-nation/2026/10/20/788229/sc-voids-parts-of-2024-2026-budget-laws-sets-limits-to-unprogrammed-funds/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T13:12:49+00:00",
+        "preview": "THE Supreme Court (SC) struck down portions of the 2024, 2025 and 2026 General Appropriations Acts (GAA), ruling…"
+      },
+      {
+        "title": "Senate backs VP’s P785-M budget for 2027",
+        "link": "https://bworldonline.com/the-nation/2026/10/20/788227/senate-backs-vps-p785-m-budget-for-2027/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T13:10:18+00:00",
+        "preview": "A SENATE Finance Subcommittee on Tuesday endorsed the Office of the Vice-President’s (OVP) proposed P785.20-million budget for 2027,…"
+      },
+      {
+        "title": "MPIF, Del Carmen boost Siargao mangrove conservation",
+        "link": "https://bworldonline.com/the-nation/2026/10/20/788222/mpif-del-carmen-boost-siargao-mangrove-conservation/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T13:07:59+00:00",
+        "preview": "METRO Pacific Investments Foundation (MPIF), the social development arm of Metro Pacific Investments Corp., strengthened its partnership with…"
+      },
+      {
+        "title": "PHL, Japan discuss ties, regional dev’t in phone call",
+        "link": "https://bworldonline.com/the-nation/2026/10/20/788221/phl-japan-discuss-ties-regional-devt-in-phone-call/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T13:07:11+00:00",
+        "preview": "MANILA and Tokyo exchanged views on bilateral cooperation and regional developments ahead of the Association of Southeast Asian…"
+      },
+      {
+        "title": "Isabela MSMEs eye bigger markets, business growth at Metro Manila trade fair",
+        "link": "https://bworldonline.com/the-nation/2026/10/20/788218/isabela-msmes-eye-bigger-markets-business-growth-at-metro-manila-trade-fair/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T13:04:53+00:00",
+        "preview": "ILAGAN CITY, Isabela— Eighty-two homegrown businesses from Isabela are taking their products to a bigger playing field, banking…"
+      },
+      {
+        "title": "DoF not expecting any revenue-target changes",
+        "link": "https://bworldonline.com/economy/2026/10/20/788215/dof-not-expecting-any-revenue-target-changes/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T12:49:54+00:00",
+        "preview": "THE Department of Finance (DoF) said it expects no change to its 2026 revenue targets despite economic headwinds,…"
+      },
+      {
+        "title": "It’s official: GCash parent Mynt makes PSE debut",
+        "link": "https://business.inquirer.net/616740/its-official-gcash-parent-mynt-makes-pse-debut",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-20T10:22:28+00:00",
+        "preview": "MANILA, Philippines — GCash parent Mynt Inc. made its Philippine Stock Exchange debut on Tuesday, bringing the country’s largest e-wallet operator to the stock market following strong demand from local and foreign…"
+      },
+      {
+        "title": "US-based iboss sees wider cloud security adoption in PHL in 2027 as AI threats grow",
+        "link": "https://bworldonline.com/technology/2026/10/20/788304/us-based-iboss-sees-wider-cloud-security-adoption-in-phl-in-2027-as-ai-threats-grow/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T14:30:38+00:00",
+        "preview": "US-based zero trust secure access service edge (SASE) cloud security platform iboss expects more Philippine organizations to adopt…"
+      },
+      {
+        "title": "Paris-based banking giant sets up PH office",
+        "link": "https://business.inquirer.net/616758/paris-based-banking-giant-sets-up-ph-office",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-20T13:37:16+00:00",
+        "preview": "MANILA, Philippines — Paris-based banking group BNP Paribas is setting up a Philippine delivery center to support its global corporate and institutional banking business. On Monday, Megaworld disclosed to the local…"
+      },
+      {
+        "title": "Mynt makes market debut after record Philippine IPO",
+        "link": "https://bworldonline.com/top-stories/2026/10/20/788198/mynt-makes-market-debut-after-record-philippine-ipo/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T13:22:37+00:00",
+        "preview": "MYNT, INC., the operator of mobile wallet GCash, made its stock market debut on Tuesday after completing the…"
+      },
+      {
+        "title": "Aznar Shipping’s P670-M IPO gets SEC approval",
+        "link": "https://bworldonline.com/corporate/2026/10/20/788207/aznar-shippings-p670-m-ipo-gets-sec-approval/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T13:14:27+00:00",
+        "preview": "THE Securities and Exchange Commission (SEC) has approved the registration statement for Aznar Shipping Corp.’s planned P670-million initial…"
+      },
+      {
+        "title": "Mynt eyes bigger financial services revenue share after IPO",
+        "link": "https://bworldonline.com/corporate/2026/10/20/788206/mynt-eyes-bigger-financial-services-revenue-share-after-ipo/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T13:14:23+00:00",
+        "preview": "NEWLY LISTED Mynt, Inc., the financial technology company behind GCash, is seeking to increase revenue from its lending…"
+      },
+      {
+        "title": "RLC launches sports and leisure unit to boost commercial space use",
+        "link": "https://bworldonline.com/corporate/2026/10/20/788203/rlc-launches-sports-and-leisure-unit-to-boost-commercial-space-use/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T13:14:13+00:00",
+        "preview": "GOKONGWEI-LED ROBINSONS Land Corp. (RLC) has launched a sports and leisure business unit aimed at expanding the use…"
+      },
+      {
+        "title": "CoA flags BCDA over P7.9-B delayed projects and weak monitoring of contracts",
+        "link": "https://bworldonline.com/the-nation/2026/10/20/788228/coa-flags-bcda-over-p7-9-b-delayed-projects-and-weak-monitoring-of-contracts/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T13:12:44+00:00",
+        "preview": "THE Commission on Audit (CoA) flagged the Bases Conversion and Development Authority (BCDA) over deficiencies in project planning,…"
+      },
+      {
+        "title": "SC says Ombudsman may probe officials without waiting for CoA findings",
+        "link": "https://bworldonline.com/the-nation/2026/10/20/788225/sc-says-ombudsman-may-probe-officials-without-waiting-for-coa-findings/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T13:11:47+00:00",
+        "preview": "THE Supreme Court (SC) has ruled that the Office of the Ombudsman may investigate public officials for corruption…"
+      },
+      {
+        "title": "Worker protection vs heat sought",
+        "link": "https://bworldonline.com/the-nation/2026/10/20/788223/worker-protection-vs-heat-sought/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T13:08:23+00:00",
+        "preview": "THE Trade Union Congress of the Philippines (TUCP) asked the Department of Labor and Employment (DoLE) to compel…"
+      },
+      {
+        "title": "OPAPRU seeks more budget to aid decommissioned MILF combatants",
+        "link": "https://bworldonline.com/the-nation/2026/10/20/788216/opapru-seeks-more-budget-to-aid-decommissioned-milf-combatants/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T13:04:07+00:00",
+        "preview": "AN ADDITIONAL P14 billion is needed to improve the decommissioning and normalization process for decommissioned combatants in the…"
+      },
+      {
+        "title": "BIR files P35.16-B tax cases",
+        "link": "https://bworldonline.com/the-nation/2026/10/20/788231/bir-files-p35-16-b-tax-cases/",
+        "source_name": "BusinessWorld (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T13:03:19+00:00",
+        "preview": "THE Bureau of Internal Revenue (BIR) filed 361 criminal complaints involving P35.16 billion in tax exposure with the…"
+      },
+      {
+        "title": "Oil giant faces lawsuits over climate disasters in PH, Brazil",
+        "link": "https://business.inquirer.net/616539/oil-giant-faces-lawsuits-over-climate-disasters-in-ph-brazil",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-19T02:08:00+00:00",
+        "preview": "MANILA, Philippines — A typhoon in the Philippines and flooding in Brazil. Twice in less than a year, British energy giant Shell has been the target of a new type of lawsuit seeking to make polluters pay part of the…"
+      },
+      {
+        "title": "Poll: BSP seen raising rates again",
+        "link": "https://business.inquirer.net/616528/poll-bsp-seen-raising-rates-again",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-19T02:07:00+00:00",
+        "preview": "MANILA, Philippines — The Bangko Sentral ng Pilipinas (BSP) is expected to raise interest rates again later this week as inflation remains stubbornly high, forcing policymakers to weigh the need to curb price pressures…"
+      },
+      {
+        "title": "Philippines raises $339mn from T-bond offer",
+        "link": "https://www.brecorder.com/news/40445088/philippines-raises-339mn-from-t-bond-offer",
+        "source_name": "Business Recorder (Pakistan)",
+        "source_type": "local",
+        "published": "2026-10-20T06:24:03+00:00",
+        "preview": "MANILA: Following are the results of the Philippine Bureau of the Treasury’s (BTr) auction of reissued 2031 T-bonds on Tuesday: BTr awards 21.38 billion Philippine pesos ($339.33 million) of the reissued 2031 T-bonds at…"
+      },
+      {
+        "title": "Big IPO, big bonus: GCash employees get their own payday",
+        "link": "https://www.rappler.com/newsbreak/inside-track/ipo-gcash-employee-bonus/",
+        "source_name": "Rappler — Business (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T10:57:12+00:00",
+        "preview": "From first-time investors to the country's business elite and the President himself, everyone turned out for GCash. Now, can its record-breaking IPO wake up the sleepy PSE?"
+      },
+      {
+        "title": "Peso crashes further below 63:$1, a new record low",
+        "link": "https://business.inquirer.net/616666/peso-crashes-further-below-631-a-new-record-low",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-20T02:12:00+00:00",
+        "preview": "MANILA, Philippines — The Philippine peso sank deeper into record-low territory on Monday, closing further below the 63-per-dollar mark as a stronger US dollar, elevated oil prices and mounting global uncertainties kept…"
+      },
+      {
+        "title": "DOTr courts India, France to fund stalled rail projects",
+        "link": "https://business.inquirer.net/616672/dotr-courts-india-france-to-fund-stalled-rail-projects",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-20T02:10:00+00:00",
+        "preview": "MANILA, Philippines — The Department of Transportation (DOTr) is turning to government-to-government financing to revive several long-delayed railway projects, with India and France among the countries being approached…"
+      },
+      {
+        "title": "Gov’t opens application for 2027 import quotas",
+        "link": "https://business.inquirer.net/616669/govt-opens-application-for-2027-import-quotas",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-20T02:04:00+00:00",
+        "preview": "MANILA, Philippines — The Department of Agriculture (DA) has opened the application for the 2027 import quotas for five commodities, including pork and chicken. According to the notice posted on its website, the agency…"
+      },
+      {
+        "title": "GCash IPO seen to reenergize local stock market",
+        "link": "https://business.inquirer.net/616670/gcash-ipo-seen-to-reenergize-local-stock-market",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-20T02:02:00+00:00",
+        "preview": "MANILA, Philippines — The initial public offering (IPO) of GCash parent Mynt Inc. could renew interest in Philippine stocks and bring more retail investors into the market, according to Unicapital Securities Inc. The…"
+      },
+      {
+        "title": "Philippine EV Summit teams up with the country’s largest EV owners’ group",
+        "link": "https://business.inquirer.net/616645/philippine-ev-summit-teams-up-with-the-countrys-largest-ev-owners-group",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-20T09:00:00+00:00",
+        "preview": "EV owners are set to take center stage at the country’s biggest electric vehicle (EV) event this year. The Electric Vehicle Association of the Philippines (EVAP) today signed a partnership with the Philippine EV…"
+      },
+      {
+        "title": "Steady GCash growth seen pre-IPO",
+        "link": "https://business.inquirer.net/616532/steady-gcash-growth-seen-pre-ipo",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-19T02:04:00+00:00",
+        "preview": "MANILA, Philippines — Mynt Inc.’s next phase of growth will depend on getting existing GCash users to use more financial services, analysts said, as the fintech giant prepares for its stock market debut on Tuesday.…"
+      },
+      {
+        "title": "Philippine Senator Files Resolution Seeking Chinese Ambassador’s Expulsion",
+        "link": "https://thediplomat.com/2026/10/philippine-senator-files-resolution-seeking-chinese-ambassadors-expulsion/",
+        "source_name": "The Diplomat",
+        "source_type": "global",
+        "published": "2026-10-20T03:23:00+00:00",
+        "preview": "Jing Quan prompted controversy last week when he told reporters that China could \"easily win\" a war against the Philippines."
+      },
+      {
+        "title": "GoTyme raises 2026 customer target to 12.5M",
+        "link": "https://business.inquirer.net/616629/gotyme-raises-2026-customer-target-to-12-5m",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-19T18:42:49+00:00",
+        "preview": "MANILA, Philippines — Gokongwei-backed GoTyme Bank has raised its year-end customer target to 12.5 million from 12 million, as monthly customer additions surged to 450,000-500,000, nearly doubling from its previous…"
+      },
+      {
+        "title": "GCash debuts on stock market with record P60.9-B IPO",
+        "link": "https://www.rappler.com/business/gcash-mynt-stock-market-debut-pse-listing-october-20-2026/",
+        "source_name": "Rappler — Business (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-20T02:44:20+00:00",
+        "preview": "The homegrown e-wallet giant now holds the title of the largest initial public offering in Philippine history, beating the more than P55 billion set by Monde Nissin in 2021"
+      },
+      {
+        "title": "ComClark taps UK partner for P33-B air navigation bid",
+        "link": "https://business.inquirer.net/616668/comclark-taps-uk-partner-for-p33-b-air-navigation-bid",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-20T02:07:00+00:00",
+        "preview": "MANILA, Philippines — ComClark Network and Technology Corp. of tech tycoon Dennis Anthony Uy is bringing in British air traffic management company NATS to strengthen its P33-billion bid to modernize the Philippines’ air…"
+      },
+      {
+        "title": "Relocation of settlers at US-backed Pax Silica site to begin in 2027",
+        "link": "https://business.inquirer.net/616678/relocation-of-settlers-at-us-backed-pax-silica-site-to-begin-in-2027",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-20T02:06:00+00:00",
+        "preview": "MANILA, Philippines — State-run Bases Conversion and Development Authority (BCDA) is targeting to begin the relocation of residents and farmers within the 1,619-hectare (ha) site earmarked for the US-backed Pax Silica…"
+      },
+      {
+        "title": "Taiwanese firm setting up solar float manufacturing facilities in Pampanga, Batangas",
+        "link": "https://business.inquirer.net/616674/taiwanese-firm-setting-up-solar-float-manufacturing-facilities-in-pampanga-batangas",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-20T02:05:00+00:00",
+        "preview": "MANILA, Philippines — Taiwanese solar float manufacturer Suntoward Tech Philippine Inc. will begin production in Pampanga in the first quarter of 2027, establishing its Philippine manufacturing presence through…"
+      },
+      {
+        "title": "Ignite Power-Socoteco II deal gets plebiscite approval",
+        "link": "https://business.inquirer.net/616611/ignite-power-socoteco-ii-deal-gets-plebiscite-approval",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-19T16:07:14+00:00",
+        "preview": "MANILA, Philippines — Razon-led Primelectric Holdings Inc. is entering into a joint venture with South Cotabato II Electric Cooperative (Socoteco II) after a plebiscite approved the proposed deal. In a statement, Ignite…"
+      },
+      {
+        "title": "AboitizPower lauded for contribution to Asean energy sector",
+        "link": "https://business.inquirer.net/616658/aboitizpower-lauded-for-contribution-to-asean-energy-sector",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-19T19:35:45+00:00",
+        "preview": "MANILA, Philippines — Aboitiz Power Corporation (AboitizPower) was among the organizations commended by the Association of Southeast Asian Nations (Asean) for its exemplary contribution to the region’s energy sector,…"
+      },
+      {
+        "title": "Vena Energy eyes P245-B expansion in PH",
+        "link": "https://business.inquirer.net/616526/vena-energy-eyes-p245-b-expansion-in-ph",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-19T02:03:00+00:00",
+        "preview": "MANILA, Philippines — Singapore-based Vena Energy is keen on expanding its renewable energy footprint in the Philippines by adding another 2.6 gigawatts-peak (GWp) of capacity, backed by planned investments of as much…"
+      },
+      {
+        "title": "Gasoline down P4.30/liter, diesel up P2.60",
+        "link": "https://business.inquirer.net/616593/gasoline-down-p4-30-liter-diesel-up-p2-60",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-19T10:13:38+00:00",
+        "preview": "MANILA, Philippines — Motorists will see a hefty drop in gasoline prices, while diesel prices will increase by about P2 per liter starting Tuesday. In an advisory, the Department of Energy (DOE) said fuel retailers can…"
+      },
+      {
+        "title": "Camp John Hay in for major facelift, utility upgrades",
+        "link": "https://business.inquirer.net/616602/camp-john-hay-in-for-major-facelift-utility-upgrades",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-19T16:54:12+00:00",
+        "preview": "MANILA, Philippines —The Bases Conversion and Development Authority (BCDA) is preparing to partner with the private sector to give Baguio’s iconic Camp John Hay a multibillion-peso makeover, upgrading the former…"
+      },
+      {
+        "title": "Biggest Converge data center planned for Luzon",
+        "link": "https://business.inquirer.net/616600/biggest-converge-data-center-planned-for-luzon",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-19T16:40:26+00:00",
+        "preview": "MANILA, Philippines — Converge ICT Solutions Inc. has abandoned its earlier plans to build its next major data center in the Visayas or Mindanao, instead scouting locations in Calabarzon for new facilities as it seeks…"
+      },
+      {
+        "title": "After the IPO party, GCash comes for 5-6 lending next",
+        "link": "https://www.rappler.com/business/gcash-informal-lending-growth/",
+        "source_name": "Rappler — Business (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-19T04:15:52+00:00",
+        "preview": "'There’s money in serving them,' says Mynt president and CEO Martha Sazon, as she and her team try to convince investors that lending to underserved Filipinos could fuel GCash’s next wave of growth"
+      },
+      {
+        "title": "PAL kicks off first premium seat sale",
+        "link": "https://business.inquirer.net/616595/pal-kicks-off-first-premium-seat-sale",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-19T11:08:14+00:00",
+        "preview": "MANILA, Philippines — Flag carrier Philippine Airlines (PAL) begins its first week-long sale today on business class and premium economy seats, offering discounts of up to 40 percent on international flights and up to…"
+      },
+      {
+        "title": "Waste recovery, recycling should come with ‘redesign’",
+        "link": "https://business.inquirer.net/616540/waste-recovery-recycling-should-come-with-redesign",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-19T02:09:00+00:00",
+        "preview": "MANILA, Philippines — The Philippines’ environmental problems, particularly waste management, need a whole-of-society effort to resolve. That’s the main point stressed in a recent edition of the Inquirer ESG Edge…"
+      },
+      {
+        "title": "Gov’t support to drive next Mitsubishi investment",
+        "link": "https://business.inquirer.net/616531/govt-support-to-drive-next-mitsubishi-investment",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-19T02:02:00+00:00",
+        "preview": "MANILA, Philippines — Mitsubishi Motors Philippines Corp. is keeping a close watch on the government’s automotive policies, including those of the next administration, before deciding whether to expand local production…"
+      },
+      {
+        "title": "Gasoline prices roll back as diesel goes up on October 20",
+        "link": "https://www.rappler.com/business/fuel-prices-adjustments-october-20-2026/",
+        "source_name": "Rappler — Business (Philippines)",
+        "source_type": "local",
+        "published": "2026-10-19T07:10:46+00:00",
+        "preview": "This moves opposite of last week's adjustments, when gasoline prices increased by P1.56 per liter and kerosene by P1.77, while diesel dropped by P3.01 per liter"
+      },
+      {
+        "title": "Wrap up VP trial by year-end, biz leader urges Senate",
+        "link": "https://business.inquirer.net/616589/wrap-up-vp-trial-by-year-end-biz-leader-urges-senate",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-19T05:40:00+00:00",
+        "preview": "The chair of a leading business group hopes the Senate would be able to conclude Vice President Sara Duterte’s impeachment trial before year-end, warning that prolonging the proceedings into 2027 could distract…"
+      },
+      {
+        "title": "Why your default answer should be no",
+        "link": "https://business.inquirer.net/616525/why-your-default-answer-should-be-no",
+        "source_name": "Philippine Daily Inquirer — Business",
+        "source_type": "local",
+        "published": "2026-10-19T02:06:00+00:00",
+        "preview": "MANILA, Philippines — During the COVID-19 pandemic, an Asian business owner I advise became bored. So he started a shrimp farm. He already owned a highly profitable group, sufficiently diversified around one strong core…"
+      }
+    ]
+  },
+  "article_count": 172,
+  "feed_stats": [
+    {
+      "source_id": "nyt-world",
+      "status": "ok",
+      "count": 52
+    },
+    {
+      "source_id": "nyt-business",
+      "status": "ok",
+      "count": 49
+    },
+    {
+      "source_id": "nyt-asia",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "source_id": "nyt-economy",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "source_id": "ft-world",
+      "status": "ok",
+      "count": 25
+    },
+    {
+      "source_id": "ft-asia",
+      "status": "ok",
+      "count": 25
+    },
+    {
+      "source_id": "ft-global-economy",
+      "status": "ok",
+      "count": 25
+    },
+    {
+      "source_id": "wsj-world",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "source_id": "wsj-markets",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "source_id": "economist-finance",
+      "status": "ok",
+      "count": 300
+    },
+    {
+      "source_id": "economist-asia",
+      "status": "ok",
+      "count": 300
+    },
+    {
+      "source_id": "bbc-business",
+      "status": "ok",
+      "count": 53
+    },
+    {
+      "source_id": "bbc-asia",
+      "status": "ok",
+      "count": 18
+    },
+    {
+      "source_id": "aljazeera-all",
+      "status": "ok",
+      "count": 25
+    },
+    {
+      "source_id": "guardian-business",
+      "status": "ok",
+      "count": 40
+    },
+    {
+      "source_id": "guardian-asia",
+      "status": "ok",
+      "count": 18
+    },
+    {
+      "source_id": "scmp-asia",
+      "status": "ok",
+      "count": 50
+    },
+    {
+      "source_id": "nikkei-asia",
+      "status": "ok",
+      "count": 50
+    },
+    {
+      "source_id": "the-diplomat",
+      "status": "ok",
+      "count": 96
+    },
+    {
+      "source_id": "foreign-policy",
+      "status": "ok",
+      "count": 25
+    },
+    {
+      "source_id": "csis",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "atlantic-council",
+      "status": "ok",
+      "count": 100
+    },
+    {
+      "source_id": "adb-news",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "source_id": "stimson",
+      "status": "ok",
+      "count": 12
+    },
+    {
+      "source_id": "dawn-business",
+      "status": "ok",
+      "count": 30
+    },
+    {
+      "source_id": "brecorder",
+      "status": "ok",
+      "count": 30
+    },
+    {
+      "source_id": "daily-star-business",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "dhaka-tribune",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "source_id": "kathmandu-post-money",
+      "status": "ok",
+      "count": 40
+    },
+    {
+      "source_id": "businessbhutan",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "thebhutanese",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "bhutanlive",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "mfr-mv",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "corporatemv",
+      "status": "ok",
+      "count": 24
+    },
+    {
+      "source_id": "psmnews",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "inquirer-business",
+      "status": "ok",
+      "count": 40
+    },
+    {
+      "source_id": "bworldonline",
+      "status": "ok",
+      "count": 30
+    },
+    {
+      "source_id": "rappler-business",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "tolonews",
+      "status": "ok",
+      "count": 30
+    },
+    {
+      "source_id": "khaama",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "source_id": "ariananews",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "source_id": "amu-tv",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source_id": "dawn-world",
+      "status": "ok",
+      "count": 30
+    },
+    {
+      "source_id": "thenews-pk",
+      "status": "ok",
+      "count": 50
+    }
+  ]
+}
